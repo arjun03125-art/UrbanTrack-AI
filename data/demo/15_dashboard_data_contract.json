@@ -1,0 +1,26 @@
+{
+  "scenario_id_field": "scenario_id",
+  "camera_id_field": "camera_id",
+  "tracklet_id_field": "track_id",
+  "tracklet_primary_key": [
+    "scenario_id",
+    "camera_id",
+    "track_id"
+  ],
+  "timestamp_fields": {
+    "start": "start_time",
+    "end": "end_time",
+    "observation": "timestamp"
+  },
+  "camera_registry": "01_camera_registry.json",
+  "camera_graph": "02_camera_graph.json",
+  "tracklets_json": "04_tracklets.json",
+  "observations_jsonl": "05_observations.jsonl",
+  "associations": "06_association_hypotheses.json",
+  "journeys": "07_reconstructed_journeys.json",
+  "plate_lookup": "08_plate_search_lookup.json",
+  "ground_truth_for_evaluation_only": "09_synthetic_ground_truth_links.json",
+  "traffic_csv": "10_traffic_analytics.csv",
+  "alerts": "13_alerts.json",
+  "source_warning": "All files synthetic. Never mix evaluation-only ground truth into model inference inputs."
+}

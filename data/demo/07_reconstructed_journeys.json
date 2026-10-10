@@ -1,0 +1,6587 @@
+[
+  {
+    "journey_id": "SYN_JNY_0001",
+    "scenario_id": "SYNTH_URBANTRACK_46CAM",
+    "synthetic_vehicle_id_for_ground_truth_only": "SYN_VEH_0001",
+    "tracklets": [
+      {
+        "camera_id": "SYN_CAM_03",
+        "track_id": "SYN_CAM_03_TRK_0001"
+      },
+      {
+        "camera_id": "SYN_CAM_04",
+        "track_id": "SYN_CAM_04_TRK_0001"
+      },
+      {
+        "camera_id": "SYN_CAM_05",
+        "track_id": "SYN_CAM_05_TRK_0001"
+      },
+      {
+        "camera_id": "SYN_CAM_07",
+        "track_id": "SYN_CAM_07_TRK_0001"
+      },
+      {
+        "camera_id": "SYN_CAM_09",
+        "track_id": "SYN_CAM_09_TRK_0001"
+      }
+    ],
+    "route_camera_sequence": [
+      "SYN_CAM_03",
+      "SYN_CAM_04",
+      "SYN_CAM_05",
+      "SYN_CAM_07",
+      "SYN_CAM_09"
+    ],
+    "first_seen": "2026-10-10T10:12:32.000",
+    "last_seen": "2026-10-10T10:34:09.000",
+    "route_status": "reconstructed",
+    "source_type": "synthetic_demo",
+    "synthetic": true
+  },
+  {
+    "journey_id": "SYN_JNY_0002",
+    "scenario_id": "SYNTH_URBANTRACK_46CAM",
+    "synthetic_vehicle_id_for_ground_truth_only": "SYN_VEH_0002",
+    "tracklets": [
+      {
+        "camera_id": "SYN_CAM_32",
+        "track_id": "SYN_CAM_32_TRK_0002"
+      },
+      {
+        "camera_id": "SYN_CAM_33",
+        "track_id": "SYN_CAM_33_TRK_0002"
+      },
+      {
+        "camera_id": "SYN_CAM_34",
+        "track_id": "SYN_CAM_34_TRK_0002"
+      },
+      {
+        "camera_id": "SYN_CAM_37",
+        "track_id": "SYN_CAM_37_TRK_0002"
+      }
+    ],
+    "route_camera_sequence": [
+      "SYN_CAM_32",
+      "SYN_CAM_33",
+      "SYN_CAM_34",
+      "SYN_CAM_37"
+    ],
+    "first_seen": "2026-10-10T08:01:33.000",
+    "last_seen": "2026-10-10T08:16:01.000",
+    "route_status": "reconstructed",
+    "source_type": "synthetic_demo",
+    "synthetic": true
+  },
+  {
+    "journey_id": "SYN_JNY_0003",
+    "scenario_id": "SYNTH_URBANTRACK_46CAM",
+    "synthetic_vehicle_id_for_ground_truth_only": "SYN_VEH_0003",
+    "tracklets": [
+      {
+        "camera_id": "SYN_CAM_08",
+        "track_id": "SYN_CAM_08_TRK_0003"
+      },
+      {
+        "camera_id": "SYN_CAM_11",
+        "track_id": "SYN_CAM_11_TRK_0003"
+      },
+      {
+        "camera_id": "SYN_CAM_13",
+        "track_id": "SYN_CAM_13_TRK_0003"
+      }
+    ],
+    "route_camera_sequence": [
+      "SYN_CAM_08",
+      "SYN_CAM_11",
+      "SYN_CAM_13"
+    ],
+    "first_seen": "2026-10-10T10:33:33.000",
+    "last_seen": "2026-10-10T10:40:32.000",
+    "route_status": "reconstructed",
+    "source_type": "synthetic_demo",
+    "synthetic": true
+  },
+  {
+    "journey_id": "SYN_JNY_0004",
+    "scenario_id": "SYNTH_URBANTRACK_46CAM",
+    "synthetic_vehicle_id_for_ground_truth_only": "SYN_VEH_0004",
+    "tracklets": [
+      {
+        "camera_id": "SYN_CAM_10",
+        "track_id": "SYN_CAM_10_TRK_0004"
+      },
+      {
+        "camera_id": "SYN_CAM_14",
+        "track_id": "SYN_CAM_14_TRK_0004"
+      },
+      {
+        "camera_id": "SYN_CAM_15",
+        "track_id": "SYN_CAM_15_TRK_0004"
+      }
+    ],
+    "route_camera_sequence": [
+      "SYN_CAM_10",
+      "SYN_CAM_14",
+      "SYN_CAM_15"
+    ],
+    "first_seen": "2026-10-10T09:04:50.000",
+    "last_seen": "2026-10-10T09:19:59.000",
+    "route_status": "reconstructed",
+    "source_type": "synthetic_demo",
+    "synthetic": true
+  },
+  {
+    "journey_id": "SYN_JNY_0005",
+    "scenario_id": "SYNTH_URBANTRACK_46CAM",
+    "synthetic_vehicle_id_for_ground_truth_only": "SYN_VEH_0005",
+    "tracklets": [
+      {
+        "camera_id": "SYN_CAM_37",
+        "track_id": "SYN_CAM_37_TRK_0005"
+      },
+      {
+        "camera_id": "SYN_CAM_39",
+        "track_id": "SYN_CAM_39_TRK_0005"
+      },
+      {
+        "camera_id": "SYN_CAM_43",
+        "track_id": "SYN_CAM_43_TRK_0005"
+      }
+    ],
+    "route_camera_sequence": [
+      "SYN_CAM_37",
+      "SYN_CAM_39",
+      "SYN_CAM_43"
+    ],
+    "first_seen": "2026-10-10T08:02:34.000",
+    "last_seen": "2026-10-10T08:11:11.000",
+    "route_status": "reconstructed",
+    "source_type": "synthetic_demo",
+    "synthetic": true
+  },
+  {
+    "journey_id": "SYN_JNY_0006",
+    "scenario_id": "SYNTH_URBANTRACK_46CAM",
+    "synthetic_vehicle_id_for_ground_truth_only": "SYN_VEH_0006",
+    "tracklets": [
+      {
+        "camera_id": "SYN_CAM_31",
+        "track_id": "SYN_CAM_31_TRK_0006"
+      },
+      {
+        "camera_id": "SYN_CAM_32",
+        "track_id": "SYN_CAM_32_TRK_0006"
+      },
+      {
+        "camera_id": "SYN_CAM_33",
+        "track_id": "SYN_CAM_33_TRK_0006"
+      },
+      {
+        "camera_id": "SYN_CAM_35",
+        "track_id": "SYN_CAM_35_TRK_0006"
+      }
+    ],
+    "route_camera_sequence": [
+      "SYN_CAM_31",
+      "SYN_CAM_32",
+      "SYN_CAM_33",
+      "SYN_CAM_35"
+    ],
+    "first_seen": "2026-10-10T09:54:07.000",
+    "last_seen": "2026-10-10T10:07:17.000",
+    "route_status": "reconstructed",
+    "source_type": "synthetic_demo",
+    "synthetic": true
+  },
+  {
+    "journey_id": "SYN_JNY_0007",
+    "scenario_id": "SYNTH_URBANTRACK_46CAM",
+    "synthetic_vehicle_id_for_ground_truth_only": "SYN_VEH_0007",
+    "tracklets": [
+      {
+        "camera_id": "SYN_CAM_15",
+        "track_id": "SYN_CAM_15_TRK_0007"
+      },
+      {
+        "camera_id": "SYN_CAM_18",
+        "track_id": "SYN_CAM_18_TRK_0007"
+      },
+      {
+        "camera_id": "SYN_CAM_21",
+        "track_id": "SYN_CAM_21_TRK_0007"
+      }
+    ],
+    "route_camera_sequence": [
+      "SYN_CAM_15",
+      "SYN_CAM_18",
+      "SYN_CAM_21"
+    ],
+    "first_seen": "2026-10-10T10:04:48.000",
+    "last_seen": "2026-10-10T10:11:59.000",
+    "route_status": "reconstructed",
+    "source_type": "synthetic_demo",
+    "synthetic": true
+  },
+  {
+    "journey_id": "SYN_JNY_0008",
+    "scenario_id": "SYNTH_URBANTRACK_46CAM",
+    "synthetic_vehicle_id_for_ground_truth_only": "SYN_VEH_0008",
+    "tracklets": [
+      {
+        "camera_id": "SYN_CAM_23",
+        "track_id": "SYN_CAM_23_TRK_0008"
+      },
+      {
+        "camera_id": "SYN_CAM_26",
+        "track_id": "SYN_CAM_26_TRK_0008"
+      },
+      {
+        "camera_id": "SYN_CAM_27",
+        "track_id": "SYN_CAM_27_TRK_0008"
+      }
+    ],
+    "route_camera_sequence": [
+      "SYN_CAM_23",
+      "SYN_CAM_26",
+      "SYN_CAM_27"
+    ],
+    "first_seen": "2026-10-10T10:40:11.000",
+    "last_seen": "2026-10-10T10:48:35.000",
+    "route_status": "reconstructed",
+    "source_type": "synthetic_demo",
+    "synthetic": true
+  },
+  {
+    "journey_id": "SYN_JNY_0009",
+    "scenario_id": "SYNTH_URBANTRACK_46CAM",
+    "synthetic_vehicle_id_for_ground_truth_only": "SYN_VEH_0009",
+    "tracklets": [
+      {
+        "camera_id": "SYN_CAM_16",
+        "track_id": "SYN_CAM_16_TRK_0009"
+      },
+      {
+        "camera_id": "SYN_CAM_17",
+        "track_id": "SYN_CAM_17_TRK_0009"
+      },
+      {
+        "camera_id": "SYN_CAM_19",
+        "track_id": "SYN_CAM_19_TRK_0009"
+      },
+      {
+        "camera_id": "SYN_CAM_22",
+        "track_id": "SYN_CAM_22_TRK_0009"
+      },
+      {
+        "camera_id": "SYN_CAM_24",
+        "track_id": "SYN_CAM_24_TRK_0009"
+      },
+      {
+        "camera_id": "SYN_CAM_27",
+        "track_id": "SYN_CAM_27_TRK_0009"
+      }
+    ],
+    "route_camera_sequence": [
+      "SYN_CAM_16",
+      "SYN_CAM_17",
+      "SYN_CAM_19",
+      "SYN_CAM_22",
+      "SYN_CAM_24",
+      "SYN_CAM_27"
+    ],
+    "first_seen": "2026-10-10T10:01:06.000",
+    "last_seen": "2026-10-10T10:29:19.000",
+    "route_status": "reconstructed",
+    "source_type": "synthetic_demo",
+    "synthetic": true
+  },
+  {
+    "journey_id": "SYN_JNY_0010",
+    "scenario_id": "SYNTH_URBANTRACK_46CAM",
+    "synthetic_vehicle_id_for_ground_truth_only": "SYN_VEH_0010",
+    "tracklets": [
+      {
+        "camera_id": "SYN_CAM_05",
+        "track_id": "SYN_CAM_05_TRK_0010"
+      },
+      {
+        "camera_id": "SYN_CAM_08",
+        "track_id": "SYN_CAM_08_TRK_0010"
+      },
+      {
+        "camera_id": "SYN_CAM_11",
+        "track_id": "SYN_CAM_11_TRK_0010"
+      },
+      {
+        "camera_id": "SYN_CAM_12",
+        "track_id": "SYN_CAM_12_TRK_0010"
+      },
+      {
+        "camera_id": "SYN_CAM_16",
+        "track_id": "SYN_CAM_16_TRK_0010"
+      },
+      {
+        "camera_id": "SYN_CAM_18",
+        "track_id": "SYN_CAM_18_TRK_0010"
+      },
+      {
+        "camera_id": "SYN_CAM_20",
+        "track_id": "SYN_CAM_20_TRK_0010"
+      },
+      {
+        "camera_id": "SYN_CAM_24",
+        "track_id": "SYN_CAM_24_TRK_0010"
+      },
+      {
+        "camera_id": "SYN_CAM_26",
+        "track_id": "SYN_CAM_26_TRK_0010"
+      }
+    ],
+    "route_camera_sequence": [
+      "SYN_CAM_05",
+      "SYN_CAM_08",
+      "SYN_CAM_11",
+      "SYN_CAM_12",
+      "SYN_CAM_16",
+      "SYN_CAM_18",
+      "SYN_CAM_20",
+      "SYN_CAM_24",
+      "SYN_CAM_26"
+    ],
+    "first_seen": "2026-10-10T08:13:40.000",
+    "last_seen": "2026-10-10T08:57:07.000",
+    "route_status": "reconstructed",
+    "source_type": "synthetic_demo",
+    "synthetic": true
+  },
+  {
+    "journey_id": "SYN_JNY_0011",
+    "scenario_id": "SYNTH_URBANTRACK_46CAM",
+    "synthetic_vehicle_id_for_ground_truth_only": "SYN_VEH_0011",
+    "tracklets": [
+      {
+        "camera_id": "SYN_CAM_37",
+        "track_id": "SYN_CAM_37_TRK_0011"
+      },
+      {
+        "camera_id": "SYN_CAM_42",
+        "track_id": "SYN_CAM_42_TRK_0011"
+      },
+      {
+        "camera_id": "SYN_CAM_44",
+        "track_id": "SYN_CAM_44_TRK_0011"
+      },
+      {
+        "camera_id": "SYN_CAM_46",
+        "track_id": "SYN_CAM_46_TRK_0011"
+      },
+      {
+        "camera_id": "SYN_CAM_46",
+        "track_id": "SYN_CAM_46_TRK_0011"
+      },
+      {
+        "camera_id": "SYN_CAM_46",
+        "track_id": "SYN_CAM_46_TRK_0011"
+      },
+      {
+        "camera_id": "SYN_CAM_46",
+        "track_id": "SYN_CAM_46_TRK_0011"
+      },
+      {
+        "camera_id": "SYN_CAM_46",
+        "track_id": "SYN_CAM_46_TRK_0011"
+      }
+    ],
+    "route_camera_sequence": [
+      "SYN_CAM_37",
+      "SYN_CAM_42",
+      "SYN_CAM_44",
+      "SYN_CAM_46",
+      "SYN_CAM_46",
+      "SYN_CAM_46",
+      "SYN_CAM_46",
+      "SYN_CAM_46"
+    ],
+    "first_seen": "2026-10-10T10:26:08.000",
+    "last_seen": "2026-10-10T11:00:29.000",
+    "route_status": "reconstructed_with_missing_observation",
+    "source_type": "synthetic_demo",
+    "synthetic": true
+  },
+  {
+    "journey_id": "SYN_JNY_0012",
+    "scenario_id": "SYNTH_URBANTRACK_46CAM",
+    "synthetic_vehicle_id_for_ground_truth_only": "SYN_VEH_0012",
+    "tracklets": [
+      {
+        "camera_id": "SYN_CAM_19",
+        "track_id": "SYN_CAM_19_TRK_0012"
+      },
+      {
+        "camera_id": "SYN_CAM_23",
+        "track_id": "SYN_CAM_23_TRK_0012"
+      },
+      {
+        "camera_id": "SYN_CAM_24",
+        "track_id": "SYN_CAM_24_TRK_0012"
+      }
+    ],
+    "route_camera_sequence": [
+      "SYN_CAM_19",
+      "SYN_CAM_23",
+      "SYN_CAM_24"
+    ],
+    "first_seen": "2026-10-10T09:09:24.000",
+    "last_seen": "2026-10-10T09:18:54.000",
+    "route_status": "reconstructed",
+    "source_type": "synthetic_demo",
+    "synthetic": true
+  },
+  {
+    "journey_id": "SYN_JNY_0013",
+    "scenario_id": "SYNTH_URBANTRACK_46CAM",
+    "synthetic_vehicle_id_for_ground_truth_only": "SYN_VEH_0013",
+    "tracklets": [
+      {
+        "camera_id": "SYN_CAM_20",
+        "track_id": "SYN_CAM_20_TRK_0013"
+      },
+      {
+        "camera_id": "SYN_CAM_22",
+        "track_id": "SYN_CAM_22_TRK_0013"
+      },
+      {
+        "camera_id": "SYN_CAM_23",
+        "track_id": "SYN_CAM_23_TRK_0013"
+      },
+      {
+        "camera_id": "SYN_CAM_24",
+        "track_id": "SYN_CAM_24_TRK_0013"
+      }
+    ],
+    "route_camera_sequence": [
+      "SYN_CAM_20",
+      "SYN_CAM_22",
+      "SYN_CAM_23",
+      "SYN_CAM_24"
+    ],
+    "first_seen": "2026-10-10T08:49:01.000",
+    "last_seen": "2026-10-10T09:07:36.000",
+    "route_status": "reconstructed",
+    "source_type": "synthetic_demo",
+    "synthetic": true
+  },
+  {
+    "journey_id": "SYN_JNY_0014",
+    "scenario_id": "SYNTH_URBANTRACK_46CAM",
+    "synthetic_vehicle_id_for_ground_truth_only": "SYN_VEH_0014",
+    "tracklets": [
+      {
+        "camera_id": "SYN_CAM_33",
+        "track_id": "SYN_CAM_33_TRK_0014"
+      },
+      {
+        "camera_id": "SYN_CAM_34",
+        "track_id": "SYN_CAM_34_TRK_0014"
+      },
+      {
+        "camera_id": "SYN_CAM_35",
+        "track_id": "SYN_CAM_35_TRK_0014"
+      },
+      {
+        "camera_id": "SYN_CAM_36",
+        "track_id": "SYN_CAM_36_TRK_0014"
+      },
+      {
+        "camera_id": "SYN_CAM_37",
+        "track_id": "SYN_CAM_37_TRK_0014"
+      },
+      {
+        "camera_id": "SYN_CAM_41",
+        "track_id": "SYN_CAM_41_TRK_0014"
+      }
+    ],
+    "route_camera_sequence": [
+      "SYN_CAM_33",
+      "SYN_CAM_34",
+      "SYN_CAM_35",
+      "SYN_CAM_36",
+      "SYN_CAM_37",
+      "SYN_CAM_41"
+    ],
+    "first_seen": "2026-10-10T08:14:08.000",
+    "last_seen": "2026-10-10T08:36:38.000",
+    "route_status": "reconstructed",
+    "source_type": "synthetic_demo",
+    "synthetic": true
+  },
+  {
+    "journey_id": "SYN_JNY_0015",
+    "scenario_id": "SYNTH_URBANTRACK_46CAM",
+    "synthetic_vehicle_id_for_ground_truth_only": "SYN_VEH_0015",
+    "tracklets": [
+      {
+        "camera_id": "SYN_CAM_08",
+        "track_id": "SYN_CAM_08_TRK_0015"
+      },
+      {
+        "camera_id": "SYN_CAM_09",
+        "track_id": "SYN_CAM_09_TRK_0015"
+      },
+      {
+        "camera_id": "SYN_CAM_10",
+        "track_id": "SYN_CAM_10_TRK_0015"
+      },
+      {
+        "camera_id": "SYN_CAM_12",
+        "track_id": "SYN_CAM_12_TRK_0015"
+      },
+      {
+        "camera_id": "SYN_CAM_14",
+        "track_id": "SYN_CAM_14_TRK_0015"
+      },
+      {
+        "camera_id": "SYN_CAM_15",
+        "track_id": "SYN_CAM_15_TRK_0015"
+      },
+      {
+        "camera_id": "SYN_CAM_17",
+        "track_id": "SYN_CAM_17_TRK_0015"
+      }
+    ],
+    "route_camera_sequence": [
+      "SYN_CAM_08",
+      "SYN_CAM_09",
+      "SYN_CAM_10",
+      "SYN_CAM_12",
+      "SYN_CAM_14",
+      "SYN_CAM_15",
+      "SYN_CAM_17"
+    ],
+    "first_seen": "2026-10-10T09:58:32.000",
+    "last_seen": "2026-10-10T10:24:15.000",
+    "route_status": "reconstructed",
+    "source_type": "synthetic_demo",
+    "synthetic": true
+  },
+  {
+    "journey_id": "SYN_JNY_0016",
+    "scenario_id": "SYNTH_URBANTRACK_46CAM",
+    "synthetic_vehicle_id_for_ground_truth_only": "SYN_VEH_0016",
+    "tracklets": [
+      {
+        "camera_id": "SYN_CAM_39",
+        "track_id": "SYN_CAM_39_TRK_0016"
+      },
+      {
+        "camera_id": "SYN_CAM_40",
+        "track_id": "SYN_CAM_40_TRK_0016"
+      },
+      {
+        "camera_id": "SYN_CAM_43",
+        "track_id": "SYN_CAM_43_TRK_0016"
+      },
+      {
+        "camera_id": "SYN_CAM_44",
+        "track_id": "SYN_CAM_44_TRK_0016"
+      },
+      {
+        "camera_id": "SYN_CAM_45",
+        "track_id": "SYN_CAM_45_TRK_0016"
+      }
+    ],
+    "route_camera_sequence": [
+      "SYN_CAM_39",
+      "SYN_CAM_40",
+      "SYN_CAM_43",
+      "SYN_CAM_44",
+      "SYN_CAM_45"
+    ],
+    "first_seen": "2026-10-10T10:26:08.000",
+    "last_seen": "2026-10-10T10:46:38.000",
+    "route_status": "reconstructed",
+    "source_type": "synthetic_demo",
+    "synthetic": true
+  },
+  {
+    "journey_id": "SYN_JNY_0017",
+    "scenario_id": "SYNTH_URBANTRACK_46CAM",
+    "synthetic_vehicle_id_for_ground_truth_only": "SYN_VEH_0017",
+    "tracklets": [
+      {
+        "camera_id": "SYN_CAM_08",
+        "track_id": "SYN_CAM_08_TRK_0017"
+      },
+      {
+        "camera_id": "SYN_CAM_09",
+        "track_id": "SYN_CAM_09_TRK_0017"
+      },
+      {
+        "camera_id": "SYN_CAM_11",
+        "track_id": "SYN_CAM_11_TRK_0017"
+      },
+      {
+        "camera_id": "SYN_CAM_13",
+        "track_id": "SYN_CAM_13_TRK_0017"
+      },
+      {
+        "camera_id": "SYN_CAM_16",
+        "track_id": "SYN_CAM_16_TRK_0017"
+      },
+      {
+        "camera_id": "SYN_CAM_20",
+        "track_id": "SYN_CAM_20_TRK_0017"
+      }
+    ],
+    "route_camera_sequence": [
+      "SYN_CAM_08",
+      "SYN_CAM_09",
+      "SYN_CAM_11",
+      "SYN_CAM_13",
+      "SYN_CAM_16",
+      "SYN_CAM_20"
+    ],
+    "first_seen": "2026-10-10T08:53:09.000",
+    "last_seen": "2026-10-10T09:19:34.000",
+    "route_status": "reconstructed",
+    "source_type": "synthetic_demo",
+    "synthetic": true
+  },
+  {
+    "journey_id": "SYN_JNY_0018",
+    "scenario_id": "SYNTH_URBANTRACK_46CAM",
+    "synthetic_vehicle_id_for_ground_truth_only": "SYN_VEH_0018",
+    "tracklets": [
+      {
+        "camera_id": "SYN_CAM_36",
+        "track_id": "SYN_CAM_36_TRK_0018"
+      },
+      {
+        "camera_id": "SYN_CAM_37",
+        "track_id": "SYN_CAM_37_TRK_0018"
+      },
+      {
+        "camera_id": "SYN_CAM_39",
+        "track_id": "SYN_CAM_39_TRK_0018"
+      },
+      {
+        "camera_id": "SYN_CAM_41",
+        "track_id": "SYN_CAM_41_TRK_0018"
+      }
+    ],
+    "route_camera_sequence": [
+      "SYN_CAM_36",
+      "SYN_CAM_37",
+      "SYN_CAM_39",
+      "SYN_CAM_41"
+    ],
+    "first_seen": "2026-10-10T09:22:42.000",
+    "last_seen": "2026-10-10T09:33:41.000",
+    "route_status": "reconstructed",
+    "source_type": "synthetic_demo",
+    "synthetic": true
+  },
+  {
+    "journey_id": "SYN_JNY_0019",
+    "scenario_id": "SYNTH_URBANTRACK_46CAM",
+    "synthetic_vehicle_id_for_ground_truth_only": "SYN_VEH_0019",
+    "tracklets": [
+      {
+        "camera_id": "SYN_CAM_16",
+        "track_id": "SYN_CAM_16_TRK_0019"
+      },
+      {
+        "camera_id": "SYN_CAM_19",
+        "track_id": "SYN_CAM_19_TRK_0019"
+      },
+      {
+        "camera_id": "SYN_CAM_21",
+        "track_id": "SYN_CAM_21_TRK_0019"
+      },
+      {
+        "camera_id": "SYN_CAM_23",
+        "track_id": "SYN_CAM_23_TRK_0019"
+      },
+      {
+        "camera_id": "SYN_CAM_26",
+        "track_id": "SYN_CAM_26_TRK_0019"
+      },
+      {
+        "camera_id": "SYN_CAM_29",
+        "track_id": "SYN_CAM_29_TRK_0019"
+      },
+      {
+        "camera_id": "SYN_CAM_33",
+        "track_id": "SYN_CAM_33_TRK_0019"
+      },
+      {
+        "camera_id": "SYN_CAM_36",
+        "track_id": "SYN_CAM_36_TRK_0019"
+      }
+    ],
+    "route_camera_sequence": [
+      "SYN_CAM_16",
+      "SYN_CAM_19",
+      "SYN_CAM_21",
+      "SYN_CAM_23",
+      "SYN_CAM_26",
+      "SYN_CAM_29",
+      "SYN_CAM_33",
+      "SYN_CAM_36"
+    ],
+    "first_seen": "2026-10-10T09:37:52.000",
+    "last_seen": "2026-10-10T10:01:59.000",
+    "route_status": "reconstructed",
+    "source_type": "synthetic_demo",
+    "synthetic": true
+  },
+  {
+    "journey_id": "SYN_JNY_0020",
+    "scenario_id": "SYNTH_URBANTRACK_46CAM",
+    "synthetic_vehicle_id_for_ground_truth_only": "SYN_VEH_0020",
+    "tracklets": [
+      {
+        "camera_id": "SYN_CAM_11",
+        "track_id": "SYN_CAM_11_TRK_0020"
+      },
+      {
+        "camera_id": "SYN_CAM_14",
+        "track_id": "SYN_CAM_14_TRK_0020"
+      },
+      {
+        "camera_id": "SYN_CAM_15",
+        "track_id": "SYN_CAM_15_TRK_0020"
+      },
+      {
+        "camera_id": "SYN_CAM_16",
+        "track_id": "SYN_CAM_16_TRK_0020"
+      }
+    ],
+    "route_camera_sequence": [
+      "SYN_CAM_11",
+      "SYN_CAM_14",
+      "SYN_CAM_15",
+      "SYN_CAM_16"
+    ],
+    "first_seen": "2026-10-10T09:48:46.000",
+    "last_seen": "2026-10-10T10:06:38.000",
+    "route_status": "reconstructed",
+    "source_type": "synthetic_demo",
+    "synthetic": true
+  },
+  {
+    "journey_id": "SYN_JNY_0021",
+    "scenario_id": "SYNTH_URBANTRACK_46CAM",
+    "synthetic_vehicle_id_for_ground_truth_only": "SYN_VEH_0021",
+    "tracklets": [
+      {
+        "camera_id": "SYN_CAM_11",
+        "track_id": "SYN_CAM_11_TRK_0021"
+      },
+      {
+        "camera_id": "SYN_CAM_15",
+        "track_id": "SYN_CAM_15_TRK_0021"
+      },
+      {
+        "camera_id": "SYN_CAM_19",
+        "track_id": "SYN_CAM_19_TRK_0021"
+      },
+      {
+        "camera_id": "SYN_CAM_20",
+        "track_id": "SYN_CAM_20_TRK_0021"
+      },
+      {
+        "camera_id": "SYN_CAM_22",
+        "track_id": "SYN_CAM_22_TRK_0021"
+      }
+    ],
+    "route_camera_sequence": [
+      "SYN_CAM_11",
+      "SYN_CAM_15",
+      "SYN_CAM_19",
+      "SYN_CAM_20",
+      "SYN_CAM_22"
+    ],
+    "first_seen": "2026-10-10T09:00:00.000",
+    "last_seen": "2026-10-10T09:16:44.000",
+    "route_status": "reconstructed",
+    "source_type": "synthetic_demo",
+    "synthetic": true
+  },
+  {
+    "journey_id": "SYN_JNY_0022",
+    "scenario_id": "SYNTH_URBANTRACK_46CAM",
+    "synthetic_vehicle_id_for_ground_truth_only": "SYN_VEH_0022",
+    "tracklets": [
+      {
+        "camera_id": "SYN_CAM_01",
+        "track_id": "SYN_CAM_01_TRK_0022"
+      },
+      {
+        "camera_id": "SYN_CAM_05",
+        "track_id": "SYN_CAM_05_TRK_0022"
+      },
+      {
+        "camera_id": "SYN_CAM_07",
+        "track_id": "SYN_CAM_07_TRK_0022"
+      },
+      {
+        "camera_id": "SYN_CAM_09",
+        "track_id": "SYN_CAM_09_TRK_0022"
+      },
+      {
+        "camera_id": "SYN_CAM_11",
+        "track_id": "SYN_CAM_11_TRK_0022"
+      },
+      {
+        "camera_id": "SYN_CAM_13",
+        "track_id": "SYN_CAM_13_TRK_0022"
+      }
+    ],
+    "route_camera_sequence": [
+      "SYN_CAM_01",
+      "SYN_CAM_05",
+      "SYN_CAM_07",
+      "SYN_CAM_09",
+      "SYN_CAM_11",
+      "SYN_CAM_13"
+    ],
+    "first_seen": "2026-10-10T10:24:15.000",
+    "last_seen": "2026-10-10T10:42:07.000",
+    "route_status": "reconstructed_with_missing_observation",
+    "source_type": "synthetic_demo",
+    "synthetic": true
+  },
+  {
+    "journey_id": "SYN_JNY_0023",
+    "scenario_id": "SYNTH_URBANTRACK_46CAM",
+    "synthetic_vehicle_id_for_ground_truth_only": "SYN_VEH_0023",
+    "tracklets": [
+      {
+        "camera_id": "SYN_CAM_26",
+        "track_id": "SYN_CAM_26_TRK_0023"
+      },
+      {
+        "camera_id": "SYN_CAM_28",
+        "track_id": "SYN_CAM_28_TRK_0023"
+      },
+      {
+        "camera_id": "SYN_CAM_29",
+        "track_id": "SYN_CAM_29_TRK_0023"
+      },
+      {
+        "camera_id": "SYN_CAM_33",
+        "track_id": "SYN_CAM_33_TRK_0023"
+      },
+      {
+        "camera_id": "SYN_CAM_35",
+        "track_id": "SYN_CAM_35_TRK_0023"
+      },
+      {
+        "camera_id": "SYN_CAM_37",
+        "track_id": "SYN_CAM_37_TRK_0023"
+      },
+      {
+        "camera_id": "SYN_CAM_38",
+        "track_id": "SYN_CAM_38_TRK_0023"
+      },
+      {
+        "camera_id": "SYN_CAM_42",
+        "track_id": "SYN_CAM_42_TRK_0023"
+      }
+    ],
+    "route_camera_sequence": [
+      "SYN_CAM_26",
+      "SYN_CAM_28",
+      "SYN_CAM_29",
+      "SYN_CAM_33",
+      "SYN_CAM_35",
+      "SYN_CAM_37",
+      "SYN_CAM_38",
+      "SYN_CAM_42"
+    ],
+    "first_seen": "2026-10-10T10:26:35.000",
+    "last_seen": "2026-10-10T10:56:23.000",
+    "route_status": "reconstructed",
+    "source_type": "synthetic_demo",
+    "synthetic": true
+  },
+  {
+    "journey_id": "SYN_JNY_0024",
+    "scenario_id": "SYNTH_URBANTRACK_46CAM",
+    "synthetic_vehicle_id_for_ground_truth_only": "SYN_VEH_0024",
+    "tracklets": [
+      {
+        "camera_id": "SYN_CAM_21",
+        "track_id": "SYN_CAM_21_TRK_0024"
+      },
+      {
+        "camera_id": "SYN_CAM_23",
+        "track_id": "SYN_CAM_23_TRK_0024"
+      },
+      {
+        "camera_id": "SYN_CAM_24",
+        "track_id": "SYN_CAM_24_TRK_0024"
+      },
+      {
+        "camera_id": "SYN_CAM_26",
+        "track_id": "SYN_CAM_26_TRK_0024"
+      },
+      {
+        "camera_id": "SYN_CAM_30",
+        "track_id": "SYN_CAM_30_TRK_0024"
+      },
+      {
+        "camera_id": "SYN_CAM_32",
+        "track_id": "SYN_CAM_32_TRK_0024"
+      }
+    ],
+    "route_camera_sequence": [
+      "SYN_CAM_21",
+      "SYN_CAM_23",
+      "SYN_CAM_24",
+      "SYN_CAM_26",
+      "SYN_CAM_30",
+      "SYN_CAM_32"
+    ],
+    "first_seen": "2026-10-10T09:59:50.000",
+    "last_seen": "2026-10-10T10:23:50.000",
+    "route_status": "reconstructed",
+    "source_type": "synthetic_demo",
+    "synthetic": true
+  },
+  {
+    "journey_id": "SYN_JNY_0025",
+    "scenario_id": "SYNTH_URBANTRACK_46CAM",
+    "synthetic_vehicle_id_for_ground_truth_only": "SYN_VEH_0025",
+    "tracklets": [
+      {
+        "camera_id": "SYN_CAM_08",
+        "track_id": "SYN_CAM_08_TRK_0025"
+      },
+      {
+        "camera_id": "SYN_CAM_12",
+        "track_id": "SYN_CAM_12_TRK_0025"
+      },
+      {
+        "camera_id": "SYN_CAM_13",
+        "track_id": "SYN_CAM_13_TRK_0025"
+      },
+      {
+        "camera_id": "SYN_CAM_14",
+        "track_id": "SYN_CAM_14_TRK_0025"
+      },
+      {
+        "camera_id": "SYN_CAM_16",
+        "track_id": "SYN_CAM_16_TRK_0025"
+      }
+    ],
+    "route_camera_sequence": [
+      "SYN_CAM_08",
+      "SYN_CAM_12",
+      "SYN_CAM_13",
+      "SYN_CAM_14",
+      "SYN_CAM_16"
+    ],
+    "first_seen": "2026-10-10T09:28:38.000",
+    "last_seen": "2026-10-10T09:51:37.000",
+    "route_status": "reconstructed",
+    "source_type": "synthetic_demo",
+    "synthetic": true
+  },
+  {
+    "journey_id": "SYN_JNY_0026",
+    "scenario_id": "SYNTH_URBANTRACK_46CAM",
+    "synthetic_vehicle_id_for_ground_truth_only": "SYN_VEH_0026",
+    "tracklets": [
+      {
+        "camera_id": "SYN_CAM_18",
+        "track_id": "SYN_CAM_18_TRK_0026"
+      },
+      {
+        "camera_id": "SYN_CAM_19",
+        "track_id": "SYN_CAM_19_TRK_0026"
+      },
+      {
+        "camera_id": "SYN_CAM_20",
+        "track_id": "SYN_CAM_20_TRK_0026"
+      },
+      {
+        "camera_id": "SYN_CAM_24",
+        "track_id": "SYN_CAM_24_TRK_0026"
+      },
+      {
+        "camera_id": "SYN_CAM_26",
+        "track_id": "SYN_CAM_26_TRK_0026"
+      }
+    ],
+    "route_camera_sequence": [
+      "SYN_CAM_18",
+      "SYN_CAM_19",
+      "SYN_CAM_20",
+      "SYN_CAM_24",
+      "SYN_CAM_26"
+    ],
+    "first_seen": "2026-10-10T09:00:28.000",
+    "last_seen": "2026-10-10T09:24:14.000",
+    "route_status": "reconstructed",
+    "source_type": "synthetic_demo",
+    "synthetic": true
+  },
+  {
+    "journey_id": "SYN_JNY_0027",
+    "scenario_id": "SYNTH_URBANTRACK_46CAM",
+    "synthetic_vehicle_id_for_ground_truth_only": "SYN_VEH_0027",
+    "tracklets": [
+      {
+        "camera_id": "SYN_CAM_22",
+        "track_id": "SYN_CAM_22_TRK_0027"
+      },
+      {
+        "camera_id": "SYN_CAM_23",
+        "track_id": "SYN_CAM_23_TRK_0027"
+      },
+      {
+        "camera_id": "SYN_CAM_27",
+        "track_id": "SYN_CAM_27_TRK_0027"
+      },
+      {
+        "camera_id": "SYN_CAM_29",
+        "track_id": "SYN_CAM_29_TRK_0027"
+      },
+      {
+        "camera_id": "SYN_CAM_32",
+        "track_id": "SYN_CAM_32_TRK_0027"
+      },
+      {
+        "camera_id": "SYN_CAM_33",
+        "track_id": "SYN_CAM_33_TRK_0027"
+      },
+      {
+        "camera_id": "SYN_CAM_35",
+        "track_id": "SYN_CAM_35_TRK_0027"
+      },
+      {
+        "camera_id": "SYN_CAM_36",
+        "track_id": "SYN_CAM_36_TRK_0027"
+      }
+    ],
+    "route_camera_sequence": [
+      "SYN_CAM_22",
+      "SYN_CAM_23",
+      "SYN_CAM_27",
+      "SYN_CAM_29",
+      "SYN_CAM_32",
+      "SYN_CAM_33",
+      "SYN_CAM_35",
+      "SYN_CAM_36"
+    ],
+    "first_seen": "2026-10-10T09:39:05.000",
+    "last_seen": "2026-10-10T10:06:16.000",
+    "route_status": "reconstructed",
+    "source_type": "synthetic_demo",
+    "synthetic": true
+  },
+  {
+    "journey_id": "SYN_JNY_0028",
+    "scenario_id": "SYNTH_URBANTRACK_46CAM",
+    "synthetic_vehicle_id_for_ground_truth_only": "SYN_VEH_0028",
+    "tracklets": [
+      {
+        "camera_id": "SYN_CAM_14",
+        "track_id": "SYN_CAM_14_TRK_0028"
+      },
+      {
+        "camera_id": "SYN_CAM_15",
+        "track_id": "SYN_CAM_15_TRK_0028"
+      },
+      {
+        "camera_id": "SYN_CAM_17",
+        "track_id": "SYN_CAM_17_TRK_0028"
+      },
+      {
+        "camera_id": "SYN_CAM_18",
+        "track_id": "SYN_CAM_18_TRK_0028"
+      },
+      {
+        "camera_id": "SYN_CAM_19",
+        "track_id": "SYN_CAM_19_TRK_0028"
+      },
+      {
+        "camera_id": "SYN_CAM_22",
+        "track_id": "SYN_CAM_22_TRK_0028"
+      },
+      {
+        "camera_id": "SYN_CAM_24",
+        "track_id": "SYN_CAM_24_TRK_0028"
+      },
+      {
+        "camera_id": "SYN_CAM_28",
+        "track_id": "SYN_CAM_28_TRK_0028"
+      },
+      {
+        "camera_id": "SYN_CAM_29",
+        "track_id": "SYN_CAM_29_TRK_0028"
+      }
+    ],
+    "route_camera_sequence": [
+      "SYN_CAM_14",
+      "SYN_CAM_15",
+      "SYN_CAM_17",
+      "SYN_CAM_18",
+      "SYN_CAM_19",
+      "SYN_CAM_22",
+      "SYN_CAM_24",
+      "SYN_CAM_28",
+      "SYN_CAM_29"
+    ],
+    "first_seen": "2026-10-10T08:07:59.000",
+    "last_seen": "2026-10-10T08:52:13.000",
+    "route_status": "reconstructed",
+    "source_type": "synthetic_demo",
+    "synthetic": true
+  },
+  {
+    "journey_id": "SYN_JNY_0029",
+    "scenario_id": "SYNTH_URBANTRACK_46CAM",
+    "synthetic_vehicle_id_for_ground_truth_only": "SYN_VEH_0029",
+    "tracklets": [
+      {
+        "camera_id": "SYN_CAM_08",
+        "track_id": "SYN_CAM_08_TRK_0029"
+      },
+      {
+        "camera_id": "SYN_CAM_09",
+        "track_id": "SYN_CAM_09_TRK_0029"
+      },
+      {
+        "camera_id": "SYN_CAM_10",
+        "track_id": "SYN_CAM_10_TRK_0029"
+      },
+      {
+        "camera_id": "SYN_CAM_13",
+        "track_id": "SYN_CAM_13_TRK_0029"
+      },
+      {
+        "camera_id": "SYN_CAM_15",
+        "track_id": "SYN_CAM_15_TRK_0029"
+      },
+      {
+        "camera_id": "SYN_CAM_16",
+        "track_id": "SYN_CAM_16_TRK_0029"
+      },
+      {
+        "camera_id": "SYN_CAM_17",
+        "track_id": "SYN_CAM_17_TRK_0029"
+      },
+      {
+        "camera_id": "SYN_CAM_20",
+        "track_id": "SYN_CAM_20_TRK_0029"
+      }
+    ],
+    "route_camera_sequence": [
+      "SYN_CAM_08",
+      "SYN_CAM_09",
+      "SYN_CAM_10",
+      "SYN_CAM_13",
+      "SYN_CAM_15",
+      "SYN_CAM_16",
+      "SYN_CAM_17",
+      "SYN_CAM_20"
+    ],
+    "first_seen": "2026-10-10T08:51:02.000",
+    "last_seen": "2026-10-10T09:31:08.000",
+    "route_status": "reconstructed",
+    "source_type": "synthetic_demo",
+    "synthetic": true
+  },
+  {
+    "journey_id": "SYN_JNY_0030",
+    "scenario_id": "SYNTH_URBANTRACK_46CAM",
+    "synthetic_vehicle_id_for_ground_truth_only": "SYN_VEH_0030",
+    "tracklets": [
+      {
+        "camera_id": "SYN_CAM_07",
+        "track_id": "SYN_CAM_07_TRK_0030"
+      },
+      {
+        "camera_id": "SYN_CAM_08",
+        "track_id": "SYN_CAM_08_TRK_0030"
+      },
+      {
+        "camera_id": "SYN_CAM_09",
+        "track_id": "SYN_CAM_09_TRK_0030"
+      },
+      {
+        "camera_id": "SYN_CAM_11",
+        "track_id": "SYN_CAM_11_TRK_0030"
+      },
+      {
+        "camera_id": "SYN_CAM_12",
+        "track_id": "SYN_CAM_12_TRK_0030"
+      },
+      {
+        "camera_id": "SYN_CAM_14",
+        "track_id": "SYN_CAM_14_TRK_0030"
+      }
+    ],
+    "route_camera_sequence": [
+      "SYN_CAM_07",
+      "SYN_CAM_08",
+      "SYN_CAM_09",
+      "SYN_CAM_11",
+      "SYN_CAM_12",
+      "SYN_CAM_14"
+    ],
+    "first_seen": "2026-10-10T10:06:04.000",
+    "last_seen": "2026-10-10T10:29:17.000",
+    "route_status": "reconstructed",
+    "source_type": "synthetic_demo",
+    "synthetic": true
+  },
+  {
+    "journey_id": "SYN_JNY_0031",
+    "scenario_id": "SYNTH_URBANTRACK_46CAM",
+    "synthetic_vehicle_id_for_ground_truth_only": "SYN_VEH_0031",
+    "tracklets": [
+      {
+        "camera_id": "SYN_CAM_07",
+        "track_id": "SYN_CAM_07_TRK_0031"
+      },
+      {
+        "camera_id": "SYN_CAM_08",
+        "track_id": "SYN_CAM_08_TRK_0031"
+      },
+      {
+        "camera_id": "SYN_CAM_10",
+        "track_id": "SYN_CAM_10_TRK_0031"
+      },
+      {
+        "camera_id": "SYN_CAM_13",
+        "track_id": "SYN_CAM_13_TRK_0031"
+      },
+      {
+        "camera_id": "SYN_CAM_15",
+        "track_id": "SYN_CAM_15_TRK_0031"
+      }
+    ],
+    "route_camera_sequence": [
+      "SYN_CAM_07",
+      "SYN_CAM_08",
+      "SYN_CAM_10",
+      "SYN_CAM_13",
+      "SYN_CAM_15"
+    ],
+    "first_seen": "2026-10-10T09:46:21.000",
+    "last_seen": "2026-10-10T10:02:14.000",
+    "route_status": "reconstructed",
+    "source_type": "synthetic_demo",
+    "synthetic": true
+  },
+  {
+    "journey_id": "SYN_JNY_0032",
+    "scenario_id": "SYNTH_URBANTRACK_46CAM",
+    "synthetic_vehicle_id_for_ground_truth_only": "SYN_VEH_0032",
+    "tracklets": [
+      {
+        "camera_id": "SYN_CAM_39",
+        "track_id": "SYN_CAM_39_TRK_0032"
+      },
+      {
+        "camera_id": "SYN_CAM_43",
+        "track_id": "SYN_CAM_43_TRK_0032"
+      },
+      {
+        "camera_id": "SYN_CAM_45",
+        "track_id": "SYN_CAM_45_TRK_0032"
+      },
+      {
+        "camera_id": "SYN_CAM_46",
+        "track_id": "SYN_CAM_46_TRK_0032"
+      },
+      {
+        "camera_id": "SYN_CAM_46",
+        "track_id": "SYN_CAM_46_TRK_0032"
+      },
+      {
+        "camera_id": "SYN_CAM_46",
+        "track_id": "SYN_CAM_46_TRK_0032"
+      },
+      {
+        "camera_id": "SYN_CAM_46",
+        "track_id": "SYN_CAM_46_TRK_0032"
+      },
+      {
+        "camera_id": "SYN_CAM_46",
+        "track_id": "SYN_CAM_46_TRK_0032"
+      }
+    ],
+    "route_camera_sequence": [
+      "SYN_CAM_39",
+      "SYN_CAM_43",
+      "SYN_CAM_45",
+      "SYN_CAM_46",
+      "SYN_CAM_46",
+      "SYN_CAM_46",
+      "SYN_CAM_46",
+      "SYN_CAM_46"
+    ],
+    "first_seen": "2026-10-10T10:31:27.000",
+    "last_seen": "2026-10-10T10:58:14.000",
+    "route_status": "reconstructed",
+    "source_type": "synthetic_demo",
+    "synthetic": true
+  },
+  {
+    "journey_id": "SYN_JNY_0033",
+    "scenario_id": "SYNTH_URBANTRACK_46CAM",
+    "synthetic_vehicle_id_for_ground_truth_only": "SYN_VEH_0033",
+    "tracklets": [
+      {
+        "camera_id": "SYN_CAM_24",
+        "track_id": "SYN_CAM_24_TRK_0033"
+      },
+      {
+        "camera_id": "SYN_CAM_26",
+        "track_id": "SYN_CAM_26_TRK_0033"
+      },
+      {
+        "camera_id": "SYN_CAM_29",
+        "track_id": "SYN_CAM_29_TRK_0033"
+      },
+      {
+        "camera_id": "SYN_CAM_30",
+        "track_id": "SYN_CAM_30_TRK_0033"
+      },
+      {
+        "camera_id": "SYN_CAM_33",
+        "track_id": "SYN_CAM_33_TRK_0033"
+      },
+      {
+        "camera_id": "SYN_CAM_34",
+        "track_id": "SYN_CAM_34_TRK_0033"
+      },
+      {
+        "camera_id": "SYN_CAM_36",
+        "track_id": "SYN_CAM_36_TRK_0033"
+      },
+      {
+        "camera_id": "SYN_CAM_40",
+        "track_id": "SYN_CAM_40_TRK_0033"
+      }
+    ],
+    "route_camera_sequence": [
+      "SYN_CAM_24",
+      "SYN_CAM_26",
+      "SYN_CAM_29",
+      "SYN_CAM_30",
+      "SYN_CAM_33",
+      "SYN_CAM_34",
+      "SYN_CAM_36",
+      "SYN_CAM_40"
+    ],
+    "first_seen": "2026-10-10T09:36:51.000",
+    "last_seen": "2026-10-10T10:20:36.000",
+    "route_status": "reconstructed_with_missing_observation",
+    "source_type": "synthetic_demo",
+    "synthetic": true
+  },
+  {
+    "journey_id": "SYN_JNY_0034",
+    "scenario_id": "SYNTH_URBANTRACK_46CAM",
+    "synthetic_vehicle_id_for_ground_truth_only": "SYN_VEH_0034",
+    "tracklets": [
+      {
+        "camera_id": "SYN_CAM_22",
+        "track_id": "SYN_CAM_22_TRK_0034"
+      },
+      {
+        "camera_id": "SYN_CAM_24",
+        "track_id": "SYN_CAM_24_TRK_0034"
+      },
+      {
+        "camera_id": "SYN_CAM_28",
+        "track_id": "SYN_CAM_28_TRK_0034"
+      },
+      {
+        "camera_id": "SYN_CAM_31",
+        "track_id": "SYN_CAM_31_TRK_0034"
+      },
+      {
+        "camera_id": "SYN_CAM_32",
+        "track_id": "SYN_CAM_32_TRK_0034"
+      },
+      {
+        "camera_id": "SYN_CAM_35",
+        "track_id": "SYN_CAM_35_TRK_0034"
+      },
+      {
+        "camera_id": "SYN_CAM_36",
+        "track_id": "SYN_CAM_36_TRK_0034"
+      },
+      {
+        "camera_id": "SYN_CAM_37",
+        "track_id": "SYN_CAM_37_TRK_0034"
+      }
+    ],
+    "route_camera_sequence": [
+      "SYN_CAM_22",
+      "SYN_CAM_24",
+      "SYN_CAM_28",
+      "SYN_CAM_31",
+      "SYN_CAM_32",
+      "SYN_CAM_35",
+      "SYN_CAM_36",
+      "SYN_CAM_37"
+    ],
+    "first_seen": "2026-10-10T09:12:23.000",
+    "last_seen": "2026-10-10T09:45:17.000",
+    "route_status": "reconstructed",
+    "source_type": "synthetic_demo",
+    "synthetic": true
+  },
+  {
+    "journey_id": "SYN_JNY_0035",
+    "scenario_id": "SYNTH_URBANTRACK_46CAM",
+    "synthetic_vehicle_id_for_ground_truth_only": "SYN_VEH_0035",
+    "tracklets": [
+      {
+        "camera_id": "SYN_CAM_10",
+        "track_id": "SYN_CAM_10_TRK_0035"
+      },
+      {
+        "camera_id": "SYN_CAM_13",
+        "track_id": "SYN_CAM_13_TRK_0035"
+      },
+      {
+        "camera_id": "SYN_CAM_14",
+        "track_id": "SYN_CAM_14_TRK_0035"
+      },
+      {
+        "camera_id": "SYN_CAM_18",
+        "track_id": "SYN_CAM_18_TRK_0035"
+      },
+      {
+        "camera_id": "SYN_CAM_20",
+        "track_id": "SYN_CAM_20_TRK_0035"
+      },
+      {
+        "camera_id": "SYN_CAM_23",
+        "track_id": "SYN_CAM_23_TRK_0035"
+      },
+      {
+        "camera_id": "SYN_CAM_27",
+        "track_id": "SYN_CAM_27_TRK_0035"
+      }
+    ],
+    "route_camera_sequence": [
+      "SYN_CAM_10",
+      "SYN_CAM_13",
+      "SYN_CAM_14",
+      "SYN_CAM_18",
+      "SYN_CAM_20",
+      "SYN_CAM_23",
+      "SYN_CAM_27"
+    ],
+    "first_seen": "2026-10-10T08:27:42.000",
+    "last_seen": "2026-10-10T08:56:41.000",
+    "route_status": "reconstructed",
+    "source_type": "synthetic_demo",
+    "synthetic": true
+  },
+  {
+    "journey_id": "SYN_JNY_0036",
+    "scenario_id": "SYNTH_URBANTRACK_46CAM",
+    "synthetic_vehicle_id_for_ground_truth_only": "SYN_VEH_0036",
+    "tracklets": [
+      {
+        "camera_id": "SYN_CAM_09",
+        "track_id": "SYN_CAM_09_TRK_0036"
+      },
+      {
+        "camera_id": "SYN_CAM_13",
+        "track_id": "SYN_CAM_13_TRK_0036"
+      },
+      {
+        "camera_id": "SYN_CAM_14",
+        "track_id": "SYN_CAM_14_TRK_0036"
+      },
+      {
+        "camera_id": "SYN_CAM_15",
+        "track_id": "SYN_CAM_15_TRK_0036"
+      },
+      {
+        "camera_id": "SYN_CAM_17",
+        "track_id": "SYN_CAM_17_TRK_0036"
+      },
+      {
+        "camera_id": "SYN_CAM_21",
+        "track_id": "SYN_CAM_21_TRK_0036"
+      },
+      {
+        "camera_id": "SYN_CAM_22",
+        "track_id": "SYN_CAM_22_TRK_0036"
+      }
+    ],
+    "route_camera_sequence": [
+      "SYN_CAM_09",
+      "SYN_CAM_13",
+      "SYN_CAM_14",
+      "SYN_CAM_15",
+      "SYN_CAM_17",
+      "SYN_CAM_21",
+      "SYN_CAM_22"
+    ],
+    "first_seen": "2026-10-10T08:28:36.000",
+    "last_seen": "2026-10-10T08:56:11.000",
+    "route_status": "reconstructed",
+    "source_type": "synthetic_demo",
+    "synthetic": true
+  },
+  {
+    "journey_id": "SYN_JNY_0037",
+    "scenario_id": "SYNTH_URBANTRACK_46CAM",
+    "synthetic_vehicle_id_for_ground_truth_only": "SYN_VEH_0037",
+    "tracklets": [
+      {
+        "camera_id": "SYN_CAM_19",
+        "track_id": "SYN_CAM_19_TRK_0037"
+      },
+      {
+        "camera_id": "SYN_CAM_20",
+        "track_id": "SYN_CAM_20_TRK_0037"
+      },
+      {
+        "camera_id": "SYN_CAM_21",
+        "track_id": "SYN_CAM_21_TRK_0037"
+      },
+      {
+        "camera_id": "SYN_CAM_24",
+        "track_id": "SYN_CAM_24_TRK_0037"
+      },
+      {
+        "camera_id": "SYN_CAM_26",
+        "track_id": "SYN_CAM_26_TRK_0037"
+      },
+      {
+        "camera_id": "SYN_CAM_27",
+        "track_id": "SYN_CAM_27_TRK_0037"
+      },
+      {
+        "camera_id": "SYN_CAM_28",
+        "track_id": "SYN_CAM_28_TRK_0037"
+      },
+      {
+        "camera_id": "SYN_CAM_29",
+        "track_id": "SYN_CAM_29_TRK_0037"
+      }
+    ],
+    "route_camera_sequence": [
+      "SYN_CAM_19",
+      "SYN_CAM_20",
+      "SYN_CAM_21",
+      "SYN_CAM_24",
+      "SYN_CAM_26",
+      "SYN_CAM_27",
+      "SYN_CAM_28",
+      "SYN_CAM_29"
+    ],
+    "first_seen": "2026-10-10T10:11:57.000",
+    "last_seen": "2026-10-10T10:42:45.000",
+    "route_status": "reconstructed",
+    "source_type": "synthetic_demo",
+    "synthetic": true
+  },
+  {
+    "journey_id": "SYN_JNY_0038",
+    "scenario_id": "SYNTH_URBANTRACK_46CAM",
+    "synthetic_vehicle_id_for_ground_truth_only": "SYN_VEH_0038",
+    "tracklets": [
+      {
+        "camera_id": "SYN_CAM_25",
+        "track_id": "SYN_CAM_25_TRK_0038"
+      },
+      {
+        "camera_id": "SYN_CAM_26",
+        "track_id": "SYN_CAM_26_TRK_0038"
+      },
+      {
+        "camera_id": "SYN_CAM_27",
+        "track_id": "SYN_CAM_27_TRK_0038"
+      }
+    ],
+    "route_camera_sequence": [
+      "SYN_CAM_25",
+      "SYN_CAM_26",
+      "SYN_CAM_27"
+    ],
+    "first_seen": "2026-10-10T08:45:44.000",
+    "last_seen": "2026-10-10T08:59:07.000",
+    "route_status": "reconstructed",
+    "source_type": "synthetic_demo",
+    "synthetic": true
+  },
+  {
+    "journey_id": "SYN_JNY_0039",
+    "scenario_id": "SYNTH_URBANTRACK_46CAM",
+    "synthetic_vehicle_id_for_ground_truth_only": "SYN_VEH_0039",
+    "tracklets": [
+      {
+        "camera_id": "SYN_CAM_16",
+        "track_id": "SYN_CAM_16_TRK_0039"
+      },
+      {
+        "camera_id": "SYN_CAM_19",
+        "track_id": "SYN_CAM_19_TRK_0039"
+      },
+      {
+        "camera_id": "SYN_CAM_20",
+        "track_id": "SYN_CAM_20_TRK_0039"
+      },
+      {
+        "camera_id": "SYN_CAM_22",
+        "track_id": "SYN_CAM_22_TRK_0039"
+      },
+      {
+        "camera_id": "SYN_CAM_24",
+        "track_id": "SYN_CAM_24_TRK_0039"
+      },
+      {
+        "camera_id": "SYN_CAM_26",
+        "track_id": "SYN_CAM_26_TRK_0039"
+      },
+      {
+        "camera_id": "SYN_CAM_27",
+        "track_id": "SYN_CAM_27_TRK_0039"
+      }
+    ],
+    "route_camera_sequence": [
+      "SYN_CAM_16",
+      "SYN_CAM_19",
+      "SYN_CAM_20",
+      "SYN_CAM_22",
+      "SYN_CAM_24",
+      "SYN_CAM_26",
+      "SYN_CAM_27"
+    ],
+    "first_seen": "2026-10-10T09:29:15.000",
+    "last_seen": "2026-10-10T09:55:58.000",
+    "route_status": "reconstructed",
+    "source_type": "synthetic_demo",
+    "synthetic": true
+  },
+  {
+    "journey_id": "SYN_JNY_0040",
+    "scenario_id": "SYNTH_URBANTRACK_46CAM",
+    "synthetic_vehicle_id_for_ground_truth_only": "SYN_VEH_0040",
+    "tracklets": [
+      {
+        "camera_id": "SYN_CAM_35",
+        "track_id": "SYN_CAM_35_TRK_0040"
+      },
+      {
+        "camera_id": "SYN_CAM_36",
+        "track_id": "SYN_CAM_36_TRK_0040"
+      },
+      {
+        "camera_id": "SYN_CAM_37",
+        "track_id": "SYN_CAM_37_TRK_0040"
+      },
+      {
+        "camera_id": "SYN_CAM_38",
+        "track_id": "SYN_CAM_38_TRK_0040"
+      },
+      {
+        "camera_id": "SYN_CAM_39",
+        "track_id": "SYN_CAM_39_TRK_0040"
+      },
+      {
+        "camera_id": "SYN_CAM_40",
+        "track_id": "SYN_CAM_40_TRK_0040"
+      },
+      {
+        "camera_id": "SYN_CAM_43",
+        "track_id": "SYN_CAM_43_TRK_0040"
+      },
+      {
+        "camera_id": "SYN_CAM_45",
+        "track_id": "SYN_CAM_45_TRK_0040"
+      },
+      {
+        "camera_id": "SYN_CAM_46",
+        "track_id": "SYN_CAM_46_TRK_0040"
+      }
+    ],
+    "route_camera_sequence": [
+      "SYN_CAM_35",
+      "SYN_CAM_36",
+      "SYN_CAM_37",
+      "SYN_CAM_38",
+      "SYN_CAM_39",
+      "SYN_CAM_40",
+      "SYN_CAM_43",
+      "SYN_CAM_45",
+      "SYN_CAM_46"
+    ],
+    "first_seen": "2026-10-10T09:56:00.000",
+    "last_seen": "2026-10-10T10:34:50.000",
+    "route_status": "reconstructed",
+    "source_type": "synthetic_demo",
+    "synthetic": true
+  },
+  {
+    "journey_id": "SYN_JNY_0041",
+    "scenario_id": "SYNTH_URBANTRACK_46CAM",
+    "synthetic_vehicle_id_for_ground_truth_only": "SYN_VEH_0041",
+    "tracklets": [
+      {
+        "camera_id": "SYN_CAM_34",
+        "track_id": "SYN_CAM_34_TRK_0041"
+      },
+      {
+        "camera_id": "SYN_CAM_38",
+        "track_id": "SYN_CAM_38_TRK_0041"
+      },
+      {
+        "camera_id": "SYN_CAM_41",
+        "track_id": "SYN_CAM_41_TRK_0041"
+      },
+      {
+        "camera_id": "SYN_CAM_44",
+        "track_id": "SYN_CAM_44_TRK_0041"
+      },
+      {
+        "camera_id": "SYN_CAM_46",
+        "track_id": "SYN_CAM_46_TRK_0041"
+      },
+      {
+        "camera_id": "SYN_CAM_46",
+        "track_id": "SYN_CAM_46_TRK_0041"
+      },
+      {
+        "camera_id": "SYN_CAM_46",
+        "track_id": "SYN_CAM_46_TRK_0041"
+      },
+      {
+        "camera_id": "SYN_CAM_46",
+        "track_id": "SYN_CAM_46_TRK_0041"
+      }
+    ],
+    "route_camera_sequence": [
+      "SYN_CAM_34",
+      "SYN_CAM_38",
+      "SYN_CAM_41",
+      "SYN_CAM_44",
+      "SYN_CAM_46",
+      "SYN_CAM_46",
+      "SYN_CAM_46",
+      "SYN_CAM_46"
+    ],
+    "first_seen": "2026-10-10T09:23:04.000",
+    "last_seen": "2026-10-10T09:59:21.000",
+    "route_status": "reconstructed",
+    "source_type": "synthetic_demo",
+    "synthetic": true
+  },
+  {
+    "journey_id": "SYN_JNY_0042",
+    "scenario_id": "SYNTH_URBANTRACK_46CAM",
+    "synthetic_vehicle_id_for_ground_truth_only": "SYN_VEH_0042",
+    "tracklets": [
+      {
+        "camera_id": "SYN_CAM_14",
+        "track_id": "SYN_CAM_14_TRK_0042"
+      },
+      {
+        "camera_id": "SYN_CAM_15",
+        "track_id": "SYN_CAM_15_TRK_0042"
+      },
+      {
+        "camera_id": "SYN_CAM_16",
+        "track_id": "SYN_CAM_16_TRK_0042"
+      },
+      {
+        "camera_id": "SYN_CAM_18",
+        "track_id": "SYN_CAM_18_TRK_0042"
+      },
+      {
+        "camera_id": "SYN_CAM_19",
+        "track_id": "SYN_CAM_19_TRK_0042"
+      },
+      {
+        "camera_id": "SYN_CAM_23",
+        "track_id": "SYN_CAM_23_TRK_0042"
+      }
+    ],
+    "route_camera_sequence": [
+      "SYN_CAM_14",
+      "SYN_CAM_15",
+      "SYN_CAM_16",
+      "SYN_CAM_18",
+      "SYN_CAM_19",
+      "SYN_CAM_23"
+    ],
+    "first_seen": "2026-10-10T08:11:21.000",
+    "last_seen": "2026-10-10T08:40:02.000",
+    "route_status": "reconstructed",
+    "source_type": "synthetic_demo",
+    "synthetic": true
+  },
+  {
+    "journey_id": "SYN_JNY_0043",
+    "scenario_id": "SYNTH_URBANTRACK_46CAM",
+    "synthetic_vehicle_id_for_ground_truth_only": "SYN_VEH_0043",
+    "tracklets": [
+      {
+        "camera_id": "SYN_CAM_21",
+        "track_id": "SYN_CAM_21_TRK_0043"
+      },
+      {
+        "camera_id": "SYN_CAM_22",
+        "track_id": "SYN_CAM_22_TRK_0043"
+      },
+      {
+        "camera_id": "SYN_CAM_24",
+        "track_id": "SYN_CAM_24_TRK_0043"
+      },
+      {
+        "camera_id": "SYN_CAM_25",
+        "track_id": "SYN_CAM_25_TRK_0043"
+      },
+      {
+        "camera_id": "SYN_CAM_27",
+        "track_id": "SYN_CAM_27_TRK_0043"
+      }
+    ],
+    "route_camera_sequence": [
+      "SYN_CAM_21",
+      "SYN_CAM_22",
+      "SYN_CAM_24",
+      "SYN_CAM_25",
+      "SYN_CAM_27"
+    ],
+    "first_seen": "2026-10-10T09:48:54.000",
+    "last_seen": "2026-10-10T10:08:18.000",
+    "route_status": "reconstructed",
+    "source_type": "synthetic_demo",
+    "synthetic": true
+  },
+  {
+    "journey_id": "SYN_JNY_0044",
+    "scenario_id": "SYNTH_URBANTRACK_46CAM",
+    "synthetic_vehicle_id_for_ground_truth_only": "SYN_VEH_0044",
+    "tracklets": [
+      {
+        "camera_id": "SYN_CAM_17",
+        "track_id": "SYN_CAM_17_TRK_0044"
+      },
+      {
+        "camera_id": "SYN_CAM_23",
+        "track_id": "SYN_CAM_23_TRK_0044"
+      },
+      {
+        "camera_id": "SYN_CAM_24",
+        "track_id": "SYN_CAM_24_TRK_0044"
+      },
+      {
+        "camera_id": "SYN_CAM_25",
+        "track_id": "SYN_CAM_25_TRK_0044"
+      },
+      {
+        "camera_id": "SYN_CAM_27",
+        "track_id": "SYN_CAM_27_TRK_0044"
+      },
+      {
+        "camera_id": "SYN_CAM_29",
+        "track_id": "SYN_CAM_29_TRK_0044"
+      },
+      {
+        "camera_id": "SYN_CAM_30",
+        "track_id": "SYN_CAM_30_TRK_0044"
+      }
+    ],
+    "route_camera_sequence": [
+      "SYN_CAM_17",
+      "SYN_CAM_23",
+      "SYN_CAM_24",
+      "SYN_CAM_25",
+      "SYN_CAM_27",
+      "SYN_CAM_29",
+      "SYN_CAM_30"
+    ],
+    "first_seen": "2026-10-10T10:41:52.000",
+    "last_seen": "2026-10-10T11:13:58.000",
+    "route_status": "reconstructed_with_missing_observation",
+    "source_type": "synthetic_demo",
+    "synthetic": true
+  },
+  {
+    "journey_id": "SYN_JNY_0045",
+    "scenario_id": "SYNTH_URBANTRACK_46CAM",
+    "synthetic_vehicle_id_for_ground_truth_only": "SYN_VEH_0045",
+    "tracklets": [
+      {
+        "camera_id": "SYN_CAM_08",
+        "track_id": "SYN_CAM_08_TRK_0045"
+      },
+      {
+        "camera_id": "SYN_CAM_12",
+        "track_id": "SYN_CAM_12_TRK_0045"
+      },
+      {
+        "camera_id": "SYN_CAM_13",
+        "track_id": "SYN_CAM_13_TRK_0045"
+      },
+      {
+        "camera_id": "SYN_CAM_14",
+        "track_id": "SYN_CAM_14_TRK_0045"
+      },
+      {
+        "camera_id": "SYN_CAM_15",
+        "track_id": "SYN_CAM_15_TRK_0045"
+      },
+      {
+        "camera_id": "SYN_CAM_18",
+        "track_id": "SYN_CAM_18_TRK_0045"
+      },
+      {
+        "camera_id": "SYN_CAM_19",
+        "track_id": "SYN_CAM_19_TRK_0045"
+      }
+    ],
+    "route_camera_sequence": [
+      "SYN_CAM_08",
+      "SYN_CAM_12",
+      "SYN_CAM_13",
+      "SYN_CAM_14",
+      "SYN_CAM_15",
+      "SYN_CAM_18",
+      "SYN_CAM_19"
+    ],
+    "first_seen": "2026-10-10T08:19:09.000",
+    "last_seen": "2026-10-10T08:52:37.000",
+    "route_status": "reconstructed",
+    "source_type": "synthetic_demo",
+    "synthetic": true
+  },
+  {
+    "journey_id": "SYN_JNY_0046",
+    "scenario_id": "SYNTH_URBANTRACK_46CAM",
+    "synthetic_vehicle_id_for_ground_truth_only": "SYN_VEH_0046",
+    "tracklets": [
+      {
+        "camera_id": "SYN_CAM_21",
+        "track_id": "SYN_CAM_21_TRK_0046"
+      },
+      {
+        "camera_id": "SYN_CAM_25",
+        "track_id": "SYN_CAM_25_TRK_0046"
+      },
+      {
+        "camera_id": "SYN_CAM_26",
+        "track_id": "SYN_CAM_26_TRK_0046"
+      }
+    ],
+    "route_camera_sequence": [
+      "SYN_CAM_21",
+      "SYN_CAM_25",
+      "SYN_CAM_26"
+    ],
+    "first_seen": "2026-10-10T09:18:42.000",
+    "last_seen": "2026-10-10T09:23:55.000",
+    "route_status": "reconstructed",
+    "source_type": "synthetic_demo",
+    "synthetic": true
+  },
+  {
+    "journey_id": "SYN_JNY_0047",
+    "scenario_id": "SYNTH_URBANTRACK_46CAM",
+    "synthetic_vehicle_id_for_ground_truth_only": "SYN_VEH_0047",
+    "tracklets": [
+      {
+        "camera_id": "SYN_CAM_30",
+        "track_id": "SYN_CAM_30_TRK_0047"
+      },
+      {
+        "camera_id": "SYN_CAM_31",
+        "track_id": "SYN_CAM_31_TRK_0047"
+      },
+      {
+        "camera_id": "SYN_CAM_32",
+        "track_id": "SYN_CAM_32_TRK_0047"
+      },
+      {
+        "camera_id": "SYN_CAM_33",
+        "track_id": "SYN_CAM_33_TRK_0047"
+      },
+      {
+        "camera_id": "SYN_CAM_35",
+        "track_id": "SYN_CAM_35_TRK_0047"
+      }
+    ],
+    "route_camera_sequence": [
+      "SYN_CAM_30",
+      "SYN_CAM_31",
+      "SYN_CAM_32",
+      "SYN_CAM_33",
+      "SYN_CAM_35"
+    ],
+    "first_seen": "2026-10-10T10:18:34.000",
+    "last_seen": "2026-10-10T10:35:49.000",
+    "route_status": "reconstructed",
+    "source_type": "synthetic_demo",
+    "synthetic": true
+  },
+  {
+    "journey_id": "SYN_JNY_0048",
+    "scenario_id": "SYNTH_URBANTRACK_46CAM",
+    "synthetic_vehicle_id_for_ground_truth_only": "SYN_VEH_0048",
+    "tracklets": [
+      {
+        "camera_id": "SYN_CAM_13",
+        "track_id": "SYN_CAM_13_TRK_0048"
+      },
+      {
+        "camera_id": "SYN_CAM_16",
+        "track_id": "SYN_CAM_16_TRK_0048"
+      },
+      {
+        "camera_id": "SYN_CAM_17",
+        "track_id": "SYN_CAM_17_TRK_0048"
+      },
+      {
+        "camera_id": "SYN_CAM_21",
+        "track_id": "SYN_CAM_21_TRK_0048"
+      },
+      {
+        "camera_id": "SYN_CAM_23",
+        "track_id": "SYN_CAM_23_TRK_0048"
+      },
+      {
+        "camera_id": "SYN_CAM_27",
+        "track_id": "SYN_CAM_27_TRK_0048"
+      },
+      {
+        "camera_id": "SYN_CAM_28",
+        "track_id": "SYN_CAM_28_TRK_0048"
+      }
+    ],
+    "route_camera_sequence": [
+      "SYN_CAM_13",
+      "SYN_CAM_16",
+      "SYN_CAM_17",
+      "SYN_CAM_21",
+      "SYN_CAM_23",
+      "SYN_CAM_27",
+      "SYN_CAM_28"
+    ],
+    "first_seen": "2026-10-10T08:49:06.000",
+    "last_seen": "2026-10-10T09:19:39.000",
+    "route_status": "reconstructed",
+    "source_type": "synthetic_demo",
+    "synthetic": true
+  },
+  {
+    "journey_id": "SYN_JNY_0049",
+    "scenario_id": "SYNTH_URBANTRACK_46CAM",
+    "synthetic_vehicle_id_for_ground_truth_only": "SYN_VEH_0049",
+    "tracklets": [
+      {
+        "camera_id": "SYN_CAM_09",
+        "track_id": "SYN_CAM_09_TRK_0049"
+      },
+      {
+        "camera_id": "SYN_CAM_13",
+        "track_id": "SYN_CAM_13_TRK_0049"
+      },
+      {
+        "camera_id": "SYN_CAM_17",
+        "track_id": "SYN_CAM_17_TRK_0049"
+      },
+      {
+        "camera_id": "SYN_CAM_19",
+        "track_id": "SYN_CAM_19_TRK_0049"
+      },
+      {
+        "camera_id": "SYN_CAM_20",
+        "track_id": "SYN_CAM_20_TRK_0049"
+      },
+      {
+        "camera_id": "SYN_CAM_21",
+        "track_id": "SYN_CAM_21_TRK_0049"
+      },
+      {
+        "camera_id": "SYN_CAM_23",
+        "track_id": "SYN_CAM_23_TRK_0049"
+      }
+    ],
+    "route_camera_sequence": [
+      "SYN_CAM_09",
+      "SYN_CAM_13",
+      "SYN_CAM_17",
+      "SYN_CAM_19",
+      "SYN_CAM_20",
+      "SYN_CAM_21",
+      "SYN_CAM_23"
+    ],
+    "first_seen": "2026-10-10T10:14:04.000",
+    "last_seen": "2026-10-10T10:41:29.000",
+    "route_status": "reconstructed",
+    "source_type": "synthetic_demo",
+    "synthetic": true
+  },
+  {
+    "journey_id": "SYN_JNY_0050",
+    "scenario_id": "SYNTH_URBANTRACK_46CAM",
+    "synthetic_vehicle_id_for_ground_truth_only": "SYN_VEH_0050",
+    "tracklets": [
+      {
+        "camera_id": "SYN_CAM_31",
+        "track_id": "SYN_CAM_31_TRK_0050"
+      },
+      {
+        "camera_id": "SYN_CAM_32",
+        "track_id": "SYN_CAM_32_TRK_0050"
+      },
+      {
+        "camera_id": "SYN_CAM_33",
+        "track_id": "SYN_CAM_33_TRK_0050"
+      },
+      {
+        "camera_id": "SYN_CAM_37",
+        "track_id": "SYN_CAM_37_TRK_0050"
+      },
+      {
+        "camera_id": "SYN_CAM_39",
+        "track_id": "SYN_CAM_39_TRK_0050"
+      },
+      {
+        "camera_id": "SYN_CAM_40",
+        "track_id": "SYN_CAM_40_TRK_0050"
+      }
+    ],
+    "route_camera_sequence": [
+      "SYN_CAM_31",
+      "SYN_CAM_32",
+      "SYN_CAM_33",
+      "SYN_CAM_37",
+      "SYN_CAM_39",
+      "SYN_CAM_40"
+    ],
+    "first_seen": "2026-10-10T10:08:08.000",
+    "last_seen": "2026-10-10T10:32:12.000",
+    "route_status": "reconstructed",
+    "source_type": "synthetic_demo",
+    "synthetic": true
+  },
+  {
+    "journey_id": "SYN_JNY_0051",
+    "scenario_id": "SYNTH_URBANTRACK_46CAM",
+    "synthetic_vehicle_id_for_ground_truth_only": "SYN_VEH_0051",
+    "tracklets": [
+      {
+        "camera_id": "SYN_CAM_19",
+        "track_id": "SYN_CAM_19_TRK_0051"
+      },
+      {
+        "camera_id": "SYN_CAM_20",
+        "track_id": "SYN_CAM_20_TRK_0051"
+      },
+      {
+        "camera_id": "SYN_CAM_22",
+        "track_id": "SYN_CAM_22_TRK_0051"
+      },
+      {
+        "camera_id": "SYN_CAM_23",
+        "track_id": "SYN_CAM_23_TRK_0051"
+      },
+      {
+        "camera_id": "SYN_CAM_25",
+        "track_id": "SYN_CAM_25_TRK_0051"
+      },
+      {
+        "camera_id": "SYN_CAM_29",
+        "track_id": "SYN_CAM_29_TRK_0051"
+      },
+      {
+        "camera_id": "SYN_CAM_31",
+        "track_id": "SYN_CAM_31_TRK_0051"
+      },
+      {
+        "camera_id": "SYN_CAM_34",
+        "track_id": "SYN_CAM_34_TRK_0051"
+      },
+      {
+        "camera_id": "SYN_CAM_36",
+        "track_id": "SYN_CAM_36_TRK_0051"
+      }
+    ],
+    "route_camera_sequence": [
+      "SYN_CAM_19",
+      "SYN_CAM_20",
+      "SYN_CAM_22",
+      "SYN_CAM_23",
+      "SYN_CAM_25",
+      "SYN_CAM_29",
+      "SYN_CAM_31",
+      "SYN_CAM_34",
+      "SYN_CAM_36"
+    ],
+    "first_seen": "2026-10-10T10:31:46.000",
+    "last_seen": "2026-10-10T11:11:53.000",
+    "route_status": "reconstructed",
+    "source_type": "synthetic_demo",
+    "synthetic": true
+  },
+  {
+    "journey_id": "SYN_JNY_0052",
+    "scenario_id": "SYNTH_URBANTRACK_46CAM",
+    "synthetic_vehicle_id_for_ground_truth_only": "SYN_VEH_0052",
+    "tracklets": [
+      {
+        "camera_id": "SYN_CAM_14",
+        "track_id": "SYN_CAM_14_TRK_0052"
+      },
+      {
+        "camera_id": "SYN_CAM_15",
+        "track_id": "SYN_CAM_15_TRK_0052"
+      },
+      {
+        "camera_id": "SYN_CAM_19",
+        "track_id": "SYN_CAM_19_TRK_0052"
+      },
+      {
+        "camera_id": "SYN_CAM_22",
+        "track_id": "SYN_CAM_22_TRK_0052"
+      },
+      {
+        "camera_id": "SYN_CAM_25",
+        "track_id": "SYN_CAM_25_TRK_0052"
+      },
+      {
+        "camera_id": "SYN_CAM_27",
+        "track_id": "SYN_CAM_27_TRK_0052"
+      }
+    ],
+    "route_camera_sequence": [
+      "SYN_CAM_14",
+      "SYN_CAM_15",
+      "SYN_CAM_19",
+      "SYN_CAM_22",
+      "SYN_CAM_25",
+      "SYN_CAM_27"
+    ],
+    "first_seen": "2026-10-10T09:15:08.000",
+    "last_seen": "2026-10-10T09:36:16.000",
+    "route_status": "reconstructed",
+    "source_type": "synthetic_demo",
+    "synthetic": true
+  },
+  {
+    "journey_id": "SYN_JNY_0053",
+    "scenario_id": "SYNTH_URBANTRACK_46CAM",
+    "synthetic_vehicle_id_for_ground_truth_only": "SYN_VEH_0053",
+    "tracklets": [
+      {
+        "camera_id": "SYN_CAM_10",
+        "track_id": "SYN_CAM_10_TRK_0053"
+      },
+      {
+        "camera_id": "SYN_CAM_11",
+        "track_id": "SYN_CAM_11_TRK_0053"
+      },
+      {
+        "camera_id": "SYN_CAM_13",
+        "track_id": "SYN_CAM_13_TRK_0053"
+      },
+      {
+        "camera_id": "SYN_CAM_15",
+        "track_id": "SYN_CAM_15_TRK_0053"
+      }
+    ],
+    "route_camera_sequence": [
+      "SYN_CAM_10",
+      "SYN_CAM_11",
+      "SYN_CAM_13",
+      "SYN_CAM_15"
+    ],
+    "first_seen": "2026-10-10T08:13:54.000",
+    "last_seen": "2026-10-10T08:25:57.000",
+    "route_status": "reconstructed",
+    "source_type": "synthetic_demo",
+    "synthetic": true
+  },
+  {
+    "journey_id": "SYN_JNY_0054",
+    "scenario_id": "SYNTH_URBANTRACK_46CAM",
+    "synthetic_vehicle_id_for_ground_truth_only": "SYN_VEH_0054",
+    "tracklets": [
+      {
+        "camera_id": "SYN_CAM_16",
+        "track_id": "SYN_CAM_16_TRK_0054"
+      },
+      {
+        "camera_id": "SYN_CAM_17",
+        "track_id": "SYN_CAM_17_TRK_0054"
+      },
+      {
+        "camera_id": "SYN_CAM_19",
+        "track_id": "SYN_CAM_19_TRK_0054"
+      },
+      {
+        "camera_id": "SYN_CAM_21",
+        "track_id": "SYN_CAM_21_TRK_0054"
+      },
+      {
+        "camera_id": "SYN_CAM_24",
+        "track_id": "SYN_CAM_24_TRK_0054"
+      },
+      {
+        "camera_id": "SYN_CAM_25",
+        "track_id": "SYN_CAM_25_TRK_0054"
+      },
+      {
+        "camera_id": "SYN_CAM_29",
+        "track_id": "SYN_CAM_29_TRK_0054"
+      },
+      {
+        "camera_id": "SYN_CAM_33",
+        "track_id": "SYN_CAM_33_TRK_0054"
+      },
+      {
+        "camera_id": "SYN_CAM_34",
+        "track_id": "SYN_CAM_34_TRK_0054"
+      }
+    ],
+    "route_camera_sequence": [
+      "SYN_CAM_16",
+      "SYN_CAM_17",
+      "SYN_CAM_19",
+      "SYN_CAM_21",
+      "SYN_CAM_24",
+      "SYN_CAM_25",
+      "SYN_CAM_29",
+      "SYN_CAM_33",
+      "SYN_CAM_34"
+    ],
+    "first_seen": "2026-10-10T08:20:08.000",
+    "last_seen": "2026-10-10T09:04:55.000",
+    "route_status": "reconstructed",
+    "source_type": "synthetic_demo",
+    "synthetic": true
+  },
+  {
+    "journey_id": "SYN_JNY_0055",
+    "scenario_id": "SYNTH_URBANTRACK_46CAM",
+    "synthetic_vehicle_id_for_ground_truth_only": "SYN_VEH_0055",
+    "tracklets": [
+      {
+        "camera_id": "SYN_CAM_34",
+        "track_id": "SYN_CAM_34_TRK_0055"
+      },
+      {
+        "camera_id": "SYN_CAM_39",
+        "track_id": "SYN_CAM_39_TRK_0055"
+      },
+      {
+        "camera_id": "SYN_CAM_43",
+        "track_id": "SYN_CAM_43_TRK_0055"
+      },
+      {
+        "camera_id": "SYN_CAM_45",
+        "track_id": "SYN_CAM_45_TRK_0055"
+      },
+      {
+        "camera_id": "SYN_CAM_46",
+        "track_id": "SYN_CAM_46_TRK_0055"
+      },
+      {
+        "camera_id": "SYN_CAM_46",
+        "track_id": "SYN_CAM_46_TRK_0055"
+      },
+      {
+        "camera_id": "SYN_CAM_46",
+        "track_id": "SYN_CAM_46_TRK_0055"
+      }
+    ],
+    "route_camera_sequence": [
+      "SYN_CAM_34",
+      "SYN_CAM_39",
+      "SYN_CAM_43",
+      "SYN_CAM_45",
+      "SYN_CAM_46",
+      "SYN_CAM_46",
+      "SYN_CAM_46"
+    ],
+    "first_seen": "2026-10-10T08:43:15.000",
+    "last_seen": "2026-10-10T09:15:30.000",
+    "route_status": "reconstructed_with_missing_observation",
+    "source_type": "synthetic_demo",
+    "synthetic": true
+  },
+  {
+    "journey_id": "SYN_JNY_0056",
+    "scenario_id": "SYNTH_URBANTRACK_46CAM",
+    "synthetic_vehicle_id_for_ground_truth_only": "SYN_VEH_0056",
+    "tracklets": [
+      {
+        "camera_id": "SYN_CAM_28",
+        "track_id": "SYN_CAM_28_TRK_0056"
+      },
+      {
+        "camera_id": "SYN_CAM_32",
+        "track_id": "SYN_CAM_32_TRK_0056"
+      },
+      {
+        "camera_id": "SYN_CAM_33",
+        "track_id": "SYN_CAM_33_TRK_0056"
+      },
+      {
+        "camera_id": "SYN_CAM_35",
+        "track_id": "SYN_CAM_35_TRK_0056"
+      },
+      {
+        "camera_id": "SYN_CAM_37",
+        "track_id": "SYN_CAM_37_TRK_0056"
+      },
+      {
+        "camera_id": "SYN_CAM_38",
+        "track_id": "SYN_CAM_38_TRK_0056"
+      },
+      {
+        "camera_id": "SYN_CAM_39",
+        "track_id": "SYN_CAM_39_TRK_0056"
+      }
+    ],
+    "route_camera_sequence": [
+      "SYN_CAM_28",
+      "SYN_CAM_32",
+      "SYN_CAM_33",
+      "SYN_CAM_35",
+      "SYN_CAM_37",
+      "SYN_CAM_38",
+      "SYN_CAM_39"
+    ],
+    "first_seen": "2026-10-10T09:48:29.000",
+    "last_seen": "2026-10-10T10:22:18.000",
+    "route_status": "reconstructed",
+    "source_type": "synthetic_demo",
+    "synthetic": true
+  },
+  {
+    "journey_id": "SYN_JNY_0057",
+    "scenario_id": "SYNTH_URBANTRACK_46CAM",
+    "synthetic_vehicle_id_for_ground_truth_only": "SYN_VEH_0057",
+    "tracklets": [
+      {
+        "camera_id": "SYN_CAM_24",
+        "track_id": "SYN_CAM_24_TRK_0057"
+      },
+      {
+        "camera_id": "SYN_CAM_25",
+        "track_id": "SYN_CAM_25_TRK_0057"
+      },
+      {
+        "camera_id": "SYN_CAM_26",
+        "track_id": "SYN_CAM_26_TRK_0057"
+      },
+      {
+        "camera_id": "SYN_CAM_28",
+        "track_id": "SYN_CAM_28_TRK_0057"
+      }
+    ],
+    "route_camera_sequence": [
+      "SYN_CAM_24",
+      "SYN_CAM_25",
+      "SYN_CAM_26",
+      "SYN_CAM_28"
+    ],
+    "first_seen": "2026-10-10T08:21:02.000",
+    "last_seen": "2026-10-10T08:33:14.000",
+    "route_status": "reconstructed",
+    "source_type": "synthetic_demo",
+    "synthetic": true
+  },
+  {
+    "journey_id": "SYN_JNY_0058",
+    "scenario_id": "SYNTH_URBANTRACK_46CAM",
+    "synthetic_vehicle_id_for_ground_truth_only": "SYN_VEH_0058",
+    "tracklets": [
+      {
+        "camera_id": "SYN_CAM_39",
+        "track_id": "SYN_CAM_39_TRK_0058"
+      },
+      {
+        "camera_id": "SYN_CAM_41",
+        "track_id": "SYN_CAM_41_TRK_0058"
+      },
+      {
+        "camera_id": "SYN_CAM_43",
+        "track_id": "SYN_CAM_43_TRK_0058"
+      },
+      {
+        "camera_id": "SYN_CAM_44",
+        "track_id": "SYN_CAM_44_TRK_0058"
+      },
+      {
+        "camera_id": "SYN_CAM_45",
+        "track_id": "SYN_CAM_45_TRK_0058"
+      }
+    ],
+    "route_camera_sequence": [
+      "SYN_CAM_39",
+      "SYN_CAM_41",
+      "SYN_CAM_43",
+      "SYN_CAM_44",
+      "SYN_CAM_45"
+    ],
+    "first_seen": "2026-10-10T08:47:36.000",
+    "last_seen": "2026-10-10T09:07:26.000",
+    "route_status": "reconstructed",
+    "source_type": "synthetic_demo",
+    "synthetic": true
+  },
+  {
+    "journey_id": "SYN_JNY_0059",
+    "scenario_id": "SYNTH_URBANTRACK_46CAM",
+    "synthetic_vehicle_id_for_ground_truth_only": "SYN_VEH_0059",
+    "tracklets": [
+      {
+        "camera_id": "SYN_CAM_12",
+        "track_id": "SYN_CAM_12_TRK_0059"
+      },
+      {
+        "camera_id": "SYN_CAM_14",
+        "track_id": "SYN_CAM_14_TRK_0059"
+      },
+      {
+        "camera_id": "SYN_CAM_15",
+        "track_id": "SYN_CAM_15_TRK_0059"
+      },
+      {
+        "camera_id": "SYN_CAM_16",
+        "track_id": "SYN_CAM_16_TRK_0059"
+      },
+      {
+        "camera_id": "SYN_CAM_17",
+        "track_id": "SYN_CAM_17_TRK_0059"
+      }
+    ],
+    "route_camera_sequence": [
+      "SYN_CAM_12",
+      "SYN_CAM_14",
+      "SYN_CAM_15",
+      "SYN_CAM_16",
+      "SYN_CAM_17"
+    ],
+    "first_seen": "2026-10-10T08:49:09.000",
+    "last_seen": "2026-10-10T09:08:23.000",
+    "route_status": "reconstructed",
+    "source_type": "synthetic_demo",
+    "synthetic": true
+  },
+  {
+    "journey_id": "SYN_JNY_0060",
+    "scenario_id": "SYNTH_URBANTRACK_46CAM",
+    "synthetic_vehicle_id_for_ground_truth_only": "SYN_VEH_0060",
+    "tracklets": [
+      {
+        "camera_id": "SYN_CAM_01",
+        "track_id": "SYN_CAM_01_TRK_0060"
+      },
+      {
+        "camera_id": "SYN_CAM_02",
+        "track_id": "SYN_CAM_02_TRK_0060"
+      },
+      {
+        "camera_id": "SYN_CAM_03",
+        "track_id": "SYN_CAM_03_TRK_0060"
+      },
+      {
+        "camera_id": "SYN_CAM_05",
+        "track_id": "SYN_CAM_05_TRK_0060"
+      },
+      {
+        "camera_id": "SYN_CAM_07",
+        "track_id": "SYN_CAM_07_TRK_0060"
+      },
+      {
+        "camera_id": "SYN_CAM_08",
+        "track_id": "SYN_CAM_08_TRK_0060"
+      }
+    ],
+    "route_camera_sequence": [
+      "SYN_CAM_01",
+      "SYN_CAM_02",
+      "SYN_CAM_03",
+      "SYN_CAM_05",
+      "SYN_CAM_07",
+      "SYN_CAM_08"
+    ],
+    "first_seen": "2026-10-10T08:02:22.000",
+    "last_seen": "2026-10-10T08:26:53.000",
+    "route_status": "reconstructed",
+    "source_type": "synthetic_demo",
+    "synthetic": true
+  },
+  {
+    "journey_id": "SYN_JNY_0061",
+    "scenario_id": "SYNTH_URBANTRACK_46CAM",
+    "synthetic_vehicle_id_for_ground_truth_only": "SYN_VEH_0061",
+    "tracklets": [
+      {
+        "camera_id": "SYN_CAM_02",
+        "track_id": "SYN_CAM_02_TRK_0061"
+      },
+      {
+        "camera_id": "SYN_CAM_04",
+        "track_id": "SYN_CAM_04_TRK_0061"
+      },
+      {
+        "camera_id": "SYN_CAM_07",
+        "track_id": "SYN_CAM_07_TRK_0061"
+      },
+      {
+        "camera_id": "SYN_CAM_10",
+        "track_id": "SYN_CAM_10_TRK_0061"
+      },
+      {
+        "camera_id": "SYN_CAM_12",
+        "track_id": "SYN_CAM_12_TRK_0061"
+      }
+    ],
+    "route_camera_sequence": [
+      "SYN_CAM_02",
+      "SYN_CAM_04",
+      "SYN_CAM_07",
+      "SYN_CAM_10",
+      "SYN_CAM_12"
+    ],
+    "first_seen": "2026-10-10T08:08:46.000",
+    "last_seen": "2026-10-10T08:25:44.000",
+    "route_status": "reconstructed",
+    "source_type": "synthetic_demo",
+    "synthetic": true
+  },
+  {
+    "journey_id": "SYN_JNY_0062",
+    "scenario_id": "SYNTH_URBANTRACK_46CAM",
+    "synthetic_vehicle_id_for_ground_truth_only": "SYN_VEH_0062",
+    "tracklets": [
+      {
+        "camera_id": "SYN_CAM_33",
+        "track_id": "SYN_CAM_33_TRK_0062"
+      },
+      {
+        "camera_id": "SYN_CAM_36",
+        "track_id": "SYN_CAM_36_TRK_0062"
+      },
+      {
+        "camera_id": "SYN_CAM_38",
+        "track_id": "SYN_CAM_38_TRK_0062"
+      }
+    ],
+    "route_camera_sequence": [
+      "SYN_CAM_33",
+      "SYN_CAM_36",
+      "SYN_CAM_38"
+    ],
+    "first_seen": "2026-10-10T08:25:18.000",
+    "last_seen": "2026-10-10T08:37:06.000",
+    "route_status": "reconstructed",
+    "source_type": "synthetic_demo",
+    "synthetic": true
+  },
+  {
+    "journey_id": "SYN_JNY_0063",
+    "scenario_id": "SYNTH_URBANTRACK_46CAM",
+    "synthetic_vehicle_id_for_ground_truth_only": "SYN_VEH_0063",
+    "tracklets": [
+      {
+        "camera_id": "SYN_CAM_06",
+        "track_id": "SYN_CAM_06_TRK_0063"
+      },
+      {
+        "camera_id": "SYN_CAM_09",
+        "track_id": "SYN_CAM_09_TRK_0063"
+      },
+      {
+        "camera_id": "SYN_CAM_11",
+        "track_id": "SYN_CAM_11_TRK_0063"
+      },
+      {
+        "camera_id": "SYN_CAM_12",
+        "track_id": "SYN_CAM_12_TRK_0063"
+      },
+      {
+        "camera_id": "SYN_CAM_14",
+        "track_id": "SYN_CAM_14_TRK_0063"
+      },
+      {
+        "camera_id": "SYN_CAM_18",
+        "track_id": "SYN_CAM_18_TRK_0063"
+      }
+    ],
+    "route_camera_sequence": [
+      "SYN_CAM_06",
+      "SYN_CAM_09",
+      "SYN_CAM_11",
+      "SYN_CAM_12",
+      "SYN_CAM_14",
+      "SYN_CAM_18"
+    ],
+    "first_seen": "2026-10-10T08:06:30.000",
+    "last_seen": "2026-10-10T08:28:37.000",
+    "route_status": "reconstructed",
+    "source_type": "synthetic_demo",
+    "synthetic": true
+  },
+  {
+    "journey_id": "SYN_JNY_0064",
+    "scenario_id": "SYNTH_URBANTRACK_46CAM",
+    "synthetic_vehicle_id_for_ground_truth_only": "SYN_VEH_0064",
+    "tracklets": [
+      {
+        "camera_id": "SYN_CAM_06",
+        "track_id": "SYN_CAM_06_TRK_0064"
+      },
+      {
+        "camera_id": "SYN_CAM_10",
+        "track_id": "SYN_CAM_10_TRK_0064"
+      },
+      {
+        "camera_id": "SYN_CAM_11",
+        "track_id": "SYN_CAM_11_TRK_0064"
+      },
+      {
+        "camera_id": "SYN_CAM_14",
+        "track_id": "SYN_CAM_14_TRK_0064"
+      },
+      {
+        "camera_id": "SYN_CAM_15",
+        "track_id": "SYN_CAM_15_TRK_0064"
+      },
+      {
+        "camera_id": "SYN_CAM_18",
+        "track_id": "SYN_CAM_18_TRK_0064"
+      },
+      {
+        "camera_id": "SYN_CAM_22",
+        "track_id": "SYN_CAM_22_TRK_0064"
+      },
+      {
+        "camera_id": "SYN_CAM_26",
+        "track_id": "SYN_CAM_26_TRK_0064"
+      }
+    ],
+    "route_camera_sequence": [
+      "SYN_CAM_06",
+      "SYN_CAM_10",
+      "SYN_CAM_11",
+      "SYN_CAM_14",
+      "SYN_CAM_15",
+      "SYN_CAM_18",
+      "SYN_CAM_22",
+      "SYN_CAM_26"
+    ],
+    "first_seen": "2026-10-10T08:13:30.000",
+    "last_seen": "2026-10-10T08:51:28.000",
+    "route_status": "reconstructed",
+    "source_type": "synthetic_demo",
+    "synthetic": true
+  },
+  {
+    "journey_id": "SYN_JNY_0065",
+    "scenario_id": "SYNTH_URBANTRACK_46CAM",
+    "synthetic_vehicle_id_for_ground_truth_only": "SYN_VEH_0065",
+    "tracklets": [
+      {
+        "camera_id": "SYN_CAM_33",
+        "track_id": "SYN_CAM_33_TRK_0065"
+      },
+      {
+        "camera_id": "SYN_CAM_37",
+        "track_id": "SYN_CAM_37_TRK_0065"
+      },
+      {
+        "camera_id": "SYN_CAM_41",
+        "track_id": "SYN_CAM_41_TRK_0065"
+      },
+      {
+        "camera_id": "SYN_CAM_43",
+        "track_id": "SYN_CAM_43_TRK_0065"
+      },
+      {
+        "camera_id": "SYN_CAM_45",
+        "track_id": "SYN_CAM_45_TRK_0065"
+      },
+      {
+        "camera_id": "SYN_CAM_46",
+        "track_id": "SYN_CAM_46_TRK_0065"
+      },
+      {
+        "camera_id": "SYN_CAM_46",
+        "track_id": "SYN_CAM_46_TRK_0065"
+      },
+      {
+        "camera_id": "SYN_CAM_46",
+        "track_id": "SYN_CAM_46_TRK_0065"
+      },
+      {
+        "camera_id": "SYN_CAM_46",
+        "track_id": "SYN_CAM_46_TRK_0065"
+      }
+    ],
+    "route_camera_sequence": [
+      "SYN_CAM_33",
+      "SYN_CAM_37",
+      "SYN_CAM_41",
+      "SYN_CAM_43",
+      "SYN_CAM_45",
+      "SYN_CAM_46",
+      "SYN_CAM_46",
+      "SYN_CAM_46",
+      "SYN_CAM_46"
+    ],
+    "first_seen": "2026-10-10T10:50:14.000",
+    "last_seen": "2026-10-10T11:41:49.000",
+    "route_status": "reconstructed",
+    "source_type": "synthetic_demo",
+    "synthetic": true
+  },
+  {
+    "journey_id": "SYN_JNY_0066",
+    "scenario_id": "SYNTH_URBANTRACK_46CAM",
+    "synthetic_vehicle_id_for_ground_truth_only": "SYN_VEH_0066",
+    "tracklets": [
+      {
+        "camera_id": "SYN_CAM_35",
+        "track_id": "SYN_CAM_35_TRK_0066"
+      },
+      {
+        "camera_id": "SYN_CAM_41",
+        "track_id": "SYN_CAM_41_TRK_0066"
+      },
+      {
+        "camera_id": "SYN_CAM_42",
+        "track_id": "SYN_CAM_42_TRK_0066"
+      },
+      {
+        "camera_id": "SYN_CAM_43",
+        "track_id": "SYN_CAM_43_TRK_0066"
+      },
+      {
+        "camera_id": "SYN_CAM_44",
+        "track_id": "SYN_CAM_44_TRK_0066"
+      }
+    ],
+    "route_camera_sequence": [
+      "SYN_CAM_35",
+      "SYN_CAM_41",
+      "SYN_CAM_42",
+      "SYN_CAM_43",
+      "SYN_CAM_44"
+    ],
+    "first_seen": "2026-10-10T09:20:16.000",
+    "last_seen": "2026-10-10T09:40:19.000",
+    "route_status": "reconstructed_with_missing_observation",
+    "source_type": "synthetic_demo",
+    "synthetic": true
+  },
+  {
+    "journey_id": "SYN_JNY_0067",
+    "scenario_id": "SYNTH_URBANTRACK_46CAM",
+    "synthetic_vehicle_id_for_ground_truth_only": "SYN_VEH_0067",
+    "tracklets": [
+      {
+        "camera_id": "SYN_CAM_30",
+        "track_id": "SYN_CAM_30_TRK_0067"
+      },
+      {
+        "camera_id": "SYN_CAM_34",
+        "track_id": "SYN_CAM_34_TRK_0067"
+      },
+      {
+        "camera_id": "SYN_CAM_37",
+        "track_id": "SYN_CAM_37_TRK_0067"
+      },
+      {
+        "camera_id": "SYN_CAM_38",
+        "track_id": "SYN_CAM_38_TRK_0067"
+      },
+      {
+        "camera_id": "SYN_CAM_39",
+        "track_id": "SYN_CAM_39_TRK_0067"
+      },
+      {
+        "camera_id": "SYN_CAM_41",
+        "track_id": "SYN_CAM_41_TRK_0067"
+      }
+    ],
+    "route_camera_sequence": [
+      "SYN_CAM_30",
+      "SYN_CAM_34",
+      "SYN_CAM_37",
+      "SYN_CAM_38",
+      "SYN_CAM_39",
+      "SYN_CAM_41"
+    ],
+    "first_seen": "2026-10-10T09:24:23.000",
+    "last_seen": "2026-10-10T09:55:29.000",
+    "route_status": "reconstructed",
+    "source_type": "synthetic_demo",
+    "synthetic": true
+  },
+  {
+    "journey_id": "SYN_JNY_0068",
+    "scenario_id": "SYNTH_URBANTRACK_46CAM",
+    "synthetic_vehicle_id_for_ground_truth_only": "SYN_VEH_0068",
+    "tracklets": [
+      {
+        "camera_id": "SYN_CAM_11",
+        "track_id": "SYN_CAM_11_TRK_0068"
+      },
+      {
+        "camera_id": "SYN_CAM_12",
+        "track_id": "SYN_CAM_12_TRK_0068"
+      },
+      {
+        "camera_id": "SYN_CAM_15",
+        "track_id": "SYN_CAM_15_TRK_0068"
+      },
+      {
+        "camera_id": "SYN_CAM_17",
+        "track_id": "SYN_CAM_17_TRK_0068"
+      },
+      {
+        "camera_id": "SYN_CAM_19",
+        "track_id": "SYN_CAM_19_TRK_0068"
+      },
+      {
+        "camera_id": "SYN_CAM_21",
+        "track_id": "SYN_CAM_21_TRK_0068"
+      }
+    ],
+    "route_camera_sequence": [
+      "SYN_CAM_11",
+      "SYN_CAM_12",
+      "SYN_CAM_15",
+      "SYN_CAM_17",
+      "SYN_CAM_19",
+      "SYN_CAM_21"
+    ],
+    "first_seen": "2026-10-10T09:43:45.000",
+    "last_seen": "2026-10-10T10:06:52.000",
+    "route_status": "reconstructed",
+    "source_type": "synthetic_demo",
+    "synthetic": true
+  },
+  {
+    "journey_id": "SYN_JNY_0069",
+    "scenario_id": "SYNTH_URBANTRACK_46CAM",
+    "synthetic_vehicle_id_for_ground_truth_only": "SYN_VEH_0069",
+    "tracklets": [
+      {
+        "camera_id": "SYN_CAM_01",
+        "track_id": "SYN_CAM_01_TRK_0069"
+      },
+      {
+        "camera_id": "SYN_CAM_02",
+        "track_id": "SYN_CAM_02_TRK_0069"
+      },
+      {
+        "camera_id": "SYN_CAM_04",
+        "track_id": "SYN_CAM_04_TRK_0069"
+      },
+      {
+        "camera_id": "SYN_CAM_06",
+        "track_id": "SYN_CAM_06_TRK_0069"
+      },
+      {
+        "camera_id": "SYN_CAM_07",
+        "track_id": "SYN_CAM_07_TRK_0069"
+      },
+      {
+        "camera_id": "SYN_CAM_08",
+        "track_id": "SYN_CAM_08_TRK_0069"
+      }
+    ],
+    "route_camera_sequence": [
+      "SYN_CAM_01",
+      "SYN_CAM_02",
+      "SYN_CAM_04",
+      "SYN_CAM_06",
+      "SYN_CAM_07",
+      "SYN_CAM_08"
+    ],
+    "first_seen": "2026-10-10T09:42:24.000",
+    "last_seen": "2026-10-10T10:07:15.000",
+    "route_status": "reconstructed",
+    "source_type": "synthetic_demo",
+    "synthetic": true
+  },
+  {
+    "journey_id": "SYN_JNY_0070",
+    "scenario_id": "SYNTH_URBANTRACK_46CAM",
+    "synthetic_vehicle_id_for_ground_truth_only": "SYN_VEH_0070",
+    "tracklets": [
+      {
+        "camera_id": "SYN_CAM_37",
+        "track_id": "SYN_CAM_37_TRK_0070"
+      },
+      {
+        "camera_id": "SYN_CAM_41",
+        "track_id": "SYN_CAM_41_TRK_0070"
+      },
+      {
+        "camera_id": "SYN_CAM_43",
+        "track_id": "SYN_CAM_43_TRK_0070"
+      },
+      {
+        "camera_id": "SYN_CAM_46",
+        "track_id": "SYN_CAM_46_TRK_0070"
+      },
+      {
+        "camera_id": "SYN_CAM_46",
+        "track_id": "SYN_CAM_46_TRK_0070"
+      }
+    ],
+    "route_camera_sequence": [
+      "SYN_CAM_37",
+      "SYN_CAM_41",
+      "SYN_CAM_43",
+      "SYN_CAM_46",
+      "SYN_CAM_46"
+    ],
+    "first_seen": "2026-10-10T09:07:14.000",
+    "last_seen": "2026-10-10T09:28:37.000",
+    "route_status": "reconstructed",
+    "source_type": "synthetic_demo",
+    "synthetic": true
+  },
+  {
+    "journey_id": "SYN_JNY_0071",
+    "scenario_id": "SYNTH_URBANTRACK_46CAM",
+    "synthetic_vehicle_id_for_ground_truth_only": "SYN_VEH_0071",
+    "tracklets": [
+      {
+        "camera_id": "SYN_CAM_03",
+        "track_id": "SYN_CAM_03_TRK_0071"
+      },
+      {
+        "camera_id": "SYN_CAM_05",
+        "track_id": "SYN_CAM_05_TRK_0071"
+      },
+      {
+        "camera_id": "SYN_CAM_06",
+        "track_id": "SYN_CAM_06_TRK_0071"
+      },
+      {
+        "camera_id": "SYN_CAM_08",
+        "track_id": "SYN_CAM_08_TRK_0071"
+      },
+      {
+        "camera_id": "SYN_CAM_10",
+        "track_id": "SYN_CAM_10_TRK_0071"
+      },
+      {
+        "camera_id": "SYN_CAM_12",
+        "track_id": "SYN_CAM_12_TRK_0071"
+      },
+      {
+        "camera_id": "SYN_CAM_13",
+        "track_id": "SYN_CAM_13_TRK_0071"
+      }
+    ],
+    "route_camera_sequence": [
+      "SYN_CAM_03",
+      "SYN_CAM_05",
+      "SYN_CAM_06",
+      "SYN_CAM_08",
+      "SYN_CAM_10",
+      "SYN_CAM_12",
+      "SYN_CAM_13"
+    ],
+    "first_seen": "2026-10-10T09:07:50.000",
+    "last_seen": "2026-10-10T09:35:51.000",
+    "route_status": "reconstructed",
+    "source_type": "synthetic_demo",
+    "synthetic": true
+  },
+  {
+    "journey_id": "SYN_JNY_0072",
+    "scenario_id": "SYNTH_URBANTRACK_46CAM",
+    "synthetic_vehicle_id_for_ground_truth_only": "SYN_VEH_0072",
+    "tracklets": [
+      {
+        "camera_id": "SYN_CAM_07",
+        "track_id": "SYN_CAM_07_TRK_0072"
+      },
+      {
+        "camera_id": "SYN_CAM_11",
+        "track_id": "SYN_CAM_11_TRK_0072"
+      },
+      {
+        "camera_id": "SYN_CAM_12",
+        "track_id": "SYN_CAM_12_TRK_0072"
+      },
+      {
+        "camera_id": "SYN_CAM_13",
+        "track_id": "SYN_CAM_13_TRK_0072"
+      },
+      {
+        "camera_id": "SYN_CAM_17",
+        "track_id": "SYN_CAM_17_TRK_0072"
+      },
+      {
+        "camera_id": "SYN_CAM_19",
+        "track_id": "SYN_CAM_19_TRK_0072"
+      },
+      {
+        "camera_id": "SYN_CAM_20",
+        "track_id": "SYN_CAM_20_TRK_0072"
+      },
+      {
+        "camera_id": "SYN_CAM_22",
+        "track_id": "SYN_CAM_22_TRK_0072"
+      },
+      {
+        "camera_id": "SYN_CAM_23",
+        "track_id": "SYN_CAM_23_TRK_0072"
+      }
+    ],
+    "route_camera_sequence": [
+      "SYN_CAM_07",
+      "SYN_CAM_11",
+      "SYN_CAM_12",
+      "SYN_CAM_13",
+      "SYN_CAM_17",
+      "SYN_CAM_19",
+      "SYN_CAM_20",
+      "SYN_CAM_22",
+      "SYN_CAM_23"
+    ],
+    "first_seen": "2026-10-10T10:07:14.000",
+    "last_seen": "2026-10-10T10:44:02.000",
+    "route_status": "reconstructed",
+    "source_type": "synthetic_demo",
+    "synthetic": true
+  },
+  {
+    "journey_id": "SYN_JNY_0073",
+    "scenario_id": "SYNTH_URBANTRACK_46CAM",
+    "synthetic_vehicle_id_for_ground_truth_only": "SYN_VEH_0073",
+    "tracklets": [
+      {
+        "camera_id": "SYN_CAM_17",
+        "track_id": "SYN_CAM_17_TRK_0073"
+      },
+      {
+        "camera_id": "SYN_CAM_18",
+        "track_id": "SYN_CAM_18_TRK_0073"
+      },
+      {
+        "camera_id": "SYN_CAM_20",
+        "track_id": "SYN_CAM_20_TRK_0073"
+      },
+      {
+        "camera_id": "SYN_CAM_21",
+        "track_id": "SYN_CAM_21_TRK_0073"
+      },
+      {
+        "camera_id": "SYN_CAM_24",
+        "track_id": "SYN_CAM_24_TRK_0073"
+      },
+      {
+        "camera_id": "SYN_CAM_26",
+        "track_id": "SYN_CAM_26_TRK_0073"
+      },
+      {
+        "camera_id": "SYN_CAM_27",
+        "track_id": "SYN_CAM_27_TRK_0073"
+      }
+    ],
+    "route_camera_sequence": [
+      "SYN_CAM_17",
+      "SYN_CAM_18",
+      "SYN_CAM_20",
+      "SYN_CAM_21",
+      "SYN_CAM_24",
+      "SYN_CAM_26",
+      "SYN_CAM_27"
+    ],
+    "first_seen": "2026-10-10T08:50:55.000",
+    "last_seen": "2026-10-10T09:18:15.000",
+    "route_status": "reconstructed",
+    "source_type": "synthetic_demo",
+    "synthetic": true
+  },
+  {
+    "journey_id": "SYN_JNY_0074",
+    "scenario_id": "SYNTH_URBANTRACK_46CAM",
+    "synthetic_vehicle_id_for_ground_truth_only": "SYN_VEH_0074",
+    "tracklets": [
+      {
+        "camera_id": "SYN_CAM_13",
+        "track_id": "SYN_CAM_13_TRK_0074"
+      },
+      {
+        "camera_id": "SYN_CAM_14",
+        "track_id": "SYN_CAM_14_TRK_0074"
+      },
+      {
+        "camera_id": "SYN_CAM_17",
+        "track_id": "SYN_CAM_17_TRK_0074"
+      },
+      {
+        "camera_id": "SYN_CAM_19",
+        "track_id": "SYN_CAM_19_TRK_0074"
+      },
+      {
+        "camera_id": "SYN_CAM_22",
+        "track_id": "SYN_CAM_22_TRK_0074"
+      },
+      {
+        "camera_id": "SYN_CAM_25",
+        "track_id": "SYN_CAM_25_TRK_0074"
+      },
+      {
+        "camera_id": "SYN_CAM_26",
+        "track_id": "SYN_CAM_26_TRK_0074"
+      }
+    ],
+    "route_camera_sequence": [
+      "SYN_CAM_13",
+      "SYN_CAM_14",
+      "SYN_CAM_17",
+      "SYN_CAM_19",
+      "SYN_CAM_22",
+      "SYN_CAM_25",
+      "SYN_CAM_26"
+    ],
+    "first_seen": "2026-10-10T10:10:55.000",
+    "last_seen": "2026-10-10T10:34:34.000",
+    "route_status": "reconstructed",
+    "source_type": "synthetic_demo",
+    "synthetic": true
+  },
+  {
+    "journey_id": "SYN_JNY_0075",
+    "scenario_id": "SYNTH_URBANTRACK_46CAM",
+    "synthetic_vehicle_id_for_ground_truth_only": "SYN_VEH_0075",
+    "tracklets": [
+      {
+        "camera_id": "SYN_CAM_26",
+        "track_id": "SYN_CAM_26_TRK_0075"
+      },
+      {
+        "camera_id": "SYN_CAM_27",
+        "track_id": "SYN_CAM_27_TRK_0075"
+      },
+      {
+        "camera_id": "SYN_CAM_31",
+        "track_id": "SYN_CAM_31_TRK_0075"
+      },
+      {
+        "camera_id": "SYN_CAM_32",
+        "track_id": "SYN_CAM_32_TRK_0075"
+      },
+      {
+        "camera_id": "SYN_CAM_33",
+        "track_id": "SYN_CAM_33_TRK_0075"
+      },
+      {
+        "camera_id": "SYN_CAM_34",
+        "track_id": "SYN_CAM_34_TRK_0075"
+      },
+      {
+        "camera_id": "SYN_CAM_36",
+        "track_id": "SYN_CAM_36_TRK_0075"
+      },
+      {
+        "camera_id": "SYN_CAM_40",
+        "track_id": "SYN_CAM_40_TRK_0075"
+      },
+      {
+        "camera_id": "SYN_CAM_41",
+        "track_id": "SYN_CAM_41_TRK_0075"
+      }
+    ],
+    "route_camera_sequence": [
+      "SYN_CAM_26",
+      "SYN_CAM_27",
+      "SYN_CAM_31",
+      "SYN_CAM_32",
+      "SYN_CAM_33",
+      "SYN_CAM_34",
+      "SYN_CAM_36",
+      "SYN_CAM_40",
+      "SYN_CAM_41"
+    ],
+    "first_seen": "2026-10-10T10:05:21.000",
+    "last_seen": "2026-10-10T10:43:14.000",
+    "route_status": "reconstructed",
+    "source_type": "synthetic_demo",
+    "synthetic": true
+  },
+  {
+    "journey_id": "SYN_JNY_0076",
+    "scenario_id": "SYNTH_URBANTRACK_46CAM",
+    "synthetic_vehicle_id_for_ground_truth_only": "SYN_VEH_0076",
+    "tracklets": [
+      {
+        "camera_id": "SYN_CAM_31",
+        "track_id": "SYN_CAM_31_TRK_0076"
+      },
+      {
+        "camera_id": "SYN_CAM_33",
+        "track_id": "SYN_CAM_33_TRK_0076"
+      },
+      {
+        "camera_id": "SYN_CAM_34",
+        "track_id": "SYN_CAM_34_TRK_0076"
+      },
+      {
+        "camera_id": "SYN_CAM_38",
+        "track_id": "SYN_CAM_38_TRK_0076"
+      },
+      {
+        "camera_id": "SYN_CAM_40",
+        "track_id": "SYN_CAM_40_TRK_0076"
+      },
+      {
+        "camera_id": "SYN_CAM_41",
+        "track_id": "SYN_CAM_41_TRK_0076"
+      },
+      {
+        "camera_id": "SYN_CAM_43",
+        "track_id": "SYN_CAM_43_TRK_0076"
+      },
+      {
+        "camera_id": "SYN_CAM_44",
+        "track_id": "SYN_CAM_44_TRK_0076"
+      }
+    ],
+    "route_camera_sequence": [
+      "SYN_CAM_31",
+      "SYN_CAM_33",
+      "SYN_CAM_34",
+      "SYN_CAM_38",
+      "SYN_CAM_40",
+      "SYN_CAM_41",
+      "SYN_CAM_43",
+      "SYN_CAM_44"
+    ],
+    "first_seen": "2026-10-10T10:43:59.000",
+    "last_seen": "2026-10-10T11:23:00.000",
+    "route_status": "reconstructed",
+    "source_type": "synthetic_demo",
+    "synthetic": true
+  },
+  {
+    "journey_id": "SYN_JNY_0077",
+    "scenario_id": "SYNTH_URBANTRACK_46CAM",
+    "synthetic_vehicle_id_for_ground_truth_only": "SYN_VEH_0077",
+    "tracklets": [
+      {
+        "camera_id": "SYN_CAM_10",
+        "track_id": "SYN_CAM_10_TRK_0077"
+      },
+      {
+        "camera_id": "SYN_CAM_16",
+        "track_id": "SYN_CAM_16_TRK_0077"
+      },
+      {
+        "camera_id": "SYN_CAM_19",
+        "track_id": "SYN_CAM_19_TRK_0077"
+      },
+      {
+        "camera_id": "SYN_CAM_22",
+        "track_id": "SYN_CAM_22_TRK_0077"
+      }
+    ],
+    "route_camera_sequence": [
+      "SYN_CAM_10",
+      "SYN_CAM_16",
+      "SYN_CAM_19",
+      "SYN_CAM_22"
+    ],
+    "first_seen": "2026-10-10T08:52:08.000",
+    "last_seen": "2026-10-10T09:05:49.000",
+    "route_status": "reconstructed_with_missing_observation",
+    "source_type": "synthetic_demo",
+    "synthetic": true
+  },
+  {
+    "journey_id": "SYN_JNY_0078",
+    "scenario_id": "SYNTH_URBANTRACK_46CAM",
+    "synthetic_vehicle_id_for_ground_truth_only": "SYN_VEH_0078",
+    "tracklets": [
+      {
+        "camera_id": "SYN_CAM_13",
+        "track_id": "SYN_CAM_13_TRK_0078"
+      },
+      {
+        "camera_id": "SYN_CAM_14",
+        "track_id": "SYN_CAM_14_TRK_0078"
+      },
+      {
+        "camera_id": "SYN_CAM_18",
+        "track_id": "SYN_CAM_18_TRK_0078"
+      },
+      {
+        "camera_id": "SYN_CAM_21",
+        "track_id": "SYN_CAM_21_TRK_0078"
+      },
+      {
+        "camera_id": "SYN_CAM_22",
+        "track_id": "SYN_CAM_22_TRK_0078"
+      },
+      {
+        "camera_id": "SYN_CAM_23",
+        "track_id": "SYN_CAM_23_TRK_0078"
+      }
+    ],
+    "route_camera_sequence": [
+      "SYN_CAM_13",
+      "SYN_CAM_14",
+      "SYN_CAM_18",
+      "SYN_CAM_21",
+      "SYN_CAM_22",
+      "SYN_CAM_23"
+    ],
+    "first_seen": "2026-10-10T10:38:38.000",
+    "last_seen": "2026-10-10T11:08:23.000",
+    "route_status": "reconstructed",
+    "source_type": "synthetic_demo",
+    "synthetic": true
+  },
+  {
+    "journey_id": "SYN_JNY_0079",
+    "scenario_id": "SYNTH_URBANTRACK_46CAM",
+    "synthetic_vehicle_id_for_ground_truth_only": "SYN_VEH_0079",
+    "tracklets": [
+      {
+        "camera_id": "SYN_CAM_24",
+        "track_id": "SYN_CAM_24_TRK_0079"
+      },
+      {
+        "camera_id": "SYN_CAM_27",
+        "track_id": "SYN_CAM_27_TRK_0079"
+      },
+      {
+        "camera_id": "SYN_CAM_28",
+        "track_id": "SYN_CAM_28_TRK_0079"
+      },
+      {
+        "camera_id": "SYN_CAM_29",
+        "track_id": "SYN_CAM_29_TRK_0079"
+      },
+      {
+        "camera_id": "SYN_CAM_30",
+        "track_id": "SYN_CAM_30_TRK_0079"
+      },
+      {
+        "camera_id": "SYN_CAM_32",
+        "track_id": "SYN_CAM_32_TRK_0079"
+      },
+      {
+        "camera_id": "SYN_CAM_34",
+        "track_id": "SYN_CAM_34_TRK_0079"
+      },
+      {
+        "camera_id": "SYN_CAM_36",
+        "track_id": "SYN_CAM_36_TRK_0079"
+      },
+      {
+        "camera_id": "SYN_CAM_40",
+        "track_id": "SYN_CAM_40_TRK_0079"
+      }
+    ],
+    "route_camera_sequence": [
+      "SYN_CAM_24",
+      "SYN_CAM_27",
+      "SYN_CAM_28",
+      "SYN_CAM_29",
+      "SYN_CAM_30",
+      "SYN_CAM_32",
+      "SYN_CAM_34",
+      "SYN_CAM_36",
+      "SYN_CAM_40"
+    ],
+    "first_seen": "2026-10-10T10:08:36.000",
+    "last_seen": "2026-10-10T10:45:07.000",
+    "route_status": "reconstructed",
+    "source_type": "synthetic_demo",
+    "synthetic": true
+  },
+  {
+    "journey_id": "SYN_JNY_0080",
+    "scenario_id": "SYNTH_URBANTRACK_46CAM",
+    "synthetic_vehicle_id_for_ground_truth_only": "SYN_VEH_0080",
+    "tracklets": [
+      {
+        "camera_id": "SYN_CAM_02",
+        "track_id": "SYN_CAM_02_TRK_0080"
+      },
+      {
+        "camera_id": "SYN_CAM_06",
+        "track_id": "SYN_CAM_06_TRK_0080"
+      },
+      {
+        "camera_id": "SYN_CAM_07",
+        "track_id": "SYN_CAM_07_TRK_0080"
+      },
+      {
+        "camera_id": "SYN_CAM_08",
+        "track_id": "SYN_CAM_08_TRK_0080"
+      },
+      {
+        "camera_id": "SYN_CAM_10",
+        "track_id": "SYN_CAM_10_TRK_0080"
+      },
+      {
+        "camera_id": "SYN_CAM_14",
+        "track_id": "SYN_CAM_14_TRK_0080"
+      },
+      {
+        "camera_id": "SYN_CAM_18",
+        "track_id": "SYN_CAM_18_TRK_0080"
+      },
+      {
+        "camera_id": "SYN_CAM_22",
+        "track_id": "SYN_CAM_22_TRK_0080"
+      }
+    ],
+    "route_camera_sequence": [
+      "SYN_CAM_02",
+      "SYN_CAM_06",
+      "SYN_CAM_07",
+      "SYN_CAM_08",
+      "SYN_CAM_10",
+      "SYN_CAM_14",
+      "SYN_CAM_18",
+      "SYN_CAM_22"
+    ],
+    "first_seen": "2026-10-10T10:24:55.000",
+    "last_seen": "2026-10-10T10:59:06.000",
+    "route_status": "reconstructed",
+    "source_type": "synthetic_demo",
+    "synthetic": true
+  },
+  {
+    "journey_id": "SYN_JNY_0081",
+    "scenario_id": "SYNTH_URBANTRACK_46CAM",
+    "synthetic_vehicle_id_for_ground_truth_only": "SYN_VEH_0081",
+    "tracklets": [
+      {
+        "camera_id": "SYN_CAM_37",
+        "track_id": "SYN_CAM_37_TRK_0081"
+      },
+      {
+        "camera_id": "SYN_CAM_41",
+        "track_id": "SYN_CAM_41_TRK_0081"
+      },
+      {
+        "camera_id": "SYN_CAM_43",
+        "track_id": "SYN_CAM_43_TRK_0081"
+      },
+      {
+        "camera_id": "SYN_CAM_44",
+        "track_id": "SYN_CAM_44_TRK_0081"
+      },
+      {
+        "camera_id": "SYN_CAM_46",
+        "track_id": "SYN_CAM_46_TRK_0081"
+      },
+      {
+        "camera_id": "SYN_CAM_46",
+        "track_id": "SYN_CAM_46_TRK_0081"
+      }
+    ],
+    "route_camera_sequence": [
+      "SYN_CAM_37",
+      "SYN_CAM_41",
+      "SYN_CAM_43",
+      "SYN_CAM_44",
+      "SYN_CAM_46",
+      "SYN_CAM_46"
+    ],
+    "first_seen": "2026-10-10T09:41:24.000",
+    "last_seen": "2026-10-10T10:02:42.000",
+    "route_status": "reconstructed",
+    "source_type": "synthetic_demo",
+    "synthetic": true
+  },
+  {
+    "journey_id": "SYN_JNY_0082",
+    "scenario_id": "SYNTH_URBANTRACK_46CAM",
+    "synthetic_vehicle_id_for_ground_truth_only": "SYN_VEH_0082",
+    "tracklets": [
+      {
+        "camera_id": "SYN_CAM_04",
+        "track_id": "SYN_CAM_04_TRK_0082"
+      },
+      {
+        "camera_id": "SYN_CAM_08",
+        "track_id": "SYN_CAM_08_TRK_0082"
+      },
+      {
+        "camera_id": "SYN_CAM_10",
+        "track_id": "SYN_CAM_10_TRK_0082"
+      },
+      {
+        "camera_id": "SYN_CAM_11",
+        "track_id": "SYN_CAM_11_TRK_0082"
+      },
+      {
+        "camera_id": "SYN_CAM_14",
+        "track_id": "SYN_CAM_14_TRK_0082"
+      },
+      {
+        "camera_id": "SYN_CAM_17",
+        "track_id": "SYN_CAM_17_TRK_0082"
+      },
+      {
+        "camera_id": "SYN_CAM_18",
+        "track_id": "SYN_CAM_18_TRK_0082"
+      },
+      {
+        "camera_id": "SYN_CAM_19",
+        "track_id": "SYN_CAM_19_TRK_0082"
+      }
+    ],
+    "route_camera_sequence": [
+      "SYN_CAM_04",
+      "SYN_CAM_08",
+      "SYN_CAM_10",
+      "SYN_CAM_11",
+      "SYN_CAM_14",
+      "SYN_CAM_17",
+      "SYN_CAM_18",
+      "SYN_CAM_19"
+    ],
+    "first_seen": "2026-10-10T09:25:55.000",
+    "last_seen": "2026-10-10T09:58:32.000",
+    "route_status": "reconstructed",
+    "source_type": "synthetic_demo",
+    "synthetic": true
+  },
+  {
+    "journey_id": "SYN_JNY_0083",
+    "scenario_id": "SYNTH_URBANTRACK_46CAM",
+    "synthetic_vehicle_id_for_ground_truth_only": "SYN_VEH_0083",
+    "tracklets": [
+      {
+        "camera_id": "SYN_CAM_07",
+        "track_id": "SYN_CAM_07_TRK_0083"
+      },
+      {
+        "camera_id": "SYN_CAM_08",
+        "track_id": "SYN_CAM_08_TRK_0083"
+      },
+      {
+        "camera_id": "SYN_CAM_11",
+        "track_id": "SYN_CAM_11_TRK_0083"
+      },
+      {
+        "camera_id": "SYN_CAM_12",
+        "track_id": "SYN_CAM_12_TRK_0083"
+      },
+      {
+        "camera_id": "SYN_CAM_16",
+        "track_id": "SYN_CAM_16_TRK_0083"
+      },
+      {
+        "camera_id": "SYN_CAM_20",
+        "track_id": "SYN_CAM_20_TRK_0083"
+      },
+      {
+        "camera_id": "SYN_CAM_22",
+        "track_id": "SYN_CAM_22_TRK_0083"
+      },
+      {
+        "camera_id": "SYN_CAM_24",
+        "track_id": "SYN_CAM_24_TRK_0083"
+      }
+    ],
+    "route_camera_sequence": [
+      "SYN_CAM_07",
+      "SYN_CAM_08",
+      "SYN_CAM_11",
+      "SYN_CAM_12",
+      "SYN_CAM_16",
+      "SYN_CAM_20",
+      "SYN_CAM_22",
+      "SYN_CAM_24"
+    ],
+    "first_seen": "2026-10-10T09:01:22.000",
+    "last_seen": "2026-10-10T09:35:00.000",
+    "route_status": "reconstructed",
+    "source_type": "synthetic_demo",
+    "synthetic": true
+  },
+  {
+    "journey_id": "SYN_JNY_0084",
+    "scenario_id": "SYNTH_URBANTRACK_46CAM",
+    "synthetic_vehicle_id_for_ground_truth_only": "SYN_VEH_0084",
+    "tracklets": [
+      {
+        "camera_id": "SYN_CAM_03",
+        "track_id": "SYN_CAM_03_TRK_0084"
+      },
+      {
+        "camera_id": "SYN_CAM_04",
+        "track_id": "SYN_CAM_04_TRK_0084"
+      },
+      {
+        "camera_id": "SYN_CAM_08",
+        "track_id": "SYN_CAM_08_TRK_0084"
+      }
+    ],
+    "route_camera_sequence": [
+      "SYN_CAM_03",
+      "SYN_CAM_04",
+      "SYN_CAM_08"
+    ],
+    "first_seen": "2026-10-10T10:30:02.000",
+    "last_seen": "2026-10-10T10:41:11.000",
+    "route_status": "reconstructed",
+    "source_type": "synthetic_demo",
+    "synthetic": true
+  },
+  {
+    "journey_id": "SYN_JNY_0085",
+    "scenario_id": "SYNTH_URBANTRACK_46CAM",
+    "synthetic_vehicle_id_for_ground_truth_only": "SYN_VEH_0085",
+    "tracklets": [
+      {
+        "camera_id": "SYN_CAM_13",
+        "track_id": "SYN_CAM_13_TRK_0085"
+      },
+      {
+        "camera_id": "SYN_CAM_16",
+        "track_id": "SYN_CAM_16_TRK_0085"
+      },
+      {
+        "camera_id": "SYN_CAM_17",
+        "track_id": "SYN_CAM_17_TRK_0085"
+      },
+      {
+        "camera_id": "SYN_CAM_21",
+        "track_id": "SYN_CAM_21_TRK_0085"
+      },
+      {
+        "camera_id": "SYN_CAM_23",
+        "track_id": "SYN_CAM_23_TRK_0085"
+      }
+    ],
+    "route_camera_sequence": [
+      "SYN_CAM_13",
+      "SYN_CAM_16",
+      "SYN_CAM_17",
+      "SYN_CAM_21",
+      "SYN_CAM_23"
+    ],
+    "first_seen": "2026-10-10T09:58:24.000",
+    "last_seen": "2026-10-10T10:14:26.000",
+    "route_status": "reconstructed",
+    "source_type": "synthetic_demo",
+    "synthetic": true
+  },
+  {
+    "journey_id": "SYN_JNY_0086",
+    "scenario_id": "SYNTH_URBANTRACK_46CAM",
+    "synthetic_vehicle_id_for_ground_truth_only": "SYN_VEH_0086",
+    "tracklets": [
+      {
+        "camera_id": "SYN_CAM_31",
+        "track_id": "SYN_CAM_31_TRK_0086"
+      },
+      {
+        "camera_id": "SYN_CAM_33",
+        "track_id": "SYN_CAM_33_TRK_0086"
+      },
+      {
+        "camera_id": "SYN_CAM_34",
+        "track_id": "SYN_CAM_34_TRK_0086"
+      },
+      {
+        "camera_id": "SYN_CAM_35",
+        "track_id": "SYN_CAM_35_TRK_0086"
+      },
+      {
+        "camera_id": "SYN_CAM_36",
+        "track_id": "SYN_CAM_36_TRK_0086"
+      },
+      {
+        "camera_id": "SYN_CAM_37",
+        "track_id": "SYN_CAM_37_TRK_0086"
+      },
+      {
+        "camera_id": "SYN_CAM_41",
+        "track_id": "SYN_CAM_41_TRK_0086"
+      }
+    ],
+    "route_camera_sequence": [
+      "SYN_CAM_31",
+      "SYN_CAM_33",
+      "SYN_CAM_34",
+      "SYN_CAM_35",
+      "SYN_CAM_36",
+      "SYN_CAM_37",
+      "SYN_CAM_41"
+    ],
+    "first_seen": "2026-10-10T10:38:27.000",
+    "last_seen": "2026-10-10T11:10:00.000",
+    "route_status": "reconstructed",
+    "source_type": "synthetic_demo",
+    "synthetic": true
+  },
+  {
+    "journey_id": "SYN_JNY_0087",
+    "scenario_id": "SYNTH_URBANTRACK_46CAM",
+    "synthetic_vehicle_id_for_ground_truth_only": "SYN_VEH_0087",
+    "tracklets": [
+      {
+        "camera_id": "SYN_CAM_14",
+        "track_id": "SYN_CAM_14_TRK_0087"
+      },
+      {
+        "camera_id": "SYN_CAM_16",
+        "track_id": "SYN_CAM_16_TRK_0087"
+      },
+      {
+        "camera_id": "SYN_CAM_17",
+        "track_id": "SYN_CAM_17_TRK_0087"
+      },
+      {
+        "camera_id": "SYN_CAM_20",
+        "track_id": "SYN_CAM_20_TRK_0087"
+      },
+      {
+        "camera_id": "SYN_CAM_21",
+        "track_id": "SYN_CAM_21_TRK_0087"
+      },
+      {
+        "camera_id": "SYN_CAM_24",
+        "track_id": "SYN_CAM_24_TRK_0087"
+      }
+    ],
+    "route_camera_sequence": [
+      "SYN_CAM_14",
+      "SYN_CAM_16",
+      "SYN_CAM_17",
+      "SYN_CAM_20",
+      "SYN_CAM_21",
+      "SYN_CAM_24"
+    ],
+    "first_seen": "2026-10-10T09:04:10.000",
+    "last_seen": "2026-10-10T09:25:03.000",
+    "route_status": "reconstructed",
+    "source_type": "synthetic_demo",
+    "synthetic": true
+  },
+  {
+    "journey_id": "SYN_JNY_0088",
+    "scenario_id": "SYNTH_URBANTRACK_46CAM",
+    "synthetic_vehicle_id_for_ground_truth_only": "SYN_VEH_0088",
+    "tracklets": [
+      {
+        "camera_id": "SYN_CAM_02",
+        "track_id": "SYN_CAM_02_TRK_0088"
+      },
+      {
+        "camera_id": "SYN_CAM_07",
+        "track_id": "SYN_CAM_07_TRK_0088"
+      },
+      {
+        "camera_id": "SYN_CAM_08",
+        "track_id": "SYN_CAM_08_TRK_0088"
+      },
+      {
+        "camera_id": "SYN_CAM_09",
+        "track_id": "SYN_CAM_09_TRK_0088"
+      }
+    ],
+    "route_camera_sequence": [
+      "SYN_CAM_02",
+      "SYN_CAM_07",
+      "SYN_CAM_08",
+      "SYN_CAM_09"
+    ],
+    "first_seen": "2026-10-10T09:35:07.000",
+    "last_seen": "2026-10-10T09:53:55.000",
+    "route_status": "reconstructed_with_missing_observation",
+    "source_type": "synthetic_demo",
+    "synthetic": true
+  },
+  {
+    "journey_id": "SYN_JNY_0089",
+    "scenario_id": "SYNTH_URBANTRACK_46CAM",
+    "synthetic_vehicle_id_for_ground_truth_only": "SYN_VEH_0089",
+    "tracklets": [
+      {
+        "camera_id": "SYN_CAM_26",
+        "track_id": "SYN_CAM_26_TRK_0089"
+      },
+      {
+        "camera_id": "SYN_CAM_28",
+        "track_id": "SYN_CAM_28_TRK_0089"
+      },
+      {
+        "camera_id": "SYN_CAM_31",
+        "track_id": "SYN_CAM_31_TRK_0089"
+      },
+      {
+        "camera_id": "SYN_CAM_32",
+        "track_id": "SYN_CAM_32_TRK_0089"
+      },
+      {
+        "camera_id": "SYN_CAM_34",
+        "track_id": "SYN_CAM_34_TRK_0089"
+      },
+      {
+        "camera_id": "SYN_CAM_37",
+        "track_id": "SYN_CAM_37_TRK_0089"
+      },
+      {
+        "camera_id": "SYN_CAM_41",
+        "track_id": "SYN_CAM_41_TRK_0089"
+      },
+      {
+        "camera_id": "SYN_CAM_45",
+        "track_id": "SYN_CAM_45_TRK_0089"
+      },
+      {
+        "camera_id": "SYN_CAM_46",
+        "track_id": "SYN_CAM_46_TRK_0089"
+      }
+    ],
+    "route_camera_sequence": [
+      "SYN_CAM_26",
+      "SYN_CAM_28",
+      "SYN_CAM_31",
+      "SYN_CAM_32",
+      "SYN_CAM_34",
+      "SYN_CAM_37",
+      "SYN_CAM_41",
+      "SYN_CAM_45",
+      "SYN_CAM_46"
+    ],
+    "first_seen": "2026-10-10T08:00:53.000",
+    "last_seen": "2026-10-10T08:50:19.000",
+    "route_status": "reconstructed",
+    "source_type": "synthetic_demo",
+    "synthetic": true
+  },
+  {
+    "journey_id": "SYN_JNY_0090",
+    "scenario_id": "SYNTH_URBANTRACK_46CAM",
+    "synthetic_vehicle_id_for_ground_truth_only": "SYN_VEH_0090",
+    "tracklets": [
+      {
+        "camera_id": "SYN_CAM_25",
+        "track_id": "SYN_CAM_25_TRK_0090"
+      },
+      {
+        "camera_id": "SYN_CAM_27",
+        "track_id": "SYN_CAM_27_TRK_0090"
+      },
+      {
+        "camera_id": "SYN_CAM_29",
+        "track_id": "SYN_CAM_29_TRK_0090"
+      },
+      {
+        "camera_id": "SYN_CAM_33",
+        "track_id": "SYN_CAM_33_TRK_0090"
+      }
+    ],
+    "route_camera_sequence": [
+      "SYN_CAM_25",
+      "SYN_CAM_27",
+      "SYN_CAM_29",
+      "SYN_CAM_33"
+    ],
+    "first_seen": "2026-10-10T09:53:15.000",
+    "last_seen": "2026-10-10T10:10:32.000",
+    "route_status": "reconstructed",
+    "source_type": "synthetic_demo",
+    "synthetic": true
+  },
+  {
+    "journey_id": "SYN_JNY_0091",
+    "scenario_id": "SYNTH_URBANTRACK_46CAM",
+    "synthetic_vehicle_id_for_ground_truth_only": "SYN_VEH_0091",
+    "tracklets": [
+      {
+        "camera_id": "SYN_CAM_17",
+        "track_id": "SYN_CAM_17_TRK_0091"
+      },
+      {
+        "camera_id": "SYN_CAM_18",
+        "track_id": "SYN_CAM_18_TRK_0091"
+      },
+      {
+        "camera_id": "SYN_CAM_19",
+        "track_id": "SYN_CAM_19_TRK_0091"
+      },
+      {
+        "camera_id": "SYN_CAM_22",
+        "track_id": "SYN_CAM_22_TRK_0091"
+      },
+      {
+        "camera_id": "SYN_CAM_24",
+        "track_id": "SYN_CAM_24_TRK_0091"
+      },
+      {
+        "camera_id": "SYN_CAM_25",
+        "track_id": "SYN_CAM_25_TRK_0091"
+      },
+      {
+        "camera_id": "SYN_CAM_27",
+        "track_id": "SYN_CAM_27_TRK_0091"
+      },
+      {
+        "camera_id": "SYN_CAM_31",
+        "track_id": "SYN_CAM_31_TRK_0091"
+      }
+    ],
+    "route_camera_sequence": [
+      "SYN_CAM_17",
+      "SYN_CAM_18",
+      "SYN_CAM_19",
+      "SYN_CAM_22",
+      "SYN_CAM_24",
+      "SYN_CAM_25",
+      "SYN_CAM_27",
+      "SYN_CAM_31"
+    ],
+    "first_seen": "2026-10-10T08:36:53.000",
+    "last_seen": "2026-10-10T09:19:32.000",
+    "route_status": "reconstructed",
+    "source_type": "synthetic_demo",
+    "synthetic": true
+  },
+  {
+    "journey_id": "SYN_JNY_0092",
+    "scenario_id": "SYNTH_URBANTRACK_46CAM",
+    "synthetic_vehicle_id_for_ground_truth_only": "SYN_VEH_0092",
+    "tracklets": [
+      {
+        "camera_id": "SYN_CAM_24",
+        "track_id": "SYN_CAM_24_TRK_0092"
+      },
+      {
+        "camera_id": "SYN_CAM_26",
+        "track_id": "SYN_CAM_26_TRK_0092"
+      },
+      {
+        "camera_id": "SYN_CAM_27",
+        "track_id": "SYN_CAM_27_TRK_0092"
+      },
+      {
+        "camera_id": "SYN_CAM_30",
+        "track_id": "SYN_CAM_30_TRK_0092"
+      },
+      {
+        "camera_id": "SYN_CAM_31",
+        "track_id": "SYN_CAM_31_TRK_0092"
+      },
+      {
+        "camera_id": "SYN_CAM_33",
+        "track_id": "SYN_CAM_33_TRK_0092"
+      },
+      {
+        "camera_id": "SYN_CAM_34",
+        "track_id": "SYN_CAM_34_TRK_0092"
+      },
+      {
+        "camera_id": "SYN_CAM_37",
+        "track_id": "SYN_CAM_37_TRK_0092"
+      }
+    ],
+    "route_camera_sequence": [
+      "SYN_CAM_24",
+      "SYN_CAM_26",
+      "SYN_CAM_27",
+      "SYN_CAM_30",
+      "SYN_CAM_31",
+      "SYN_CAM_33",
+      "SYN_CAM_34",
+      "SYN_CAM_37"
+    ],
+    "first_seen": "2026-10-10T08:28:05.000",
+    "last_seen": "2026-10-10T09:00:50.000",
+    "route_status": "reconstructed",
+    "source_type": "synthetic_demo",
+    "synthetic": true
+  },
+  {
+    "journey_id": "SYN_JNY_0093",
+    "scenario_id": "SYNTH_URBANTRACK_46CAM",
+    "synthetic_vehicle_id_for_ground_truth_only": "SYN_VEH_0093",
+    "tracklets": [
+      {
+        "camera_id": "SYN_CAM_24",
+        "track_id": "SYN_CAM_24_TRK_0093"
+      },
+      {
+        "camera_id": "SYN_CAM_27",
+        "track_id": "SYN_CAM_27_TRK_0093"
+      },
+      {
+        "camera_id": "SYN_CAM_31",
+        "track_id": "SYN_CAM_31_TRK_0093"
+      },
+      {
+        "camera_id": "SYN_CAM_34",
+        "track_id": "SYN_CAM_34_TRK_0093"
+      },
+      {
+        "camera_id": "SYN_CAM_36",
+        "track_id": "SYN_CAM_36_TRK_0093"
+      },
+      {
+        "camera_id": "SYN_CAM_38",
+        "track_id": "SYN_CAM_38_TRK_0093"
+      },
+      {
+        "camera_id": "SYN_CAM_39",
+        "track_id": "SYN_CAM_39_TRK_0093"
+      },
+      {
+        "camera_id": "SYN_CAM_41",
+        "track_id": "SYN_CAM_41_TRK_0093"
+      },
+      {
+        "camera_id": "SYN_CAM_42",
+        "track_id": "SYN_CAM_42_TRK_0093"
+      }
+    ],
+    "route_camera_sequence": [
+      "SYN_CAM_24",
+      "SYN_CAM_27",
+      "SYN_CAM_31",
+      "SYN_CAM_34",
+      "SYN_CAM_36",
+      "SYN_CAM_38",
+      "SYN_CAM_39",
+      "SYN_CAM_41",
+      "SYN_CAM_42"
+    ],
+    "first_seen": "2026-10-10T09:44:20.000",
+    "last_seen": "2026-10-10T10:28:29.000",
+    "route_status": "reconstructed",
+    "source_type": "synthetic_demo",
+    "synthetic": true
+  },
+  {
+    "journey_id": "SYN_JNY_0094",
+    "scenario_id": "SYNTH_URBANTRACK_46CAM",
+    "synthetic_vehicle_id_for_ground_truth_only": "SYN_VEH_0094",
+    "tracklets": [
+      {
+        "camera_id": "SYN_CAM_30",
+        "track_id": "SYN_CAM_30_TRK_0094"
+      },
+      {
+        "camera_id": "SYN_CAM_31",
+        "track_id": "SYN_CAM_31_TRK_0094"
+      },
+      {
+        "camera_id": "SYN_CAM_33",
+        "track_id": "SYN_CAM_33_TRK_0094"
+      },
+      {
+        "camera_id": "SYN_CAM_34",
+        "track_id": "SYN_CAM_34_TRK_0094"
+      },
+      {
+        "camera_id": "SYN_CAM_35",
+        "track_id": "SYN_CAM_35_TRK_0094"
+      },
+      {
+        "camera_id": "SYN_CAM_39",
+        "track_id": "SYN_CAM_39_TRK_0094"
+      },
+      {
+        "camera_id": "SYN_CAM_40",
+        "track_id": "SYN_CAM_40_TRK_0094"
+      },
+      {
+        "camera_id": "SYN_CAM_42",
+        "track_id": "SYN_CAM_42_TRK_0094"
+      },
+      {
+        "camera_id": "SYN_CAM_44",
+        "track_id": "SYN_CAM_44_TRK_0094"
+      }
+    ],
+    "route_camera_sequence": [
+      "SYN_CAM_30",
+      "SYN_CAM_31",
+      "SYN_CAM_33",
+      "SYN_CAM_34",
+      "SYN_CAM_35",
+      "SYN_CAM_39",
+      "SYN_CAM_40",
+      "SYN_CAM_42",
+      "SYN_CAM_44"
+    ],
+    "first_seen": "2026-10-10T10:44:21.000",
+    "last_seen": "2026-10-10T11:23:25.000",
+    "route_status": "reconstructed",
+    "source_type": "synthetic_demo",
+    "synthetic": true
+  },
+  {
+    "journey_id": "SYN_JNY_0095",
+    "scenario_id": "SYNTH_URBANTRACK_46CAM",
+    "synthetic_vehicle_id_for_ground_truth_only": "SYN_VEH_0095",
+    "tracklets": [
+      {
+        "camera_id": "SYN_CAM_33",
+        "track_id": "SYN_CAM_33_TRK_0095"
+      },
+      {
+        "camera_id": "SYN_CAM_34",
+        "track_id": "SYN_CAM_34_TRK_0095"
+      },
+      {
+        "camera_id": "SYN_CAM_35",
+        "track_id": "SYN_CAM_35_TRK_0095"
+      }
+    ],
+    "route_camera_sequence": [
+      "SYN_CAM_33",
+      "SYN_CAM_34",
+      "SYN_CAM_35"
+    ],
+    "first_seen": "2026-10-10T08:44:20.000",
+    "last_seen": "2026-10-10T08:57:40.000",
+    "route_status": "reconstructed",
+    "source_type": "synthetic_demo",
+    "synthetic": true
+  },
+  {
+    "journey_id": "SYN_JNY_0096",
+    "scenario_id": "SYNTH_URBANTRACK_46CAM",
+    "synthetic_vehicle_id_for_ground_truth_only": "SYN_VEH_0096",
+    "tracklets": [
+      {
+        "camera_id": "SYN_CAM_28",
+        "track_id": "SYN_CAM_28_TRK_0096"
+      },
+      {
+        "camera_id": "SYN_CAM_29",
+        "track_id": "SYN_CAM_29_TRK_0096"
+      },
+      {
+        "camera_id": "SYN_CAM_31",
+        "track_id": "SYN_CAM_31_TRK_0096"
+      },
+      {
+        "camera_id": "SYN_CAM_33",
+        "track_id": "SYN_CAM_33_TRK_0096"
+      },
+      {
+        "camera_id": "SYN_CAM_35",
+        "track_id": "SYN_CAM_35_TRK_0096"
+      },
+      {
+        "camera_id": "SYN_CAM_39",
+        "track_id": "SYN_CAM_39_TRK_0096"
+      },
+      {
+        "camera_id": "SYN_CAM_41",
+        "track_id": "SYN_CAM_41_TRK_0096"
+      },
+      {
+        "camera_id": "SYN_CAM_43",
+        "track_id": "SYN_CAM_43_TRK_0096"
+      }
+    ],
+    "route_camera_sequence": [
+      "SYN_CAM_28",
+      "SYN_CAM_29",
+      "SYN_CAM_31",
+      "SYN_CAM_33",
+      "SYN_CAM_35",
+      "SYN_CAM_39",
+      "SYN_CAM_41",
+      "SYN_CAM_43"
+    ],
+    "first_seen": "2026-10-10T10:13:45.000",
+    "last_seen": "2026-10-10T10:50:03.000",
+    "route_status": "reconstructed",
+    "source_type": "synthetic_demo",
+    "synthetic": true
+  },
+  {
+    "journey_id": "SYN_JNY_0097",
+    "scenario_id": "SYNTH_URBANTRACK_46CAM",
+    "synthetic_vehicle_id_for_ground_truth_only": "SYN_VEH_0097",
+    "tracklets": [
+      {
+        "camera_id": "SYN_CAM_05",
+        "track_id": "SYN_CAM_05_TRK_0097"
+      },
+      {
+        "camera_id": "SYN_CAM_07",
+        "track_id": "SYN_CAM_07_TRK_0097"
+      },
+      {
+        "camera_id": "SYN_CAM_08",
+        "track_id": "SYN_CAM_08_TRK_0097"
+      },
+      {
+        "camera_id": "SYN_CAM_12",
+        "track_id": "SYN_CAM_12_TRK_0097"
+      }
+    ],
+    "route_camera_sequence": [
+      "SYN_CAM_05",
+      "SYN_CAM_07",
+      "SYN_CAM_08",
+      "SYN_CAM_12"
+    ],
+    "first_seen": "2026-10-10T09:12:11.000",
+    "last_seen": "2026-10-10T09:27:42.000",
+    "route_status": "reconstructed",
+    "source_type": "synthetic_demo",
+    "synthetic": true
+  },
+  {
+    "journey_id": "SYN_JNY_0098",
+    "scenario_id": "SYNTH_URBANTRACK_46CAM",
+    "synthetic_vehicle_id_for_ground_truth_only": "SYN_VEH_0098",
+    "tracklets": [
+      {
+        "camera_id": "SYN_CAM_14",
+        "track_id": "SYN_CAM_14_TRK_0098"
+      },
+      {
+        "camera_id": "SYN_CAM_16",
+        "track_id": "SYN_CAM_16_TRK_0098"
+      },
+      {
+        "camera_id": "SYN_CAM_17",
+        "track_id": "SYN_CAM_17_TRK_0098"
+      },
+      {
+        "camera_id": "SYN_CAM_18",
+        "track_id": "SYN_CAM_18_TRK_0098"
+      }
+    ],
+    "route_camera_sequence": [
+      "SYN_CAM_14",
+      "SYN_CAM_16",
+      "SYN_CAM_17",
+      "SYN_CAM_18"
+    ],
+    "first_seen": "2026-10-10T08:55:43.000",
+    "last_seen": "2026-10-10T09:13:29.000",
+    "route_status": "reconstructed",
+    "source_type": "synthetic_demo",
+    "synthetic": true
+  },
+  {
+    "journey_id": "SYN_JNY_0099",
+    "scenario_id": "SYNTH_URBANTRACK_46CAM",
+    "synthetic_vehicle_id_for_ground_truth_only": "SYN_VEH_0099",
+    "tracklets": [
+      {
+        "camera_id": "SYN_CAM_16",
+        "track_id": "SYN_CAM_16_TRK_0099"
+      },
+      {
+        "camera_id": "SYN_CAM_19",
+        "track_id": "SYN_CAM_19_TRK_0099"
+      },
+      {
+        "camera_id": "SYN_CAM_21",
+        "track_id": "SYN_CAM_21_TRK_0099"
+      },
+      {
+        "camera_id": "SYN_CAM_22",
+        "track_id": "SYN_CAM_22_TRK_0099"
+      },
+      {
+        "camera_id": "SYN_CAM_25",
+        "track_id": "SYN_CAM_25_TRK_0099"
+      },
+      {
+        "camera_id": "SYN_CAM_26",
+        "track_id": "SYN_CAM_26_TRK_0099"
+      }
+    ],
+    "route_camera_sequence": [
+      "SYN_CAM_16",
+      "SYN_CAM_19",
+      "SYN_CAM_21",
+      "SYN_CAM_22",
+      "SYN_CAM_25",
+      "SYN_CAM_26"
+    ],
+    "first_seen": "2026-10-10T08:38:47.000",
+    "last_seen": "2026-10-10T09:05:22.000",
+    "route_status": "reconstructed_with_missing_observation",
+    "source_type": "synthetic_demo",
+    "synthetic": true
+  },
+  {
+    "journey_id": "SYN_JNY_0100",
+    "scenario_id": "SYNTH_URBANTRACK_46CAM",
+    "synthetic_vehicle_id_for_ground_truth_only": "SYN_VEH_0100",
+    "tracklets": [
+      {
+        "camera_id": "SYN_CAM_29",
+        "track_id": "SYN_CAM_29_TRK_0100"
+      },
+      {
+        "camera_id": "SYN_CAM_30",
+        "track_id": "SYN_CAM_30_TRK_0100"
+      },
+      {
+        "camera_id": "SYN_CAM_32",
+        "track_id": "SYN_CAM_32_TRK_0100"
+      }
+    ],
+    "route_camera_sequence": [
+      "SYN_CAM_29",
+      "SYN_CAM_30",
+      "SYN_CAM_32"
+    ],
+    "first_seen": "2026-10-10T09:28:36.000",
+    "last_seen": "2026-10-10T09:39:13.000",
+    "route_status": "reconstructed",
+    "source_type": "synthetic_demo",
+    "synthetic": true
+  },
+  {
+    "journey_id": "SYN_JNY_0101",
+    "scenario_id": "SYNTH_URBANTRACK_46CAM",
+    "synthetic_vehicle_id_for_ground_truth_only": "SYN_VEH_0101",
+    "tracklets": [
+      {
+        "camera_id": "SYN_CAM_14",
+        "track_id": "SYN_CAM_14_TRK_0101"
+      },
+      {
+        "camera_id": "SYN_CAM_16",
+        "track_id": "SYN_CAM_16_TRK_0101"
+      },
+      {
+        "camera_id": "SYN_CAM_18",
+        "track_id": "SYN_CAM_18_TRK_0101"
+      },
+      {
+        "camera_id": "SYN_CAM_20",
+        "track_id": "SYN_CAM_20_TRK_0101"
+      },
+      {
+        "camera_id": "SYN_CAM_21",
+        "track_id": "SYN_CAM_21_TRK_0101"
+      }
+    ],
+    "route_camera_sequence": [
+      "SYN_CAM_14",
+      "SYN_CAM_16",
+      "SYN_CAM_18",
+      "SYN_CAM_20",
+      "SYN_CAM_21"
+    ],
+    "first_seen": "2026-10-10T09:24:55.000",
+    "last_seen": "2026-10-10T09:44:51.000",
+    "route_status": "reconstructed",
+    "source_type": "synthetic_demo",
+    "synthetic": true
+  },
+  {
+    "journey_id": "SYN_JNY_0102",
+    "scenario_id": "SYNTH_URBANTRACK_46CAM",
+    "synthetic_vehicle_id_for_ground_truth_only": "SYN_VEH_0102",
+    "tracklets": [
+      {
+        "camera_id": "SYN_CAM_38",
+        "track_id": "SYN_CAM_38_TRK_0102"
+      },
+      {
+        "camera_id": "SYN_CAM_40",
+        "track_id": "SYN_CAM_40_TRK_0102"
+      },
+      {
+        "camera_id": "SYN_CAM_42",
+        "track_id": "SYN_CAM_42_TRK_0102"
+      },
+      {
+        "camera_id": "SYN_CAM_46",
+        "track_id": "SYN_CAM_46_TRK_0102"
+      },
+      {
+        "camera_id": "SYN_CAM_46",
+        "track_id": "SYN_CAM_46_TRK_0102"
+      },
+      {
+        "camera_id": "SYN_CAM_46",
+        "track_id": "SYN_CAM_46_TRK_0102"
+      }
+    ],
+    "route_camera_sequence": [
+      "SYN_CAM_38",
+      "SYN_CAM_40",
+      "SYN_CAM_42",
+      "SYN_CAM_46",
+      "SYN_CAM_46",
+      "SYN_CAM_46"
+    ],
+    "first_seen": "2026-10-10T10:23:21.000",
+    "last_seen": "2026-10-10T10:52:11.000",
+    "route_status": "reconstructed",
+    "source_type": "synthetic_demo",
+    "synthetic": true
+  },
+  {
+    "journey_id": "SYN_JNY_0103",
+    "scenario_id": "SYNTH_URBANTRACK_46CAM",
+    "synthetic_vehicle_id_for_ground_truth_only": "SYN_VEH_0103",
+    "tracklets": [
+      {
+        "camera_id": "SYN_CAM_20",
+        "track_id": "SYN_CAM_20_TRK_0103"
+      },
+      {
+        "camera_id": "SYN_CAM_21",
+        "track_id": "SYN_CAM_21_TRK_0103"
+      },
+      {
+        "camera_id": "SYN_CAM_23",
+        "track_id": "SYN_CAM_23_TRK_0103"
+      },
+      {
+        "camera_id": "SYN_CAM_24",
+        "track_id": "SYN_CAM_24_TRK_0103"
+      }
+    ],
+    "route_camera_sequence": [
+      "SYN_CAM_20",
+      "SYN_CAM_21",
+      "SYN_CAM_23",
+      "SYN_CAM_24"
+    ],
+    "first_seen": "2026-10-10T08:03:23.000",
+    "last_seen": "2026-10-10T08:16:22.000",
+    "route_status": "reconstructed",
+    "source_type": "synthetic_demo",
+    "synthetic": true
+  },
+  {
+    "journey_id": "SYN_JNY_0104",
+    "scenario_id": "SYNTH_URBANTRACK_46CAM",
+    "synthetic_vehicle_id_for_ground_truth_only": "SYN_VEH_0104",
+    "tracklets": [
+      {
+        "camera_id": "SYN_CAM_23",
+        "track_id": "SYN_CAM_23_TRK_0104"
+      },
+      {
+        "camera_id": "SYN_CAM_24",
+        "track_id": "SYN_CAM_24_TRK_0104"
+      },
+      {
+        "camera_id": "SYN_CAM_25",
+        "track_id": "SYN_CAM_25_TRK_0104"
+      },
+      {
+        "camera_id": "SYN_CAM_29",
+        "track_id": "SYN_CAM_29_TRK_0104"
+      },
+      {
+        "camera_id": "SYN_CAM_30",
+        "track_id": "SYN_CAM_30_TRK_0104"
+      },
+      {
+        "camera_id": "SYN_CAM_31",
+        "track_id": "SYN_CAM_31_TRK_0104"
+      },
+      {
+        "camera_id": "SYN_CAM_33",
+        "track_id": "SYN_CAM_33_TRK_0104"
+      },
+      {
+        "camera_id": "SYN_CAM_35",
+        "track_id": "SYN_CAM_35_TRK_0104"
+      }
+    ],
+    "route_camera_sequence": [
+      "SYN_CAM_23",
+      "SYN_CAM_24",
+      "SYN_CAM_25",
+      "SYN_CAM_29",
+      "SYN_CAM_30",
+      "SYN_CAM_31",
+      "SYN_CAM_33",
+      "SYN_CAM_35"
+    ],
+    "first_seen": "2026-10-10T09:03:12.000",
+    "last_seen": "2026-10-10T09:45:40.000",
+    "route_status": "reconstructed",
+    "source_type": "synthetic_demo",
+    "synthetic": true
+  },
+  {
+    "journey_id": "SYN_JNY_0105",
+    "scenario_id": "SYNTH_URBANTRACK_46CAM",
+    "synthetic_vehicle_id_for_ground_truth_only": "SYN_VEH_0105",
+    "tracklets": [
+      {
+        "camera_id": "SYN_CAM_14",
+        "track_id": "SYN_CAM_14_TRK_0105"
+      },
+      {
+        "camera_id": "SYN_CAM_17",
+        "track_id": "SYN_CAM_17_TRK_0105"
+      },
+      {
+        "camera_id": "SYN_CAM_18",
+        "track_id": "SYN_CAM_18_TRK_0105"
+      },
+      {
+        "camera_id": "SYN_CAM_19",
+        "track_id": "SYN_CAM_19_TRK_0105"
+      },
+      {
+        "camera_id": "SYN_CAM_21",
+        "track_id": "SYN_CAM_21_TRK_0105"
+      },
+      {
+        "camera_id": "SYN_CAM_23",
+        "track_id": "SYN_CAM_23_TRK_0105"
+      },
+      {
+        "camera_id": "SYN_CAM_25",
+        "track_id": "SYN_CAM_25_TRK_0105"
+      },
+      {
+        "camera_id": "SYN_CAM_28",
+        "track_id": "SYN_CAM_28_TRK_0105"
+      }
+    ],
+    "route_camera_sequence": [
+      "SYN_CAM_14",
+      "SYN_CAM_17",
+      "SYN_CAM_18",
+      "SYN_CAM_19",
+      "SYN_CAM_21",
+      "SYN_CAM_23",
+      "SYN_CAM_25",
+      "SYN_CAM_28"
+    ],
+    "first_seen": "2026-10-10T08:10:48.000",
+    "last_seen": "2026-10-10T08:53:58.000",
+    "route_status": "reconstructed",
+    "source_type": "synthetic_demo",
+    "synthetic": true
+  },
+  {
+    "journey_id": "SYN_JNY_0106",
+    "scenario_id": "SYNTH_URBANTRACK_46CAM",
+    "synthetic_vehicle_id_for_ground_truth_only": "SYN_VEH_0106",
+    "tracklets": [
+      {
+        "camera_id": "SYN_CAM_37",
+        "track_id": "SYN_CAM_37_TRK_0106"
+      },
+      {
+        "camera_id": "SYN_CAM_39",
+        "track_id": "SYN_CAM_39_TRK_0106"
+      },
+      {
+        "camera_id": "SYN_CAM_41",
+        "track_id": "SYN_CAM_41_TRK_0106"
+      },
+      {
+        "camera_id": "SYN_CAM_45",
+        "track_id": "SYN_CAM_45_TRK_0106"
+      },
+      {
+        "camera_id": "SYN_CAM_46",
+        "track_id": "SYN_CAM_46_TRK_0106"
+      }
+    ],
+    "route_camera_sequence": [
+      "SYN_CAM_37",
+      "SYN_CAM_39",
+      "SYN_CAM_41",
+      "SYN_CAM_45",
+      "SYN_CAM_46"
+    ],
+    "first_seen": "2026-10-10T09:07:51.000",
+    "last_seen": "2026-10-10T09:24:26.000",
+    "route_status": "reconstructed",
+    "source_type": "synthetic_demo",
+    "synthetic": true
+  },
+  {
+    "journey_id": "SYN_JNY_0107",
+    "scenario_id": "SYNTH_URBANTRACK_46CAM",
+    "synthetic_vehicle_id_for_ground_truth_only": "SYN_VEH_0107",
+    "tracklets": [
+      {
+        "camera_id": "SYN_CAM_13",
+        "track_id": "SYN_CAM_13_TRK_0107"
+      },
+      {
+        "camera_id": "SYN_CAM_14",
+        "track_id": "SYN_CAM_14_TRK_0107"
+      },
+      {
+        "camera_id": "SYN_CAM_15",
+        "track_id": "SYN_CAM_15_TRK_0107"
+      },
+      {
+        "camera_id": "SYN_CAM_16",
+        "track_id": "SYN_CAM_16_TRK_0107"
+      }
+    ],
+    "route_camera_sequence": [
+      "SYN_CAM_13",
+      "SYN_CAM_14",
+      "SYN_CAM_15",
+      "SYN_CAM_16"
+    ],
+    "first_seen": "2026-10-10T08:01:27.000",
+    "last_seen": "2026-10-10T08:21:00.000",
+    "route_status": "reconstructed",
+    "source_type": "synthetic_demo",
+    "synthetic": true
+  },
+  {
+    "journey_id": "SYN_JNY_0108",
+    "scenario_id": "SYNTH_URBANTRACK_46CAM",
+    "synthetic_vehicle_id_for_ground_truth_only": "SYN_VEH_0108",
+    "tracklets": [
+      {
+        "camera_id": "SYN_CAM_12",
+        "track_id": "SYN_CAM_12_TRK_0108"
+      },
+      {
+        "camera_id": "SYN_CAM_13",
+        "track_id": "SYN_CAM_13_TRK_0108"
+      },
+      {
+        "camera_id": "SYN_CAM_15",
+        "track_id": "SYN_CAM_15_TRK_0108"
+      }
+    ],
+    "route_camera_sequence": [
+      "SYN_CAM_12",
+      "SYN_CAM_13",
+      "SYN_CAM_15"
+    ],
+    "first_seen": "2026-10-10T09:59:31.000",
+    "last_seen": "2026-10-10T10:07:12.000",
+    "route_status": "reconstructed",
+    "source_type": "synthetic_demo",
+    "synthetic": true
+  },
+  {
+    "journey_id": "SYN_JNY_0109",
+    "scenario_id": "SYNTH_URBANTRACK_46CAM",
+    "synthetic_vehicle_id_for_ground_truth_only": "SYN_VEH_0109",
+    "tracklets": [
+      {
+        "camera_id": "SYN_CAM_29",
+        "track_id": "SYN_CAM_29_TRK_0109"
+      },
+      {
+        "camera_id": "SYN_CAM_30",
+        "track_id": "SYN_CAM_30_TRK_0109"
+      },
+      {
+        "camera_id": "SYN_CAM_34",
+        "track_id": "SYN_CAM_34_TRK_0109"
+      },
+      {
+        "camera_id": "SYN_CAM_35",
+        "track_id": "SYN_CAM_35_TRK_0109"
+      },
+      {
+        "camera_id": "SYN_CAM_36",
+        "track_id": "SYN_CAM_36_TRK_0109"
+      },
+      {
+        "camera_id": "SYN_CAM_37",
+        "track_id": "SYN_CAM_37_TRK_0109"
+      },
+      {
+        "camera_id": "SYN_CAM_38",
+        "track_id": "SYN_CAM_38_TRK_0109"
+      },
+      {
+        "camera_id": "SYN_CAM_40",
+        "track_id": "SYN_CAM_40_TRK_0109"
+      }
+    ],
+    "route_camera_sequence": [
+      "SYN_CAM_29",
+      "SYN_CAM_30",
+      "SYN_CAM_34",
+      "SYN_CAM_35",
+      "SYN_CAM_36",
+      "SYN_CAM_37",
+      "SYN_CAM_38",
+      "SYN_CAM_40"
+    ],
+    "first_seen": "2026-10-10T09:42:41.000",
+    "last_seen": "2026-10-10T10:18:31.000",
+    "route_status": "reconstructed",
+    "source_type": "synthetic_demo",
+    "synthetic": true
+  },
+  {
+    "journey_id": "SYN_JNY_0110",
+    "scenario_id": "SYNTH_URBANTRACK_46CAM",
+    "synthetic_vehicle_id_for_ground_truth_only": "SYN_VEH_0110",
+    "tracklets": [
+      {
+        "camera_id": "SYN_CAM_02",
+        "track_id": "SYN_CAM_02_TRK_0110"
+      },
+      {
+        "camera_id": "SYN_CAM_07",
+        "track_id": "SYN_CAM_07_TRK_0110"
+      },
+      {
+        "camera_id": "SYN_CAM_08",
+        "track_id": "SYN_CAM_08_TRK_0110"
+      },
+      {
+        "camera_id": "SYN_CAM_10",
+        "track_id": "SYN_CAM_10_TRK_0110"
+      }
+    ],
+    "route_camera_sequence": [
+      "SYN_CAM_02",
+      "SYN_CAM_07",
+      "SYN_CAM_08",
+      "SYN_CAM_10"
+    ],
+    "first_seen": "2026-10-10T08:34:25.000",
+    "last_seen": "2026-10-10T08:54:44.000",
+    "route_status": "reconstructed_with_missing_observation",
+    "source_type": "synthetic_demo",
+    "synthetic": true
+  },
+  {
+    "journey_id": "SYN_JNY_0111",
+    "scenario_id": "SYNTH_URBANTRACK_46CAM",
+    "synthetic_vehicle_id_for_ground_truth_only": "SYN_VEH_0111",
+    "tracklets": [
+      {
+        "camera_id": "SYN_CAM_34",
+        "track_id": "SYN_CAM_34_TRK_0111"
+      },
+      {
+        "camera_id": "SYN_CAM_35",
+        "track_id": "SYN_CAM_35_TRK_0111"
+      },
+      {
+        "camera_id": "SYN_CAM_36",
+        "track_id": "SYN_CAM_36_TRK_0111"
+      }
+    ],
+    "route_camera_sequence": [
+      "SYN_CAM_34",
+      "SYN_CAM_35",
+      "SYN_CAM_36"
+    ],
+    "first_seen": "2026-10-10T09:25:43.000",
+    "last_seen": "2026-10-10T09:34:24.000",
+    "route_status": "reconstructed",
+    "source_type": "synthetic_demo",
+    "synthetic": true
+  },
+  {
+    "journey_id": "SYN_JNY_0112",
+    "scenario_id": "SYNTH_URBANTRACK_46CAM",
+    "synthetic_vehicle_id_for_ground_truth_only": "SYN_VEH_0112",
+    "tracklets": [
+      {
+        "camera_id": "SYN_CAM_27",
+        "track_id": "SYN_CAM_27_TRK_0112"
+      },
+      {
+        "camera_id": "SYN_CAM_28",
+        "track_id": "SYN_CAM_28_TRK_0112"
+      },
+      {
+        "camera_id": "SYN_CAM_32",
+        "track_id": "SYN_CAM_32_TRK_0112"
+      },
+      {
+        "camera_id": "SYN_CAM_34",
+        "track_id": "SYN_CAM_34_TRK_0112"
+      },
+      {
+        "camera_id": "SYN_CAM_35",
+        "track_id": "SYN_CAM_35_TRK_0112"
+      }
+    ],
+    "route_camera_sequence": [
+      "SYN_CAM_27",
+      "SYN_CAM_28",
+      "SYN_CAM_32",
+      "SYN_CAM_34",
+      "SYN_CAM_35"
+    ],
+    "first_seen": "2026-10-10T09:42:36.000",
+    "last_seen": "2026-10-10T10:02:50.000",
+    "route_status": "reconstructed",
+    "source_type": "synthetic_demo",
+    "synthetic": true
+  },
+  {
+    "journey_id": "SYN_JNY_0113",
+    "scenario_id": "SYNTH_URBANTRACK_46CAM",
+    "synthetic_vehicle_id_for_ground_truth_only": "SYN_VEH_0113",
+    "tracklets": [
+      {
+        "camera_id": "SYN_CAM_38",
+        "track_id": "SYN_CAM_38_TRK_0113"
+      },
+      {
+        "camera_id": "SYN_CAM_41",
+        "track_id": "SYN_CAM_41_TRK_0113"
+      },
+      {
+        "camera_id": "SYN_CAM_42",
+        "track_id": "SYN_CAM_42_TRK_0113"
+      },
+      {
+        "camera_id": "SYN_CAM_46",
+        "track_id": "SYN_CAM_46_TRK_0113"
+      },
+      {
+        "camera_id": "SYN_CAM_46",
+        "track_id": "SYN_CAM_46_TRK_0113"
+      },
+      {
+        "camera_id": "SYN_CAM_46",
+        "track_id": "SYN_CAM_46_TRK_0113"
+      },
+      {
+        "camera_id": "SYN_CAM_46",
+        "track_id": "SYN_CAM_46_TRK_0113"
+      }
+    ],
+    "route_camera_sequence": [
+      "SYN_CAM_38",
+      "SYN_CAM_41",
+      "SYN_CAM_42",
+      "SYN_CAM_46",
+      "SYN_CAM_46",
+      "SYN_CAM_46",
+      "SYN_CAM_46"
+    ],
+    "first_seen": "2026-10-10T10:19:25.000",
+    "last_seen": "2026-10-10T10:42:18.000",
+    "route_status": "reconstructed",
+    "source_type": "synthetic_demo",
+    "synthetic": true
+  },
+  {
+    "journey_id": "SYN_JNY_0114",
+    "scenario_id": "SYNTH_URBANTRACK_46CAM",
+    "synthetic_vehicle_id_for_ground_truth_only": "SYN_VEH_0114",
+    "tracklets": [
+      {
+        "camera_id": "SYN_CAM_36",
+        "track_id": "SYN_CAM_36_TRK_0114"
+      },
+      {
+        "camera_id": "SYN_CAM_37",
+        "track_id": "SYN_CAM_37_TRK_0114"
+      },
+      {
+        "camera_id": "SYN_CAM_39",
+        "track_id": "SYN_CAM_39_TRK_0114"
+      },
+      {
+        "camera_id": "SYN_CAM_40",
+        "track_id": "SYN_CAM_40_TRK_0114"
+      },
+      {
+        "camera_id": "SYN_CAM_42",
+        "track_id": "SYN_CAM_42_TRK_0114"
+      },
+      {
+        "camera_id": "SYN_CAM_43",
+        "track_id": "SYN_CAM_43_TRK_0114"
+      },
+      {
+        "camera_id": "SYN_CAM_45",
+        "track_id": "SYN_CAM_45_TRK_0114"
+      },
+      {
+        "camera_id": "SYN_CAM_46",
+        "track_id": "SYN_CAM_46_TRK_0114"
+      }
+    ],
+    "route_camera_sequence": [
+      "SYN_CAM_36",
+      "SYN_CAM_37",
+      "SYN_CAM_39",
+      "SYN_CAM_40",
+      "SYN_CAM_42",
+      "SYN_CAM_43",
+      "SYN_CAM_45",
+      "SYN_CAM_46"
+    ],
+    "first_seen": "2026-10-10T09:26:58.000",
+    "last_seen": "2026-10-10T10:09:44.000",
+    "route_status": "reconstructed",
+    "source_type": "synthetic_demo",
+    "synthetic": true
+  },
+  {
+    "journey_id": "SYN_JNY_0115",
+    "scenario_id": "SYNTH_URBANTRACK_46CAM",
+    "synthetic_vehicle_id_for_ground_truth_only": "SYN_VEH_0115",
+    "tracklets": [
+      {
+        "camera_id": "SYN_CAM_25",
+        "track_id": "SYN_CAM_25_TRK_0115"
+      },
+      {
+        "camera_id": "SYN_CAM_26",
+        "track_id": "SYN_CAM_26_TRK_0115"
+      },
+      {
+        "camera_id": "SYN_CAM_28",
+        "track_id": "SYN_CAM_28_TRK_0115"
+      },
+      {
+        "camera_id": "SYN_CAM_30",
+        "track_id": "SYN_CAM_30_TRK_0115"
+      },
+      {
+        "camera_id": "SYN_CAM_31",
+        "track_id": "SYN_CAM_31_TRK_0115"
+      }
+    ],
+    "route_camera_sequence": [
+      "SYN_CAM_25",
+      "SYN_CAM_26",
+      "SYN_CAM_28",
+      "SYN_CAM_30",
+      "SYN_CAM_31"
+    ],
+    "first_seen": "2026-10-10T08:53:46.000",
+    "last_seen": "2026-10-10T09:14:25.000",
+    "route_status": "reconstructed",
+    "source_type": "synthetic_demo",
+    "synthetic": true
+  },
+  {
+    "journey_id": "SYN_JNY_0116",
+    "scenario_id": "SYNTH_URBANTRACK_46CAM",
+    "synthetic_vehicle_id_for_ground_truth_only": "SYN_VEH_0116",
+    "tracklets": [
+      {
+        "camera_id": "SYN_CAM_34",
+        "track_id": "SYN_CAM_34_TRK_0116"
+      },
+      {
+        "camera_id": "SYN_CAM_35",
+        "track_id": "SYN_CAM_35_TRK_0116"
+      },
+      {
+        "camera_id": "SYN_CAM_37",
+        "track_id": "SYN_CAM_37_TRK_0116"
+      },
+      {
+        "camera_id": "SYN_CAM_38",
+        "track_id": "SYN_CAM_38_TRK_0116"
+      },
+      {
+        "camera_id": "SYN_CAM_39",
+        "track_id": "SYN_CAM_39_TRK_0116"
+      }
+    ],
+    "route_camera_sequence": [
+      "SYN_CAM_34",
+      "SYN_CAM_35",
+      "SYN_CAM_37",
+      "SYN_CAM_38",
+      "SYN_CAM_39"
+    ],
+    "first_seen": "2026-10-10T10:22:36.000",
+    "last_seen": "2026-10-10T10:38:58.000",
+    "route_status": "reconstructed",
+    "source_type": "synthetic_demo",
+    "synthetic": true
+  },
+  {
+    "journey_id": "SYN_JNY_0117",
+    "scenario_id": "SYNTH_URBANTRACK_46CAM",
+    "synthetic_vehicle_id_for_ground_truth_only": "SYN_VEH_0117",
+    "tracklets": [
+      {
+        "camera_id": "SYN_CAM_36",
+        "track_id": "SYN_CAM_36_TRK_0117"
+      },
+      {
+        "camera_id": "SYN_CAM_37",
+        "track_id": "SYN_CAM_37_TRK_0117"
+      },
+      {
+        "camera_id": "SYN_CAM_38",
+        "track_id": "SYN_CAM_38_TRK_0117"
+      },
+      {
+        "camera_id": "SYN_CAM_42",
+        "track_id": "SYN_CAM_42_TRK_0117"
+      },
+      {
+        "camera_id": "SYN_CAM_43",
+        "track_id": "SYN_CAM_43_TRK_0117"
+      },
+      {
+        "camera_id": "SYN_CAM_44",
+        "track_id": "SYN_CAM_44_TRK_0117"
+      }
+    ],
+    "route_camera_sequence": [
+      "SYN_CAM_36",
+      "SYN_CAM_37",
+      "SYN_CAM_38",
+      "SYN_CAM_42",
+      "SYN_CAM_43",
+      "SYN_CAM_44"
+    ],
+    "first_seen": "2026-10-10T10:49:43.000",
+    "last_seen": "2026-10-10T11:11:33.000",
+    "route_status": "reconstructed",
+    "source_type": "synthetic_demo",
+    "synthetic": true
+  },
+  {
+    "journey_id": "SYN_JNY_0118",
+    "scenario_id": "SYNTH_URBANTRACK_46CAM",
+    "synthetic_vehicle_id_for_ground_truth_only": "SYN_VEH_0118",
+    "tracklets": [
+      {
+        "camera_id": "SYN_CAM_03",
+        "track_id": "SYN_CAM_03_TRK_0118"
+      },
+      {
+        "camera_id": "SYN_CAM_04",
+        "track_id": "SYN_CAM_04_TRK_0118"
+      },
+      {
+        "camera_id": "SYN_CAM_07",
+        "track_id": "SYN_CAM_07_TRK_0118"
+      },
+      {
+        "camera_id": "SYN_CAM_11",
+        "track_id": "SYN_CAM_11_TRK_0118"
+      },
+      {
+        "camera_id": "SYN_CAM_12",
+        "track_id": "SYN_CAM_12_TRK_0118"
+      },
+      {
+        "camera_id": "SYN_CAM_15",
+        "track_id": "SYN_CAM_15_TRK_0118"
+      },
+      {
+        "camera_id": "SYN_CAM_16",
+        "track_id": "SYN_CAM_16_TRK_0118"
+      },
+      {
+        "camera_id": "SYN_CAM_17",
+        "track_id": "SYN_CAM_17_TRK_0118"
+      }
+    ],
+    "route_camera_sequence": [
+      "SYN_CAM_03",
+      "SYN_CAM_04",
+      "SYN_CAM_07",
+      "SYN_CAM_11",
+      "SYN_CAM_12",
+      "SYN_CAM_15",
+      "SYN_CAM_16",
+      "SYN_CAM_17"
+    ],
+    "first_seen": "2026-10-10T09:50:05.000",
+    "last_seen": "2026-10-10T10:23:02.000",
+    "route_status": "reconstructed",
+    "source_type": "synthetic_demo",
+    "synthetic": true
+  },
+  {
+    "journey_id": "SYN_JNY_0119",
+    "scenario_id": "SYNTH_URBANTRACK_46CAM",
+    "synthetic_vehicle_id_for_ground_truth_only": "SYN_VEH_0119",
+    "tracklets": [
+      {
+        "camera_id": "SYN_CAM_38",
+        "track_id": "SYN_CAM_38_TRK_0119"
+      },
+      {
+        "camera_id": "SYN_CAM_40",
+        "track_id": "SYN_CAM_40_TRK_0119"
+      },
+      {
+        "camera_id": "SYN_CAM_43",
+        "track_id": "SYN_CAM_43_TRK_0119"
+      },
+      {
+        "camera_id": "SYN_CAM_45",
+        "track_id": "SYN_CAM_45_TRK_0119"
+      },
+      {
+        "camera_id": "SYN_CAM_46",
+        "track_id": "SYN_CAM_46_TRK_0119"
+      },
+      {
+        "camera_id": "SYN_CAM_46",
+        "track_id": "SYN_CAM_46_TRK_0119"
+      },
+      {
+        "camera_id": "SYN_CAM_46",
+        "track_id": "SYN_CAM_46_TRK_0119"
+      },
+      {
+        "camera_id": "SYN_CAM_46",
+        "track_id": "SYN_CAM_46_TRK_0119"
+      },
+      {
+        "camera_id": "SYN_CAM_46",
+        "track_id": "SYN_CAM_46_TRK_0119"
+      }
+    ],
+    "route_camera_sequence": [
+      "SYN_CAM_38",
+      "SYN_CAM_40",
+      "SYN_CAM_43",
+      "SYN_CAM_45",
+      "SYN_CAM_46",
+      "SYN_CAM_46",
+      "SYN_CAM_46",
+      "SYN_CAM_46",
+      "SYN_CAM_46"
+    ],
+    "first_seen": "2026-10-10T10:21:54.000",
+    "last_seen": "2026-10-10T11:00:58.000",
+    "route_status": "reconstructed",
+    "source_type": "synthetic_demo",
+    "synthetic": true
+  },
+  {
+    "journey_id": "SYN_JNY_0120",
+    "scenario_id": "SYNTH_URBANTRACK_46CAM",
+    "synthetic_vehicle_id_for_ground_truth_only": "SYN_VEH_0120",
+    "tracklets": [
+      {
+        "camera_id": "SYN_CAM_32",
+        "track_id": "SYN_CAM_32_TRK_0120"
+      },
+      {
+        "camera_id": "SYN_CAM_33",
+        "track_id": "SYN_CAM_33_TRK_0120"
+      },
+      {
+        "camera_id": "SYN_CAM_34",
+        "track_id": "SYN_CAM_34_TRK_0120"
+      },
+      {
+        "camera_id": "SYN_CAM_35",
+        "track_id": "SYN_CAM_35_TRK_0120"
+      }
+    ],
+    "route_camera_sequence": [
+      "SYN_CAM_32",
+      "SYN_CAM_33",
+      "SYN_CAM_34",
+      "SYN_CAM_35"
+    ],
+    "first_seen": "2026-10-10T10:49:57.000",
+    "last_seen": "2026-10-10T11:02:15.000",
+    "route_status": "reconstructed",
+    "source_type": "synthetic_demo",
+    "synthetic": true
+  },
+  {
+    "journey_id": "SYN_JNY_0121",
+    "scenario_id": "SYNTH_URBANTRACK_46CAM",
+    "synthetic_vehicle_id_for_ground_truth_only": "SYN_VEH_0121",
+    "tracklets": [
+      {
+        "camera_id": "SYN_CAM_25",
+        "track_id": "SYN_CAM_25_TRK_0121"
+      },
+      {
+        "camera_id": "SYN_CAM_26",
+        "track_id": "SYN_CAM_26_TRK_0121"
+      },
+      {
+        "camera_id": "SYN_CAM_30",
+        "track_id": "SYN_CAM_30_TRK_0121"
+      }
+    ],
+    "route_camera_sequence": [
+      "SYN_CAM_25",
+      "SYN_CAM_26",
+      "SYN_CAM_30"
+    ],
+    "first_seen": "2026-10-10T09:23:39.000",
+    "last_seen": "2026-10-10T09:36:13.000",
+    "route_status": "reconstructed",
+    "source_type": "synthetic_demo",
+    "synthetic": true
+  },
+  {
+    "journey_id": "SYN_JNY_0122",
+    "scenario_id": "SYNTH_URBANTRACK_46CAM",
+    "synthetic_vehicle_id_for_ground_truth_only": "SYN_VEH_0122",
+    "tracklets": [
+      {
+        "camera_id": "SYN_CAM_28",
+        "track_id": "SYN_CAM_28_TRK_0122"
+      },
+      {
+        "camera_id": "SYN_CAM_29",
+        "track_id": "SYN_CAM_29_TRK_0122"
+      },
+      {
+        "camera_id": "SYN_CAM_33",
+        "track_id": "SYN_CAM_33_TRK_0122"
+      },
+      {
+        "camera_id": "SYN_CAM_34",
+        "track_id": "SYN_CAM_34_TRK_0122"
+      },
+      {
+        "camera_id": "SYN_CAM_37",
+        "track_id": "SYN_CAM_37_TRK_0122"
+      }
+    ],
+    "route_camera_sequence": [
+      "SYN_CAM_28",
+      "SYN_CAM_29",
+      "SYN_CAM_33",
+      "SYN_CAM_34",
+      "SYN_CAM_37"
+    ],
+    "first_seen": "2026-10-10T10:13:54.000",
+    "last_seen": "2026-10-10T10:34:13.000",
+    "route_status": "reconstructed",
+    "source_type": "synthetic_demo",
+    "synthetic": true
+  },
+  {
+    "journey_id": "SYN_JNY_0123",
+    "scenario_id": "SYNTH_URBANTRACK_46CAM",
+    "synthetic_vehicle_id_for_ground_truth_only": "SYN_VEH_0123",
+    "tracklets": [
+      {
+        "camera_id": "SYN_CAM_09",
+        "track_id": "SYN_CAM_09_TRK_0123"
+      },
+      {
+        "camera_id": "SYN_CAM_10",
+        "track_id": "SYN_CAM_10_TRK_0123"
+      },
+      {
+        "camera_id": "SYN_CAM_11",
+        "track_id": "SYN_CAM_11_TRK_0123"
+      },
+      {
+        "camera_id": "SYN_CAM_13",
+        "track_id": "SYN_CAM_13_TRK_0123"
+      },
+      {
+        "camera_id": "SYN_CAM_15",
+        "track_id": "SYN_CAM_15_TRK_0123"
+      },
+      {
+        "camera_id": "SYN_CAM_16",
+        "track_id": "SYN_CAM_16_TRK_0123"
+      }
+    ],
+    "route_camera_sequence": [
+      "SYN_CAM_09",
+      "SYN_CAM_10",
+      "SYN_CAM_11",
+      "SYN_CAM_13",
+      "SYN_CAM_15",
+      "SYN_CAM_16"
+    ],
+    "first_seen": "2026-10-10T08:47:29.000",
+    "last_seen": "2026-10-10T09:06:21.000",
+    "route_status": "reconstructed",
+    "source_type": "synthetic_demo",
+    "synthetic": true
+  },
+  {
+    "journey_id": "SYN_JNY_0124",
+    "scenario_id": "SYNTH_URBANTRACK_46CAM",
+    "synthetic_vehicle_id_for_ground_truth_only": "SYN_VEH_0124",
+    "tracklets": [
+      {
+        "camera_id": "SYN_CAM_39",
+        "track_id": "SYN_CAM_39_TRK_0124"
+      },
+      {
+        "camera_id": "SYN_CAM_43",
+        "track_id": "SYN_CAM_43_TRK_0124"
+      },
+      {
+        "camera_id": "SYN_CAM_45",
+        "track_id": "SYN_CAM_45_TRK_0124"
+      },
+      {
+        "camera_id": "SYN_CAM_46",
+        "track_id": "SYN_CAM_46_TRK_0124"
+      },
+      {
+        "camera_id": "SYN_CAM_46",
+        "track_id": "SYN_CAM_46_TRK_0124"
+      },
+      {
+        "camera_id": "SYN_CAM_46",
+        "track_id": "SYN_CAM_46_TRK_0124"
+      },
+      {
+        "camera_id": "SYN_CAM_46",
+        "track_id": "SYN_CAM_46_TRK_0124"
+      },
+      {
+        "camera_id": "SYN_CAM_46",
+        "track_id": "SYN_CAM_46_TRK_0124"
+      }
+    ],
+    "route_camera_sequence": [
+      "SYN_CAM_39",
+      "SYN_CAM_43",
+      "SYN_CAM_45",
+      "SYN_CAM_46",
+      "SYN_CAM_46",
+      "SYN_CAM_46",
+      "SYN_CAM_46",
+      "SYN_CAM_46"
+    ],
+    "first_seen": "2026-10-10T08:55:18.000",
+    "last_seen": "2026-10-10T09:27:55.000",
+    "route_status": "reconstructed",
+    "source_type": "synthetic_demo",
+    "synthetic": true
+  },
+  {
+    "journey_id": "SYN_JNY_0125",
+    "scenario_id": "SYNTH_URBANTRACK_46CAM",
+    "synthetic_vehicle_id_for_ground_truth_only": "SYN_VEH_0125",
+    "tracklets": [
+      {
+        "camera_id": "SYN_CAM_39",
+        "track_id": "SYN_CAM_39_TRK_0125"
+      },
+      {
+        "camera_id": "SYN_CAM_40",
+        "track_id": "SYN_CAM_40_TRK_0125"
+      },
+      {
+        "camera_id": "SYN_CAM_41",
+        "track_id": "SYN_CAM_41_TRK_0125"
+      },
+      {
+        "camera_id": "SYN_CAM_45",
+        "track_id": "SYN_CAM_45_TRK_0125"
+      },
+      {
+        "camera_id": "SYN_CAM_46",
+        "track_id": "SYN_CAM_46_TRK_0125"
+      },
+      {
+        "camera_id": "SYN_CAM_46",
+        "track_id": "SYN_CAM_46_TRK_0125"
+      },
+      {
+        "camera_id": "SYN_CAM_46",
+        "track_id": "SYN_CAM_46_TRK_0125"
+      },
+      {
+        "camera_id": "SYN_CAM_46",
+        "track_id": "SYN_CAM_46_TRK_0125"
+      }
+    ],
+    "route_camera_sequence": [
+      "SYN_CAM_39",
+      "SYN_CAM_40",
+      "SYN_CAM_41",
+      "SYN_CAM_45",
+      "SYN_CAM_46",
+      "SYN_CAM_46",
+      "SYN_CAM_46",
+      "SYN_CAM_46"
+    ],
+    "first_seen": "2026-10-10T09:08:09.000",
+    "last_seen": "2026-10-10T09:46:58.000",
+    "route_status": "reconstructed",
+    "source_type": "synthetic_demo",
+    "synthetic": true
+  },
+  {
+    "journey_id": "SYN_JNY_0126",
+    "scenario_id": "SYNTH_URBANTRACK_46CAM",
+    "synthetic_vehicle_id_for_ground_truth_only": "SYN_VEH_0126",
+    "tracklets": [
+      {
+        "camera_id": "SYN_CAM_15",
+        "track_id": "SYN_CAM_15_TRK_0126"
+      },
+      {
+        "camera_id": "SYN_CAM_16",
+        "track_id": "SYN_CAM_16_TRK_0126"
+      },
+      {
+        "camera_id": "SYN_CAM_17",
+        "track_id": "SYN_CAM_17_TRK_0126"
+      },
+      {
+        "camera_id": "SYN_CAM_18",
+        "track_id": "SYN_CAM_18_TRK_0126"
+      },
+      {
+        "camera_id": "SYN_CAM_19",
+        "track_id": "SYN_CAM_19_TRK_0126"
+      },
+      {
+        "camera_id": "SYN_CAM_23",
+        "track_id": "SYN_CAM_23_TRK_0126"
+      },
+      {
+        "camera_id": "SYN_CAM_24",
+        "track_id": "SYN_CAM_24_TRK_0126"
+      },
+      {
+        "camera_id": "SYN_CAM_26",
+        "track_id": "SYN_CAM_26_TRK_0126"
+      },
+      {
+        "camera_id": "SYN_CAM_27",
+        "track_id": "SYN_CAM_27_TRK_0126"
+      }
+    ],
+    "route_camera_sequence": [
+      "SYN_CAM_15",
+      "SYN_CAM_16",
+      "SYN_CAM_17",
+      "SYN_CAM_18",
+      "SYN_CAM_19",
+      "SYN_CAM_23",
+      "SYN_CAM_24",
+      "SYN_CAM_26",
+      "SYN_CAM_27"
+    ],
+    "first_seen": "2026-10-10T08:14:47.000",
+    "last_seen": "2026-10-10T08:52:33.000",
+    "route_status": "reconstructed",
+    "source_type": "synthetic_demo",
+    "synthetic": true
+  },
+  {
+    "journey_id": "SYN_JNY_0127",
+    "scenario_id": "SYNTH_URBANTRACK_46CAM",
+    "synthetic_vehicle_id_for_ground_truth_only": "SYN_VEH_0127",
+    "tracklets": [
+      {
+        "camera_id": "SYN_CAM_24",
+        "track_id": "SYN_CAM_24_TRK_0127"
+      },
+      {
+        "camera_id": "SYN_CAM_27",
+        "track_id": "SYN_CAM_27_TRK_0127"
+      },
+      {
+        "camera_id": "SYN_CAM_30",
+        "track_id": "SYN_CAM_30_TRK_0127"
+      },
+      {
+        "camera_id": "SYN_CAM_33",
+        "track_id": "SYN_CAM_33_TRK_0127"
+      },
+      {
+        "camera_id": "SYN_CAM_35",
+        "track_id": "SYN_CAM_35_TRK_0127"
+      },
+      {
+        "camera_id": "SYN_CAM_36",
+        "track_id": "SYN_CAM_36_TRK_0127"
+      }
+    ],
+    "route_camera_sequence": [
+      "SYN_CAM_24",
+      "SYN_CAM_27",
+      "SYN_CAM_30",
+      "SYN_CAM_33",
+      "SYN_CAM_35",
+      "SYN_CAM_36"
+    ],
+    "first_seen": "2026-10-10T08:18:50.000",
+    "last_seen": "2026-10-10T08:42:51.000",
+    "route_status": "reconstructed",
+    "source_type": "synthetic_demo",
+    "synthetic": true
+  },
+  {
+    "journey_id": "SYN_JNY_0128",
+    "scenario_id": "SYNTH_URBANTRACK_46CAM",
+    "synthetic_vehicle_id_for_ground_truth_only": "SYN_VEH_0128",
+    "tracklets": [
+      {
+        "camera_id": "SYN_CAM_28",
+        "track_id": "SYN_CAM_28_TRK_0128"
+      },
+      {
+        "camera_id": "SYN_CAM_32",
+        "track_id": "SYN_CAM_32_TRK_0128"
+      },
+      {
+        "camera_id": "SYN_CAM_36",
+        "track_id": "SYN_CAM_36_TRK_0128"
+      },
+      {
+        "camera_id": "SYN_CAM_37",
+        "track_id": "SYN_CAM_37_TRK_0128"
+      }
+    ],
+    "route_camera_sequence": [
+      "SYN_CAM_28",
+      "SYN_CAM_32",
+      "SYN_CAM_36",
+      "SYN_CAM_37"
+    ],
+    "first_seen": "2026-10-10T08:06:02.000",
+    "last_seen": "2026-10-10T08:20:57.000",
+    "route_status": "reconstructed",
+    "source_type": "synthetic_demo",
+    "synthetic": true
+  },
+  {
+    "journey_id": "SYN_JNY_0129",
+    "scenario_id": "SYNTH_URBANTRACK_46CAM",
+    "synthetic_vehicle_id_for_ground_truth_only": "SYN_VEH_0129",
+    "tracklets": [
+      {
+        "camera_id": "SYN_CAM_22",
+        "track_id": "SYN_CAM_22_TRK_0129"
+      },
+      {
+        "camera_id": "SYN_CAM_23",
+        "track_id": "SYN_CAM_23_TRK_0129"
+      },
+      {
+        "camera_id": "SYN_CAM_24",
+        "track_id": "SYN_CAM_24_TRK_0129"
+      },
+      {
+        "camera_id": "SYN_CAM_28",
+        "track_id": "SYN_CAM_28_TRK_0129"
+      },
+      {
+        "camera_id": "SYN_CAM_30",
+        "track_id": "SYN_CAM_30_TRK_0129"
+      },
+      {
+        "camera_id": "SYN_CAM_34",
+        "track_id": "SYN_CAM_34_TRK_0129"
+      },
+      {
+        "camera_id": "SYN_CAM_35",
+        "track_id": "SYN_CAM_35_TRK_0129"
+      },
+      {
+        "camera_id": "SYN_CAM_37",
+        "track_id": "SYN_CAM_37_TRK_0129"
+      }
+    ],
+    "route_camera_sequence": [
+      "SYN_CAM_22",
+      "SYN_CAM_23",
+      "SYN_CAM_24",
+      "SYN_CAM_28",
+      "SYN_CAM_30",
+      "SYN_CAM_34",
+      "SYN_CAM_35",
+      "SYN_CAM_37"
+    ],
+    "first_seen": "2026-10-10T09:13:20.000",
+    "last_seen": "2026-10-10T09:45:26.000",
+    "route_status": "reconstructed",
+    "source_type": "synthetic_demo",
+    "synthetic": true
+  },
+  {
+    "journey_id": "SYN_JNY_0130",
+    "scenario_id": "SYNTH_URBANTRACK_46CAM",
+    "synthetic_vehicle_id_for_ground_truth_only": "SYN_VEH_0130",
+    "tracklets": [
+      {
+        "camera_id": "SYN_CAM_10",
+        "track_id": "SYN_CAM_10_TRK_0130"
+      },
+      {
+        "camera_id": "SYN_CAM_14",
+        "track_id": "SYN_CAM_14_TRK_0130"
+      },
+      {
+        "camera_id": "SYN_CAM_15",
+        "track_id": "SYN_CAM_15_TRK_0130"
+      },
+      {
+        "camera_id": "SYN_CAM_19",
+        "track_id": "SYN_CAM_19_TRK_0130"
+      },
+      {
+        "camera_id": "SYN_CAM_22",
+        "track_id": "SYN_CAM_22_TRK_0130"
+      }
+    ],
+    "route_camera_sequence": [
+      "SYN_CAM_10",
+      "SYN_CAM_14",
+      "SYN_CAM_15",
+      "SYN_CAM_19",
+      "SYN_CAM_22"
+    ],
+    "first_seen": "2026-10-10T10:14:25.000",
+    "last_seen": "2026-10-10T10:35:07.000",
+    "route_status": "reconstructed",
+    "source_type": "synthetic_demo",
+    "synthetic": true
+  },
+  {
+    "journey_id": "SYN_JNY_0131",
+    "scenario_id": "SYNTH_URBANTRACK_46CAM",
+    "synthetic_vehicle_id_for_ground_truth_only": "SYN_VEH_0131",
+    "tracklets": [
+      {
+        "camera_id": "SYN_CAM_28",
+        "track_id": "SYN_CAM_28_TRK_0131"
+      },
+      {
+        "camera_id": "SYN_CAM_32",
+        "track_id": "SYN_CAM_32_TRK_0131"
+      },
+      {
+        "camera_id": "SYN_CAM_33",
+        "track_id": "SYN_CAM_33_TRK_0131"
+      },
+      {
+        "camera_id": "SYN_CAM_34",
+        "track_id": "SYN_CAM_34_TRK_0131"
+      },
+      {
+        "camera_id": "SYN_CAM_36",
+        "track_id": "SYN_CAM_36_TRK_0131"
+      }
+    ],
+    "route_camera_sequence": [
+      "SYN_CAM_28",
+      "SYN_CAM_32",
+      "SYN_CAM_33",
+      "SYN_CAM_34",
+      "SYN_CAM_36"
+    ],
+    "first_seen": "2026-10-10T09:17:11.000",
+    "last_seen": "2026-10-10T09:34:58.000",
+    "route_status": "reconstructed",
+    "source_type": "synthetic_demo",
+    "synthetic": true
+  },
+  {
+    "journey_id": "SYN_JNY_0132",
+    "scenario_id": "SYNTH_URBANTRACK_46CAM",
+    "synthetic_vehicle_id_for_ground_truth_only": "SYN_VEH_0132",
+    "tracklets": [
+      {
+        "camera_id": "SYN_CAM_36",
+        "track_id": "SYN_CAM_36_TRK_0132"
+      },
+      {
+        "camera_id": "SYN_CAM_40",
+        "track_id": "SYN_CAM_40_TRK_0132"
+      },
+      {
+        "camera_id": "SYN_CAM_41",
+        "track_id": "SYN_CAM_41_TRK_0132"
+      }
+    ],
+    "route_camera_sequence": [
+      "SYN_CAM_36",
+      "SYN_CAM_40",
+      "SYN_CAM_41"
+    ],
+    "first_seen": "2026-10-10T08:25:09.000",
+    "last_seen": "2026-10-10T08:37:53.000",
+    "route_status": "reconstructed",
+    "source_type": "synthetic_demo",
+    "synthetic": true
+  },
+  {
+    "journey_id": "SYN_JNY_0133",
+    "scenario_id": "SYNTH_URBANTRACK_46CAM",
+    "synthetic_vehicle_id_for_ground_truth_only": "SYN_VEH_0133",
+    "tracklets": [
+      {
+        "camera_id": "SYN_CAM_39",
+        "track_id": "SYN_CAM_39_TRK_0133"
+      },
+      {
+        "camera_id": "SYN_CAM_40",
+        "track_id": "SYN_CAM_40_TRK_0133"
+      },
+      {
+        "camera_id": "SYN_CAM_44",
+        "track_id": "SYN_CAM_44_TRK_0133"
+      },
+      {
+        "camera_id": "SYN_CAM_45",
+        "track_id": "SYN_CAM_45_TRK_0133"
+      },
+      {
+        "camera_id": "SYN_CAM_46",
+        "track_id": "SYN_CAM_46_TRK_0133"
+      }
+    ],
+    "route_camera_sequence": [
+      "SYN_CAM_39",
+      "SYN_CAM_40",
+      "SYN_CAM_44",
+      "SYN_CAM_45",
+      "SYN_CAM_46"
+    ],
+    "first_seen": "2026-10-10T08:10:54.000",
+    "last_seen": "2026-10-10T08:30:37.000",
+    "route_status": "reconstructed",
+    "source_type": "synthetic_demo",
+    "synthetic": true
+  },
+  {
+    "journey_id": "SYN_JNY_0134",
+    "scenario_id": "SYNTH_URBANTRACK_46CAM",
+    "synthetic_vehicle_id_for_ground_truth_only": "SYN_VEH_0134",
+    "tracklets": [
+      {
+        "camera_id": "SYN_CAM_34",
+        "track_id": "SYN_CAM_34_TRK_0134"
+      },
+      {
+        "camera_id": "SYN_CAM_35",
+        "track_id": "SYN_CAM_35_TRK_0134"
+      },
+      {
+        "camera_id": "SYN_CAM_38",
+        "track_id": "SYN_CAM_38_TRK_0134"
+      },
+      {
+        "camera_id": "SYN_CAM_42",
+        "track_id": "SYN_CAM_42_TRK_0134"
+      },
+      {
+        "camera_id": "SYN_CAM_44",
+        "track_id": "SYN_CAM_44_TRK_0134"
+      },
+      {
+        "camera_id": "SYN_CAM_45",
+        "track_id": "SYN_CAM_45_TRK_0134"
+      },
+      {
+        "camera_id": "SYN_CAM_46",
+        "track_id": "SYN_CAM_46_TRK_0134"
+      }
+    ],
+    "route_camera_sequence": [
+      "SYN_CAM_34",
+      "SYN_CAM_35",
+      "SYN_CAM_38",
+      "SYN_CAM_42",
+      "SYN_CAM_44",
+      "SYN_CAM_45",
+      "SYN_CAM_46"
+    ],
+    "first_seen": "2026-10-10T09:18:02.000",
+    "last_seen": "2026-10-10T09:46:04.000",
+    "route_status": "reconstructed",
+    "source_type": "synthetic_demo",
+    "synthetic": true
+  },
+  {
+    "journey_id": "SYN_JNY_0135",
+    "scenario_id": "SYNTH_URBANTRACK_46CAM",
+    "synthetic_vehicle_id_for_ground_truth_only": "SYN_VEH_0135",
+    "tracklets": [
+      {
+        "camera_id": "SYN_CAM_10",
+        "track_id": "SYN_CAM_10_TRK_0135"
+      },
+      {
+        "camera_id": "SYN_CAM_14",
+        "track_id": "SYN_CAM_14_TRK_0135"
+      },
+      {
+        "camera_id": "SYN_CAM_18",
+        "track_id": "SYN_CAM_18_TRK_0135"
+      },
+      {
+        "camera_id": "SYN_CAM_19",
+        "track_id": "SYN_CAM_19_TRK_0135"
+      }
+    ],
+    "route_camera_sequence": [
+      "SYN_CAM_10",
+      "SYN_CAM_14",
+      "SYN_CAM_18",
+      "SYN_CAM_19"
+    ],
+    "first_seen": "2026-10-10T09:40:48.000",
+    "last_seen": "2026-10-10T09:59:10.000",
+    "route_status": "reconstructed",
+    "source_type": "synthetic_demo",
+    "synthetic": true
+  },
+  {
+    "journey_id": "SYN_JNY_0136",
+    "scenario_id": "SYNTH_URBANTRACK_46CAM",
+    "synthetic_vehicle_id_for_ground_truth_only": "SYN_VEH_0136",
+    "tracklets": [
+      {
+        "camera_id": "SYN_CAM_09",
+        "track_id": "SYN_CAM_09_TRK_0136"
+      },
+      {
+        "camera_id": "SYN_CAM_10",
+        "track_id": "SYN_CAM_10_TRK_0136"
+      },
+      {
+        "camera_id": "SYN_CAM_12",
+        "track_id": "SYN_CAM_12_TRK_0136"
+      }
+    ],
+    "route_camera_sequence": [
+      "SYN_CAM_09",
+      "SYN_CAM_10",
+      "SYN_CAM_12"
+    ],
+    "first_seen": "2026-10-10T09:31:50.000",
+    "last_seen": "2026-10-10T09:44:29.000",
+    "route_status": "reconstructed",
+    "source_type": "synthetic_demo",
+    "synthetic": true
+  },
+  {
+    "journey_id": "SYN_JNY_0137",
+    "scenario_id": "SYNTH_URBANTRACK_46CAM",
+    "synthetic_vehicle_id_for_ground_truth_only": "SYN_VEH_0137",
+    "tracklets": [
+      {
+        "camera_id": "SYN_CAM_17",
+        "track_id": "SYN_CAM_17_TRK_0137"
+      },
+      {
+        "camera_id": "SYN_CAM_19",
+        "track_id": "SYN_CAM_19_TRK_0137"
+      },
+      {
+        "camera_id": "SYN_CAM_21",
+        "track_id": "SYN_CAM_21_TRK_0137"
+      },
+      {
+        "camera_id": "SYN_CAM_22",
+        "track_id": "SYN_CAM_22_TRK_0137"
+      },
+      {
+        "camera_id": "SYN_CAM_24",
+        "track_id": "SYN_CAM_24_TRK_0137"
+      },
+      {
+        "camera_id": "SYN_CAM_28",
+        "track_id": "SYN_CAM_28_TRK_0137"
+      },
+      {
+        "camera_id": "SYN_CAM_29",
+        "track_id": "SYN_CAM_29_TRK_0137"
+      },
+      {
+        "camera_id": "SYN_CAM_33",
+        "track_id": "SYN_CAM_33_TRK_0137"
+      }
+    ],
+    "route_camera_sequence": [
+      "SYN_CAM_17",
+      "SYN_CAM_19",
+      "SYN_CAM_21",
+      "SYN_CAM_22",
+      "SYN_CAM_24",
+      "SYN_CAM_28",
+      "SYN_CAM_29",
+      "SYN_CAM_33"
+    ],
+    "first_seen": "2026-10-10T10:47:44.000",
+    "last_seen": "2026-10-10T11:16:55.000",
+    "route_status": "reconstructed",
+    "source_type": "synthetic_demo",
+    "synthetic": true
+  },
+  {
+    "journey_id": "SYN_JNY_0138",
+    "scenario_id": "SYNTH_URBANTRACK_46CAM",
+    "synthetic_vehicle_id_for_ground_truth_only": "SYN_VEH_0138",
+    "tracklets": [
+      {
+        "camera_id": "SYN_CAM_09",
+        "track_id": "SYN_CAM_09_TRK_0138"
+      },
+      {
+        "camera_id": "SYN_CAM_11",
+        "track_id": "SYN_CAM_11_TRK_0138"
+      },
+      {
+        "camera_id": "SYN_CAM_12",
+        "track_id": "SYN_CAM_12_TRK_0138"
+      },
+      {
+        "camera_id": "SYN_CAM_14",
+        "track_id": "SYN_CAM_14_TRK_0138"
+      }
+    ],
+    "route_camera_sequence": [
+      "SYN_CAM_09",
+      "SYN_CAM_11",
+      "SYN_CAM_12",
+      "SYN_CAM_14"
+    ],
+    "first_seen": "2026-10-10T10:05:09.000",
+    "last_seen": "2026-10-10T10:21:25.000",
+    "route_status": "reconstructed",
+    "source_type": "synthetic_demo",
+    "synthetic": true
+  },
+  {
+    "journey_id": "SYN_JNY_0139",
+    "scenario_id": "SYNTH_URBANTRACK_46CAM",
+    "synthetic_vehicle_id_for_ground_truth_only": "SYN_VEH_0139",
+    "tracklets": [
+      {
+        "camera_id": "SYN_CAM_33",
+        "track_id": "SYN_CAM_33_TRK_0139"
+      },
+      {
+        "camera_id": "SYN_CAM_37",
+        "track_id": "SYN_CAM_37_TRK_0139"
+      },
+      {
+        "camera_id": "SYN_CAM_39",
+        "track_id": "SYN_CAM_39_TRK_0139"
+      },
+      {
+        "camera_id": "SYN_CAM_40",
+        "track_id": "SYN_CAM_40_TRK_0139"
+      },
+      {
+        "camera_id": "SYN_CAM_43",
+        "track_id": "SYN_CAM_43_TRK_0139"
+      },
+      {
+        "camera_id": "SYN_CAM_46",
+        "track_id": "SYN_CAM_46_TRK_0139"
+      }
+    ],
+    "route_camera_sequence": [
+      "SYN_CAM_33",
+      "SYN_CAM_37",
+      "SYN_CAM_39",
+      "SYN_CAM_40",
+      "SYN_CAM_43",
+      "SYN_CAM_46"
+    ],
+    "first_seen": "2026-10-10T10:45:51.000",
+    "last_seen": "2026-10-10T11:07:32.000",
+    "route_status": "reconstructed",
+    "source_type": "synthetic_demo",
+    "synthetic": true
+  },
+  {
+    "journey_id": "SYN_JNY_0140",
+    "scenario_id": "SYNTH_URBANTRACK_46CAM",
+    "synthetic_vehicle_id_for_ground_truth_only": "SYN_VEH_0140",
+    "tracklets": [
+      {
+        "camera_id": "SYN_CAM_12",
+        "track_id": "SYN_CAM_12_TRK_0140"
+      },
+      {
+        "camera_id": "SYN_CAM_13",
+        "track_id": "SYN_CAM_13_TRK_0140"
+      },
+      {
+        "camera_id": "SYN_CAM_15",
+        "track_id": "SYN_CAM_15_TRK_0140"
+      },
+      {
+        "camera_id": "SYN_CAM_16",
+        "track_id": "SYN_CAM_16_TRK_0140"
+      }
+    ],
+    "route_camera_sequence": [
+      "SYN_CAM_12",
+      "SYN_CAM_13",
+      "SYN_CAM_15",
+      "SYN_CAM_16"
+    ],
+    "first_seen": "2026-10-10T08:21:56.000",
+    "last_seen": "2026-10-10T08:35:13.000",
+    "route_status": "reconstructed",
+    "source_type": "synthetic_demo",
+    "synthetic": true
+  },
+  {
+    "journey_id": "SYN_JNY_0141",
+    "scenario_id": "SYNTH_URBANTRACK_46CAM",
+    "synthetic_vehicle_id_for_ground_truth_only": "SYN_VEH_0141",
+    "tracklets": [
+      {
+        "camera_id": "SYN_CAM_29",
+        "track_id": "SYN_CAM_29_TRK_0141"
+      },
+      {
+        "camera_id": "SYN_CAM_30",
+        "track_id": "SYN_CAM_30_TRK_0141"
+      },
+      {
+        "camera_id": "SYN_CAM_31",
+        "track_id": "SYN_CAM_31_TRK_0141"
+      },
+      {
+        "camera_id": "SYN_CAM_32",
+        "track_id": "SYN_CAM_32_TRK_0141"
+      },
+      {
+        "camera_id": "SYN_CAM_34",
+        "track_id": "SYN_CAM_34_TRK_0141"
+      },
+      {
+        "camera_id": "SYN_CAM_35",
+        "track_id": "SYN_CAM_35_TRK_0141"
+      },
+      {
+        "camera_id": "SYN_CAM_36",
+        "track_id": "SYN_CAM_36_TRK_0141"
+      },
+      {
+        "camera_id": "SYN_CAM_37",
+        "track_id": "SYN_CAM_37_TRK_0141"
+      }
+    ],
+    "route_camera_sequence": [
+      "SYN_CAM_29",
+      "SYN_CAM_30",
+      "SYN_CAM_31",
+      "SYN_CAM_32",
+      "SYN_CAM_34",
+      "SYN_CAM_35",
+      "SYN_CAM_36",
+      "SYN_CAM_37"
+    ],
+    "first_seen": "2026-10-10T10:02:45.000",
+    "last_seen": "2026-10-10T10:40:01.000",
+    "route_status": "reconstructed",
+    "source_type": "synthetic_demo",
+    "synthetic": true
+  },
+  {
+    "journey_id": "SYN_JNY_0142",
+    "scenario_id": "SYNTH_URBANTRACK_46CAM",
+    "synthetic_vehicle_id_for_ground_truth_only": "SYN_VEH_0142",
+    "tracklets": [
+      {
+        "camera_id": "SYN_CAM_31",
+        "track_id": "SYN_CAM_31_TRK_0142"
+      },
+      {
+        "camera_id": "SYN_CAM_33",
+        "track_id": "SYN_CAM_33_TRK_0142"
+      },
+      {
+        "camera_id": "SYN_CAM_35",
+        "track_id": "SYN_CAM_35_TRK_0142"
+      },
+      {
+        "camera_id": "SYN_CAM_36",
+        "track_id": "SYN_CAM_36_TRK_0142"
+      },
+      {
+        "camera_id": "SYN_CAM_37",
+        "track_id": "SYN_CAM_37_TRK_0142"
+      }
+    ],
+    "route_camera_sequence": [
+      "SYN_CAM_31",
+      "SYN_CAM_33",
+      "SYN_CAM_35",
+      "SYN_CAM_36",
+      "SYN_CAM_37"
+    ],
+    "first_seen": "2026-10-10T09:59:09.000",
+    "last_seen": "2026-10-10T10:13:56.000",
+    "route_status": "reconstructed",
+    "source_type": "synthetic_demo",
+    "synthetic": true
+  },
+  {
+    "journey_id": "SYN_JNY_0143",
+    "scenario_id": "SYNTH_URBANTRACK_46CAM",
+    "synthetic_vehicle_id_for_ground_truth_only": "SYN_VEH_0143",
+    "tracklets": [
+      {
+        "camera_id": "SYN_CAM_12",
+        "track_id": "SYN_CAM_12_TRK_0143"
+      },
+      {
+        "camera_id": "SYN_CAM_14",
+        "track_id": "SYN_CAM_14_TRK_0143"
+      },
+      {
+        "camera_id": "SYN_CAM_16",
+        "track_id": "SYN_CAM_16_TRK_0143"
+      },
+      {
+        "camera_id": "SYN_CAM_18",
+        "track_id": "SYN_CAM_18_TRK_0143"
+      },
+      {
+        "camera_id": "SYN_CAM_22",
+        "track_id": "SYN_CAM_22_TRK_0143"
+      },
+      {
+        "camera_id": "SYN_CAM_24",
+        "track_id": "SYN_CAM_24_TRK_0143"
+      },
+      {
+        "camera_id": "SYN_CAM_26",
+        "track_id": "SYN_CAM_26_TRK_0143"
+      },
+      {
+        "camera_id": "SYN_CAM_28",
+        "track_id": "SYN_CAM_28_TRK_0143"
+      }
+    ],
+    "route_camera_sequence": [
+      "SYN_CAM_12",
+      "SYN_CAM_14",
+      "SYN_CAM_16",
+      "SYN_CAM_18",
+      "SYN_CAM_22",
+      "SYN_CAM_24",
+      "SYN_CAM_26",
+      "SYN_CAM_28"
+    ],
+    "first_seen": "2026-10-10T08:26:08.000",
+    "last_seen": "2026-10-10T08:51:27.000",
+    "route_status": "reconstructed_with_missing_observation",
+    "source_type": "synthetic_demo",
+    "synthetic": true
+  },
+  {
+    "journey_id": "SYN_JNY_0144",
+    "scenario_id": "SYNTH_URBANTRACK_46CAM",
+    "synthetic_vehicle_id_for_ground_truth_only": "SYN_VEH_0144",
+    "tracklets": [
+      {
+        "camera_id": "SYN_CAM_08",
+        "track_id": "SYN_CAM_08_TRK_0144"
+      },
+      {
+        "camera_id": "SYN_CAM_09",
+        "track_id": "SYN_CAM_09_TRK_0144"
+      },
+      {
+        "camera_id": "SYN_CAM_10",
+        "track_id": "SYN_CAM_10_TRK_0144"
+      },
+      {
+        "camera_id": "SYN_CAM_13",
+        "track_id": "SYN_CAM_13_TRK_0144"
+      },
+      {
+        "camera_id": "SYN_CAM_14",
+        "track_id": "SYN_CAM_14_TRK_0144"
+      },
+      {
+        "camera_id": "SYN_CAM_15",
+        "track_id": "SYN_CAM_15_TRK_0144"
+      },
+      {
+        "camera_id": "SYN_CAM_17",
+        "track_id": "SYN_CAM_17_TRK_0144"
+      }
+    ],
+    "route_camera_sequence": [
+      "SYN_CAM_08",
+      "SYN_CAM_09",
+      "SYN_CAM_10",
+      "SYN_CAM_13",
+      "SYN_CAM_14",
+      "SYN_CAM_15",
+      "SYN_CAM_17"
+    ],
+    "first_seen": "2026-10-10T09:22:54.000",
+    "last_seen": "2026-10-10T09:58:23.000",
+    "route_status": "reconstructed",
+    "source_type": "synthetic_demo",
+    "synthetic": true
+  },
+  {
+    "journey_id": "SYN_JNY_0145",
+    "scenario_id": "SYNTH_URBANTRACK_46CAM",
+    "synthetic_vehicle_id_for_ground_truth_only": "SYN_VEH_0145",
+    "tracklets": [
+      {
+        "camera_id": "SYN_CAM_06",
+        "track_id": "SYN_CAM_06_TRK_0145"
+      },
+      {
+        "camera_id": "SYN_CAM_08",
+        "track_id": "SYN_CAM_08_TRK_0145"
+      },
+      {
+        "camera_id": "SYN_CAM_12",
+        "track_id": "SYN_CAM_12_TRK_0145"
+      }
+    ],
+    "route_camera_sequence": [
+      "SYN_CAM_06",
+      "SYN_CAM_08",
+      "SYN_CAM_12"
+    ],
+    "first_seen": "2026-10-10T08:23:41.000",
+    "last_seen": "2026-10-10T08:33:36.000",
+    "route_status": "reconstructed",
+    "source_type": "synthetic_demo",
+    "synthetic": true
+  },
+  {
+    "journey_id": "SYN_JNY_0146",
+    "scenario_id": "SYNTH_URBANTRACK_46CAM",
+    "synthetic_vehicle_id_for_ground_truth_only": "SYN_VEH_0146",
+    "tracklets": [
+      {
+        "camera_id": "SYN_CAM_08",
+        "track_id": "SYN_CAM_08_TRK_0146"
+      },
+      {
+        "camera_id": "SYN_CAM_11",
+        "track_id": "SYN_CAM_11_TRK_0146"
+      },
+      {
+        "camera_id": "SYN_CAM_12",
+        "track_id": "SYN_CAM_12_TRK_0146"
+      },
+      {
+        "camera_id": "SYN_CAM_13",
+        "track_id": "SYN_CAM_13_TRK_0146"
+      }
+    ],
+    "route_camera_sequence": [
+      "SYN_CAM_08",
+      "SYN_CAM_11",
+      "SYN_CAM_12",
+      "SYN_CAM_13"
+    ],
+    "first_seen": "2026-10-10T10:06:08.000",
+    "last_seen": "2026-10-10T10:19:37.000",
+    "route_status": "reconstructed",
+    "source_type": "synthetic_demo",
+    "synthetic": true
+  },
+  {
+    "journey_id": "SYN_JNY_0147",
+    "scenario_id": "SYNTH_URBANTRACK_46CAM",
+    "synthetic_vehicle_id_for_ground_truth_only": "SYN_VEH_0147",
+    "tracklets": [
+      {
+        "camera_id": "SYN_CAM_23",
+        "track_id": "SYN_CAM_23_TRK_0147"
+      },
+      {
+        "camera_id": "SYN_CAM_24",
+        "track_id": "SYN_CAM_24_TRK_0147"
+      },
+      {
+        "camera_id": "SYN_CAM_26",
+        "track_id": "SYN_CAM_26_TRK_0147"
+      },
+      {
+        "camera_id": "SYN_CAM_29",
+        "track_id": "SYN_CAM_29_TRK_0147"
+      },
+      {
+        "camera_id": "SYN_CAM_30",
+        "track_id": "SYN_CAM_30_TRK_0147"
+      },
+      {
+        "camera_id": "SYN_CAM_31",
+        "track_id": "SYN_CAM_31_TRK_0147"
+      }
+    ],
+    "route_camera_sequence": [
+      "SYN_CAM_23",
+      "SYN_CAM_24",
+      "SYN_CAM_26",
+      "SYN_CAM_29",
+      "SYN_CAM_30",
+      "SYN_CAM_31"
+    ],
+    "first_seen": "2026-10-10T10:06:43.000",
+    "last_seen": "2026-10-10T10:30:01.000",
+    "route_status": "reconstructed",
+    "source_type": "synthetic_demo",
+    "synthetic": true
+  },
+  {
+    "journey_id": "SYN_JNY_0148",
+    "scenario_id": "SYNTH_URBANTRACK_46CAM",
+    "synthetic_vehicle_id_for_ground_truth_only": "SYN_VEH_0148",
+    "tracklets": [
+      {
+        "camera_id": "SYN_CAM_22",
+        "track_id": "SYN_CAM_22_TRK_0148"
+      },
+      {
+        "camera_id": "SYN_CAM_25",
+        "track_id": "SYN_CAM_25_TRK_0148"
+      },
+      {
+        "camera_id": "SYN_CAM_26",
+        "track_id": "SYN_CAM_26_TRK_0148"
+      },
+      {
+        "camera_id": "SYN_CAM_28",
+        "track_id": "SYN_CAM_28_TRK_0148"
+      },
+      {
+        "camera_id": "SYN_CAM_29",
+        "track_id": "SYN_CAM_29_TRK_0148"
+      },
+      {
+        "camera_id": "SYN_CAM_30",
+        "track_id": "SYN_CAM_30_TRK_0148"
+      },
+      {
+        "camera_id": "SYN_CAM_31",
+        "track_id": "SYN_CAM_31_TRK_0148"
+      }
+    ],
+    "route_camera_sequence": [
+      "SYN_CAM_22",
+      "SYN_CAM_25",
+      "SYN_CAM_26",
+      "SYN_CAM_28",
+      "SYN_CAM_29",
+      "SYN_CAM_30",
+      "SYN_CAM_31"
+    ],
+    "first_seen": "2026-10-10T09:25:16.000",
+    "last_seen": "2026-10-10T09:56:27.000",
+    "route_status": "reconstructed",
+    "source_type": "synthetic_demo",
+    "synthetic": true
+  },
+  {
+    "journey_id": "SYN_JNY_0149",
+    "scenario_id": "SYNTH_URBANTRACK_46CAM",
+    "synthetic_vehicle_id_for_ground_truth_only": "SYN_VEH_0149",
+    "tracklets": [
+      {
+        "camera_id": "SYN_CAM_01",
+        "track_id": "SYN_CAM_01_TRK_0149"
+      },
+      {
+        "camera_id": "SYN_CAM_02",
+        "track_id": "SYN_CAM_02_TRK_0149"
+      },
+      {
+        "camera_id": "SYN_CAM_03",
+        "track_id": "SYN_CAM_03_TRK_0149"
+      },
+      {
+        "camera_id": "SYN_CAM_04",
+        "track_id": "SYN_CAM_04_TRK_0149"
+      }
+    ],
+    "route_camera_sequence": [
+      "SYN_CAM_01",
+      "SYN_CAM_02",
+      "SYN_CAM_03",
+      "SYN_CAM_04"
+    ],
+    "first_seen": "2026-10-10T09:10:28.000",
+    "last_seen": "2026-10-10T09:23:54.000",
+    "route_status": "reconstructed",
+    "source_type": "synthetic_demo",
+    "synthetic": true
+  },
+  {
+    "journey_id": "SYN_JNY_0150",
+    "scenario_id": "SYNTH_URBANTRACK_46CAM",
+    "synthetic_vehicle_id_for_ground_truth_only": "SYN_VEH_0150",
+    "tracklets": [
+      {
+        "camera_id": "SYN_CAM_34",
+        "track_id": "SYN_CAM_34_TRK_0150"
+      },
+      {
+        "camera_id": "SYN_CAM_37",
+        "track_id": "SYN_CAM_37_TRK_0150"
+      },
+      {
+        "camera_id": "SYN_CAM_38",
+        "track_id": "SYN_CAM_38_TRK_0150"
+      },
+      {
+        "camera_id": "SYN_CAM_42",
+        "track_id": "SYN_CAM_42_TRK_0150"
+      },
+      {
+        "camera_id": "SYN_CAM_46",
+        "track_id": "SYN_CAM_46_TRK_0150"
+      },
+      {
+        "camera_id": "SYN_CAM_46",
+        "track_id": "SYN_CAM_46_TRK_0150"
+      },
+      {
+        "camera_id": "SYN_CAM_46",
+        "track_id": "SYN_CAM_46_TRK_0150"
+      }
+    ],
+    "route_camera_sequence": [
+      "SYN_CAM_34",
+      "SYN_CAM_37",
+      "SYN_CAM_38",
+      "SYN_CAM_42",
+      "SYN_CAM_46",
+      "SYN_CAM_46",
+      "SYN_CAM_46"
+    ],
+    "first_seen": "2026-10-10T08:07:03.000",
+    "last_seen": "2026-10-10T08:36:42.000",
+    "route_status": "reconstructed",
+    "source_type": "synthetic_demo",
+    "synthetic": true
+  }
+]

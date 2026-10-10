@@ -1,0 +1,31 @@
+{
+  "project": "UrbanTrack AI",
+  "dataset_name": "Complete Synthetic End-to-End Project Dataset",
+  "scenario_id": "SYNTH_URBANTRACK_46CAM",
+  "dataset_type": "SYNTHETIC_ONLY_NOT_REAL_WORLD",
+  "counts": {
+    "cameras": 46,
+    "camera_graph_edges": 55,
+    "vehicles": 150,
+    "tracklets": 897,
+    "observations": 5426,
+    "association_hypotheses": 991,
+    "journeys": 150,
+    "synthetic_ground_truth_links": 747,
+    "traffic_analytics_rows": 552,
+    "alerts": 3
+  },
+  "headline_metrics": {
+    "cameras": 46,
+    "vehicles": 150,
+    "tracklets": 897,
+    "observations": 5426,
+    "journeys": 150,
+    "association_confirmed": 243,
+    "association_ambiguous": 466,
+    "association_rejected": 282,
+    "high_congestion_windows": 74
+  },
+  "warning": "Every record is synthetic. Ground-truth IDs and links are artificial and only valid for exercising a demo pipeline. No accuracy claim about the real model is supported.",
+  "synthetic": true
+}

@@ -1,0 +1,370 @@
+[
+  {
+    "camera_id": "SYN_CAM_01",
+    "display_name": "North Entry",
+    "avg_vehicles_per_5min": 30.0,
+    "avg_speed_kmh": 32.3,
+    "high_congestion_windows": 2,
+    "synthetic": true
+  },
+  {
+    "camera_id": "SYN_CAM_02",
+    "display_name": "North Avenue",
+    "avg_vehicles_per_5min": 27.92,
+    "avg_speed_kmh": 32.05,
+    "high_congestion_windows": 0,
+    "synthetic": true
+  },
+  {
+    "camera_id": "SYN_CAM_03",
+    "display_name": "University Road",
+    "avg_vehicles_per_5min": 32.67,
+    "avg_speed_kmh": 28.75,
+    "high_congestion_windows": 1,
+    "synthetic": true
+  },
+  {
+    "camera_id": "SYN_CAM_04",
+    "display_name": "Tech Park Entry",
+    "avg_vehicles_per_5min": 31.25,
+    "avg_speed_kmh": 24.82,
+    "high_congestion_windows": 1,
+    "synthetic": true
+  },
+  {
+    "camera_id": "SYN_CAM_05",
+    "display_name": "Airport Link",
+    "avg_vehicles_per_5min": 22.5,
+    "avg_speed_kmh": 33.2,
+    "high_congestion_windows": 0,
+    "synthetic": true
+  },
+  {
+    "camera_id": "SYN_CAM_06",
+    "display_name": "River North",
+    "avg_vehicles_per_5min": 25.5,
+    "avg_speed_kmh": 34.35,
+    "high_congestion_windows": 0,
+    "synthetic": true
+  },
+  {
+    "camera_id": "SYN_CAM_07",
+    "display_name": "Old Town North",
+    "avg_vehicles_per_5min": 23.67,
+    "avg_speed_kmh": 31.53,
+    "high_congestion_windows": 0,
+    "synthetic": true
+  },
+  {
+    "camera_id": "SYN_CAM_08",
+    "display_name": "Central Junction A",
+    "avg_vehicles_per_5min": 34.5,
+    "avg_speed_kmh": 23.24,
+    "high_congestion_windows": 6,
+    "synthetic": true
+  },
+  {
+    "camera_id": "SYN_CAM_09",
+    "display_name": "Central Junction B",
+    "avg_vehicles_per_5min": 31.0,
+    "avg_speed_kmh": 26.03,
+    "high_congestion_windows": 2,
+    "synthetic": true
+  },
+  {
+    "camera_id": "SYN_CAM_10",
+    "display_name": "Market Street",
+    "avg_vehicles_per_5min": 28.25,
+    "avg_speed_kmh": 33.14,
+    "high_congestion_windows": 2,
+    "synthetic": true
+  },
+  {
+    "camera_id": "SYN_CAM_11",
+    "display_name": "City Hospital",
+    "avg_vehicles_per_5min": 24.92,
+    "avg_speed_kmh": 30.38,
+    "high_congestion_windows": 0,
+    "synthetic": true
+  },
+  {
+    "camera_id": "SYN_CAM_12",
+    "display_name": "Stadium Road",
+    "avg_vehicles_per_5min": 35.5,
+    "avg_speed_kmh": 31.08,
+    "high_congestion_windows": 0,
+    "synthetic": true
+  },
+  {
+    "camera_id": "SYN_CAM_13",
+    "display_name": "East Flyover",
+    "avg_vehicles_per_5min": 34.17,
+    "avg_speed_kmh": 32.48,
+    "high_congestion_windows": 3,
+    "synthetic": true
+  },
+  {
+    "camera_id": "SYN_CAM_14",
+    "display_name": "East Market",
+    "avg_vehicles_per_5min": 33.83,
+    "avg_speed_kmh": 25.23,
+    "high_congestion_windows": 4,
+    "synthetic": true
+  },
+  {
+    "camera_id": "SYN_CAM_15",
+    "display_name": "Industrial Gate",
+    "avg_vehicles_per_5min": 28.58,
+    "avg_speed_kmh": 26.46,
+    "high_congestion_windows": 1,
+    "synthetic": true
+  },
+  {
+    "camera_id": "SYN_CAM_16",
+    "display_name": "Warehouse Road",
+    "avg_vehicles_per_5min": 24.67,
+    "avg_speed_kmh": 20.13,
+    "high_congestion_windows": 4,
+    "synthetic": true
+  },
+  {
+    "camera_id": "SYN_CAM_17",
+    "display_name": "River Bridge East",
+    "avg_vehicles_per_5min": 37.17,
+    "avg_speed_kmh": 26.5,
+    "high_congestion_windows": 4,
+    "synthetic": true
+  },
+  {
+    "camera_id": "SYN_CAM_18",
+    "display_name": "River Bridge West",
+    "avg_vehicles_per_5min": 30.92,
+    "avg_speed_kmh": 26.72,
+    "high_congestion_windows": 1,
+    "synthetic": true
+  },
+  {
+    "camera_id": "SYN_CAM_19",
+    "display_name": "South Junction",
+    "avg_vehicles_per_5min": 30.33,
+    "avg_speed_kmh": 21.89,
+    "high_congestion_windows": 5,
+    "synthetic": true
+  },
+  {
+    "camera_id": "SYN_CAM_20",
+    "display_name": "South Exit",
+    "avg_vehicles_per_5min": 35.42,
+    "avg_speed_kmh": 32.15,
+    "high_congestion_windows": 1,
+    "synthetic": true
+  },
+  {
+    "camera_id": "SYN_CAM_21",
+    "display_name": "Bus Terminal",
+    "avg_vehicles_per_5min": 26.75,
+    "avg_speed_kmh": 29.03,
+    "high_congestion_windows": 4,
+    "synthetic": true
+  },
+  {
+    "camera_id": "SYN_CAM_22",
+    "display_name": "Railway Approach",
+    "avg_vehicles_per_5min": 30.83,
+    "avg_speed_kmh": 29.31,
+    "high_congestion_windows": 3,
+    "synthetic": true
+  },
+  {
+    "camera_id": "SYN_CAM_23",
+    "display_name": "College Road",
+    "avg_vehicles_per_5min": 26.5,
+    "avg_speed_kmh": 30.52,
+    "high_congestion_windows": 1,
+    "synthetic": true
+  },
+  {
+    "camera_id": "SYN_CAM_24",
+    "display_name": "West Connector A",
+    "avg_vehicles_per_5min": 25.92,
+    "avg_speed_kmh": 30.06,
+    "high_congestion_windows": 1,
+    "synthetic": true
+  },
+  {
+    "camera_id": "SYN_CAM_25",
+    "display_name": "West Connector B",
+    "avg_vehicles_per_5min": 24.58,
+    "avg_speed_kmh": 28.16,
+    "high_congestion_windows": 2,
+    "synthetic": true
+  },
+  {
+    "camera_id": "SYN_CAM_26",
+    "display_name": "Ring Road North",
+    "avg_vehicles_per_5min": 28.42,
+    "avg_speed_kmh": 29.59,
+    "high_congestion_windows": 0,
+    "synthetic": true
+  },
+  {
+    "camera_id": "SYN_CAM_27",
+    "display_name": "Ring Road East",
+    "avg_vehicles_per_5min": 36.92,
+    "avg_speed_kmh": 24.93,
+    "high_congestion_windows": 0,
+    "synthetic": true
+  },
+  {
+    "camera_id": "SYN_CAM_28",
+    "display_name": "Ring Road South",
+    "avg_vehicles_per_5min": 27.92,
+    "avg_speed_kmh": 24.24,
+    "high_congestion_windows": 1,
+    "synthetic": true
+  },
+  {
+    "camera_id": "SYN_CAM_29",
+    "display_name": "Ring Road West",
+    "avg_vehicles_per_5min": 19.42,
+    "avg_speed_kmh": 30.71,
+    "high_congestion_windows": 1,
+    "synthetic": true
+  },
+  {
+    "camera_id": "SYN_CAM_30",
+    "display_name": "Lake Road",
+    "avg_vehicles_per_5min": 27.08,
+    "avg_speed_kmh": 25.89,
+    "high_congestion_windows": 0,
+    "synthetic": true
+  },
+  {
+    "camera_id": "SYN_CAM_31",
+    "display_name": "Museum Road",
+    "avg_vehicles_per_5min": 32.67,
+    "avg_speed_kmh": 27.72,
+    "high_congestion_windows": 3,
+    "synthetic": true
+  },
+  {
+    "camera_id": "SYN_CAM_32",
+    "display_name": "Court Road",
+    "avg_vehicles_per_5min": 29.92,
+    "avg_speed_kmh": 27.62,
+    "high_congestion_windows": 1,
+    "synthetic": true
+  },
+  {
+    "camera_id": "SYN_CAM_33",
+    "display_name": "Municipal Office",
+    "avg_vehicles_per_5min": 32.08,
+    "avg_speed_kmh": 27.13,
+    "high_congestion_windows": 3,
+    "synthetic": true
+  },
+  {
+    "camera_id": "SYN_CAM_34",
+    "display_name": "IT Corridor North",
+    "avg_vehicles_per_5min": 23.42,
+    "avg_speed_kmh": 31.55,
+    "high_congestion_windows": 0,
+    "synthetic": true
+  },
+  {
+    "camera_id": "SYN_CAM_35",
+    "display_name": "IT Corridor South",
+    "avg_vehicles_per_5min": 27.83,
+    "avg_speed_kmh": 28.36,
+    "high_congestion_windows": 2,
+    "synthetic": true
+  },
+  {
+    "camera_id": "SYN_CAM_36",
+    "display_name": "Logistics Hub",
+    "avg_vehicles_per_5min": 28.33,
+    "avg_speed_kmh": 30.6,
+    "high_congestion_windows": 3,
+    "synthetic": true
+  },
+  {
+    "camera_id": "SYN_CAM_37",
+    "display_name": "Port Link",
+    "avg_vehicles_per_5min": 28.08,
+    "avg_speed_kmh": 30.08,
+    "high_congestion_windows": 0,
+    "synthetic": true
+  },
+  {
+    "camera_id": "SYN_CAM_38",
+    "display_name": "Residential Gate A",
+    "avg_vehicles_per_5min": 32.17,
+    "avg_speed_kmh": 30.72,
+    "high_congestion_windows": 1,
+    "synthetic": true
+  },
+  {
+    "camera_id": "SYN_CAM_39",
+    "display_name": "Residential Gate B",
+    "avg_vehicles_per_5min": 28.0,
+    "avg_speed_kmh": 30.77,
+    "high_congestion_windows": 2,
+    "synthetic": true
+  },
+  {
+    "camera_id": "SYN_CAM_40",
+    "display_name": "School Zone",
+    "avg_vehicles_per_5min": 26.75,
+    "avg_speed_kmh": 35.64,
+    "high_congestion_windows": 0,
+    "synthetic": true
+  },
+  {
+    "camera_id": "SYN_CAM_41",
+    "display_name": "Metro Station East",
+    "avg_vehicles_per_5min": 34.83,
+    "avg_speed_kmh": 30.45,
+    "high_congestion_windows": 3,
+    "synthetic": true
+  },
+  {
+    "camera_id": "SYN_CAM_42",
+    "display_name": "Metro Station West",
+    "avg_vehicles_per_5min": 21.0,
+    "avg_speed_kmh": 28.7,
+    "high_congestion_windows": 0,
+    "synthetic": true
+  },
+  {
+    "camera_id": "SYN_CAM_43",
+    "display_name": "Bypass Entry",
+    "avg_vehicles_per_5min": 30.5,
+    "avg_speed_kmh": 35.57,
+    "high_congestion_windows": 1,
+    "synthetic": true
+  },
+  {
+    "camera_id": "SYN_CAM_44",
+    "display_name": "Bypass Exit",
+    "avg_vehicles_per_5min": 35.33,
+    "avg_speed_kmh": 32.75,
+    "high_congestion_windows": 2,
+    "synthetic": true
+  },
+  {
+    "camera_id": "SYN_CAM_45",
+    "display_name": "Hill Road",
+    "avg_vehicles_per_5min": 28.17,
+    "avg_speed_kmh": 25.66,
+    "high_congestion_windows": 1,
+    "synthetic": true
+  },
+  {
+    "camera_id": "SYN_CAM_46",
+    "display_name": "Canal Road",
+    "avg_vehicles_per_5min": 30.17,
+    "avg_speed_kmh": 26.03,
+    "high_congestion_windows": 2,
+    "synthetic": true
+  }
+]

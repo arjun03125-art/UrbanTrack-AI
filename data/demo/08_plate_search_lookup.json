@@ -1,0 +1,2399 @@
+[
+  {
+    "plate_text": "TS09X9320",
+    "journey_id": "SYN_JNY_0001",
+    "vehicle_type": "car",
+    "camera_sequence": [
+      "SYN_CAM_03",
+      "SYN_CAM_04",
+      "SYN_CAM_05",
+      "SYN_CAM_07",
+      "SYN_CAM_09"
+    ],
+    "first_seen": "2026-10-10T10:12:32.000",
+    "last_seen": "2026-10-10T10:34:09.000",
+    "synthetic": true
+  },
+  {
+    "plate_text": "TS09H6550",
+    "journey_id": "SYN_JNY_0002",
+    "vehicle_type": "truck",
+    "camera_sequence": [
+      "SYN_CAM_32",
+      "SYN_CAM_33",
+      "SYN_CAM_34",
+      "SYN_CAM_37"
+    ],
+    "first_seen": "2026-10-10T08:01:33.000",
+    "last_seen": "2026-10-10T08:16:01.000",
+    "synthetic": true
+  },
+  {
+    "plate_text": "TS09T9482",
+    "journey_id": "SYN_JNY_0003",
+    "vehicle_type": "car",
+    "camera_sequence": [
+      "SYN_CAM_08",
+      "SYN_CAM_11",
+      "SYN_CAM_13"
+    ],
+    "first_seen": "2026-10-10T10:33:33.000",
+    "last_seen": "2026-10-10T10:40:32.000",
+    "synthetic": true
+  },
+  {
+    "plate_text": "TS09H8702",
+    "journey_id": "SYN_JNY_0004",
+    "vehicle_type": "car",
+    "camera_sequence": [
+      "SYN_CAM_10",
+      "SYN_CAM_14",
+      "SYN_CAM_15"
+    ],
+    "first_seen": "2026-10-10T09:04:50.000",
+    "last_seen": "2026-10-10T09:19:59.000",
+    "synthetic": true
+  },
+  {
+    "plate_text": "TS09L3645",
+    "journey_id": "SYN_JNY_0005",
+    "vehicle_type": "car",
+    "camera_sequence": [
+      "SYN_CAM_37",
+      "SYN_CAM_39",
+      "SYN_CAM_43"
+    ],
+    "first_seen": "2026-10-10T08:02:34.000",
+    "last_seen": "2026-10-10T08:11:11.000",
+    "synthetic": true
+  },
+  {
+    "plate_text": "TS09X6834",
+    "journey_id": "SYN_JNY_0006",
+    "vehicle_type": "bus",
+    "camera_sequence": [
+      "SYN_CAM_31",
+      "SYN_CAM_32",
+      "SYN_CAM_33",
+      "SYN_CAM_35"
+    ],
+    "first_seen": "2026-10-10T09:54:07.000",
+    "last_seen": "2026-10-10T10:07:17.000",
+    "synthetic": true
+  },
+  {
+    "plate_text": "TS09U1506",
+    "journey_id": "SYN_JNY_0007",
+    "vehicle_type": "truck",
+    "camera_sequence": [
+      "SYN_CAM_15",
+      "SYN_CAM_18",
+      "SYN_CAM_21"
+    ],
+    "first_seen": "2026-10-10T10:04:48.000",
+    "last_seen": "2026-10-10T10:11:59.000",
+    "synthetic": true
+  },
+  {
+    "plate_text": "TS09N9521",
+    "journey_id": "SYN_JNY_0008",
+    "vehicle_type": "car",
+    "camera_sequence": [
+      "SYN_CAM_23",
+      "SYN_CAM_26",
+      "SYN_CAM_27"
+    ],
+    "first_seen": "2026-10-10T10:40:11.000",
+    "last_seen": "2026-10-10T10:48:35.000",
+    "synthetic": true
+  },
+  {
+    "plate_text": "TS09Z5335",
+    "journey_id": "SYN_JNY_0009",
+    "vehicle_type": "van",
+    "camera_sequence": [
+      "SYN_CAM_16",
+      "SYN_CAM_17",
+      "SYN_CAM_19",
+      "SYN_CAM_22",
+      "SYN_CAM_24",
+      "SYN_CAM_27"
+    ],
+    "first_seen": "2026-10-10T10:01:06.000",
+    "last_seen": "2026-10-10T10:29:19.000",
+    "synthetic": true
+  },
+  {
+    "plate_text": "TS09H1108",
+    "journey_id": "SYN_JNY_0010",
+    "vehicle_type": "truck",
+    "camera_sequence": [
+      "SYN_CAM_05",
+      "SYN_CAM_08",
+      "SYN_CAM_11",
+      "SYN_CAM_12",
+      "SYN_CAM_16",
+      "SYN_CAM_18",
+      "SYN_CAM_20",
+      "SYN_CAM_24",
+      "SYN_CAM_26"
+    ],
+    "first_seen": "2026-10-10T08:13:40.000",
+    "last_seen": "2026-10-10T08:57:07.000",
+    "synthetic": true
+  },
+  {
+    "plate_text": "TS09P5190",
+    "journey_id": "SYN_JNY_0011",
+    "vehicle_type": "car",
+    "camera_sequence": [
+      "SYN_CAM_37",
+      "SYN_CAM_42",
+      "SYN_CAM_44",
+      "SYN_CAM_46",
+      "SYN_CAM_46",
+      "SYN_CAM_46",
+      "SYN_CAM_46",
+      "SYN_CAM_46"
+    ],
+    "first_seen": "2026-10-10T10:26:08.000",
+    "last_seen": "2026-10-10T11:00:29.000",
+    "synthetic": true
+  },
+  {
+    "plate_text": "TS09F4717",
+    "journey_id": "SYN_JNY_0012",
+    "vehicle_type": "car",
+    "camera_sequence": [
+      "SYN_CAM_19",
+      "SYN_CAM_23",
+      "SYN_CAM_24"
+    ],
+    "first_seen": "2026-10-10T09:09:24.000",
+    "last_seen": "2026-10-10T09:18:54.000",
+    "synthetic": true
+  },
+  {
+    "plate_text": "TS09P6227",
+    "journey_id": "SYN_JNY_0013",
+    "vehicle_type": "car",
+    "camera_sequence": [
+      "SYN_CAM_20",
+      "SYN_CAM_22",
+      "SYN_CAM_23",
+      "SYN_CAM_24"
+    ],
+    "first_seen": "2026-10-10T08:49:01.000",
+    "last_seen": "2026-10-10T09:07:36.000",
+    "synthetic": true
+  },
+  {
+    "plate_text": "TS09Y8220",
+    "journey_id": "SYN_JNY_0014",
+    "vehicle_type": "motorcycle",
+    "camera_sequence": [
+      "SYN_CAM_33",
+      "SYN_CAM_34",
+      "SYN_CAM_35",
+      "SYN_CAM_36",
+      "SYN_CAM_37",
+      "SYN_CAM_41"
+    ],
+    "first_seen": "2026-10-10T08:14:08.000",
+    "last_seen": "2026-10-10T08:36:38.000",
+    "synthetic": true
+  },
+  {
+    "plate_text": "TS09S2675",
+    "journey_id": "SYN_JNY_0015",
+    "vehicle_type": "motorcycle",
+    "camera_sequence": [
+      "SYN_CAM_08",
+      "SYN_CAM_09",
+      "SYN_CAM_10",
+      "SYN_CAM_12",
+      "SYN_CAM_14",
+      "SYN_CAM_15",
+      "SYN_CAM_17"
+    ],
+    "first_seen": "2026-10-10T09:58:32.000",
+    "last_seen": "2026-10-10T10:24:15.000",
+    "synthetic": true
+  },
+  {
+    "plate_text": "TS09A3993",
+    "journey_id": "SYN_JNY_0016",
+    "vehicle_type": "motorcycle",
+    "camera_sequence": [
+      "SYN_CAM_39",
+      "SYN_CAM_40",
+      "SYN_CAM_43",
+      "SYN_CAM_44",
+      "SYN_CAM_45"
+    ],
+    "first_seen": "2026-10-10T10:26:08.000",
+    "last_seen": "2026-10-10T10:46:38.000",
+    "synthetic": true
+  },
+  {
+    "plate_text": "TS09N3236",
+    "journey_id": "SYN_JNY_0017",
+    "vehicle_type": "motorcycle",
+    "camera_sequence": [
+      "SYN_CAM_08",
+      "SYN_CAM_09",
+      "SYN_CAM_11",
+      "SYN_CAM_13",
+      "SYN_CAM_16",
+      "SYN_CAM_20"
+    ],
+    "first_seen": "2026-10-10T08:53:09.000",
+    "last_seen": "2026-10-10T09:19:34.000",
+    "synthetic": true
+  },
+  {
+    "plate_text": "TS09W6811",
+    "journey_id": "SYN_JNY_0018",
+    "vehicle_type": "car",
+    "camera_sequence": [
+      "SYN_CAM_36",
+      "SYN_CAM_37",
+      "SYN_CAM_39",
+      "SYN_CAM_41"
+    ],
+    "first_seen": "2026-10-10T09:22:42.000",
+    "last_seen": "2026-10-10T09:33:41.000",
+    "synthetic": true
+  },
+  {
+    "plate_text": "TS09L3903",
+    "journey_id": "SYN_JNY_0019",
+    "vehicle_type": "motorcycle",
+    "camera_sequence": [
+      "SYN_CAM_16",
+      "SYN_CAM_19",
+      "SYN_CAM_21",
+      "SYN_CAM_23",
+      "SYN_CAM_26",
+      "SYN_CAM_29",
+      "SYN_CAM_33",
+      "SYN_CAM_36"
+    ],
+    "first_seen": "2026-10-10T09:37:52.000",
+    "last_seen": "2026-10-10T10:01:59.000",
+    "synthetic": true
+  },
+  {
+    "plate_text": "TS09A2374",
+    "journey_id": "SYN_JNY_0020",
+    "vehicle_type": "car",
+    "camera_sequence": [
+      "SYN_CAM_11",
+      "SYN_CAM_14",
+      "SYN_CAM_15",
+      "SYN_CAM_16"
+    ],
+    "first_seen": "2026-10-10T09:48:46.000",
+    "last_seen": "2026-10-10T10:06:38.000",
+    "synthetic": true
+  },
+  {
+    "plate_text": "TS09H7429",
+    "journey_id": "SYN_JNY_0021",
+    "vehicle_type": "bus",
+    "camera_sequence": [
+      "SYN_CAM_11",
+      "SYN_CAM_15",
+      "SYN_CAM_19",
+      "SYN_CAM_20",
+      "SYN_CAM_22"
+    ],
+    "first_seen": "2026-10-10T09:00:00.000",
+    "last_seen": "2026-10-10T09:16:44.000",
+    "synthetic": true
+  },
+  {
+    "plate_text": "TS09B4677",
+    "journey_id": "SYN_JNY_0022",
+    "vehicle_type": "truck",
+    "camera_sequence": [
+      "SYN_CAM_01",
+      "SYN_CAM_05",
+      "SYN_CAM_07",
+      "SYN_CAM_09",
+      "SYN_CAM_11",
+      "SYN_CAM_13"
+    ],
+    "first_seen": "2026-10-10T10:24:15.000",
+    "last_seen": "2026-10-10T10:42:07.000",
+    "synthetic": true
+  },
+  {
+    "plate_text": "TS09L5088",
+    "journey_id": "SYN_JNY_0023",
+    "vehicle_type": "truck",
+    "camera_sequence": [
+      "SYN_CAM_26",
+      "SYN_CAM_28",
+      "SYN_CAM_29",
+      "SYN_CAM_33",
+      "SYN_CAM_35",
+      "SYN_CAM_37",
+      "SYN_CAM_38",
+      "SYN_CAM_42"
+    ],
+    "first_seen": "2026-10-10T10:26:35.000",
+    "last_seen": "2026-10-10T10:56:23.000",
+    "synthetic": true
+  },
+  {
+    "plate_text": "TS09V5338",
+    "journey_id": "SYN_JNY_0024",
+    "vehicle_type": "car",
+    "camera_sequence": [
+      "SYN_CAM_21",
+      "SYN_CAM_23",
+      "SYN_CAM_24",
+      "SYN_CAM_26",
+      "SYN_CAM_30",
+      "SYN_CAM_32"
+    ],
+    "first_seen": "2026-10-10T09:59:50.000",
+    "last_seen": "2026-10-10T10:23:50.000",
+    "synthetic": true
+  },
+  {
+    "plate_text": "TS09X4757",
+    "journey_id": "SYN_JNY_0025",
+    "vehicle_type": "motorcycle",
+    "camera_sequence": [
+      "SYN_CAM_08",
+      "SYN_CAM_12",
+      "SYN_CAM_13",
+      "SYN_CAM_14",
+      "SYN_CAM_16"
+    ],
+    "first_seen": "2026-10-10T09:28:38.000",
+    "last_seen": "2026-10-10T09:51:37.000",
+    "synthetic": true
+  },
+  {
+    "plate_text": "TS09Z5860",
+    "journey_id": "SYN_JNY_0026",
+    "vehicle_type": "car",
+    "camera_sequence": [
+      "SYN_CAM_18",
+      "SYN_CAM_19",
+      "SYN_CAM_20",
+      "SYN_CAM_24",
+      "SYN_CAM_26"
+    ],
+    "first_seen": "2026-10-10T09:00:28.000",
+    "last_seen": "2026-10-10T09:24:14.000",
+    "synthetic": true
+  },
+  {
+    "plate_text": "TS09R5049",
+    "journey_id": "SYN_JNY_0027",
+    "vehicle_type": "van",
+    "camera_sequence": [
+      "SYN_CAM_22",
+      "SYN_CAM_23",
+      "SYN_CAM_27",
+      "SYN_CAM_29",
+      "SYN_CAM_32",
+      "SYN_CAM_33",
+      "SYN_CAM_35",
+      "SYN_CAM_36"
+    ],
+    "first_seen": "2026-10-10T09:39:05.000",
+    "last_seen": "2026-10-10T10:06:16.000",
+    "synthetic": true
+  },
+  {
+    "plate_text": "TS09F4115",
+    "journey_id": "SYN_JNY_0028",
+    "vehicle_type": "car",
+    "camera_sequence": [
+      "SYN_CAM_14",
+      "SYN_CAM_15",
+      "SYN_CAM_17",
+      "SYN_CAM_18",
+      "SYN_CAM_19",
+      "SYN_CAM_22",
+      "SYN_CAM_24",
+      "SYN_CAM_28",
+      "SYN_CAM_29"
+    ],
+    "first_seen": "2026-10-10T08:07:59.000",
+    "last_seen": "2026-10-10T08:52:13.000",
+    "synthetic": true
+  },
+  {
+    "plate_text": "TS09F3604",
+    "journey_id": "SYN_JNY_0029",
+    "vehicle_type": "truck",
+    "camera_sequence": [
+      "SYN_CAM_08",
+      "SYN_CAM_09",
+      "SYN_CAM_10",
+      "SYN_CAM_13",
+      "SYN_CAM_15",
+      "SYN_CAM_16",
+      "SYN_CAM_17",
+      "SYN_CAM_20"
+    ],
+    "first_seen": "2026-10-10T08:51:02.000",
+    "last_seen": "2026-10-10T09:31:08.000",
+    "synthetic": true
+  },
+  {
+    "plate_text": "TS09D6417",
+    "journey_id": "SYN_JNY_0030",
+    "vehicle_type": "truck",
+    "camera_sequence": [
+      "SYN_CAM_07",
+      "SYN_CAM_08",
+      "SYN_CAM_09",
+      "SYN_CAM_11",
+      "SYN_CAM_12",
+      "SYN_CAM_14"
+    ],
+    "first_seen": "2026-10-10T10:06:04.000",
+    "last_seen": "2026-10-10T10:29:17.000",
+    "synthetic": true
+  },
+  {
+    "plate_text": "TS09X4246",
+    "journey_id": "SYN_JNY_0031",
+    "vehicle_type": "motorcycle",
+    "camera_sequence": [
+      "SYN_CAM_07",
+      "SYN_CAM_08",
+      "SYN_CAM_10",
+      "SYN_CAM_13",
+      "SYN_CAM_15"
+    ],
+    "first_seen": "2026-10-10T09:46:21.000",
+    "last_seen": "2026-10-10T10:02:14.000",
+    "synthetic": true
+  },
+  {
+    "plate_text": "TS09A5422",
+    "journey_id": "SYN_JNY_0032",
+    "vehicle_type": "car",
+    "camera_sequence": [
+      "SYN_CAM_39",
+      "SYN_CAM_43",
+      "SYN_CAM_45",
+      "SYN_CAM_46",
+      "SYN_CAM_46",
+      "SYN_CAM_46",
+      "SYN_CAM_46",
+      "SYN_CAM_46"
+    ],
+    "first_seen": "2026-10-10T10:31:27.000",
+    "last_seen": "2026-10-10T10:58:14.000",
+    "synthetic": true
+  },
+  {
+    "plate_text": "TS09W6642",
+    "journey_id": "SYN_JNY_0033",
+    "vehicle_type": "car",
+    "camera_sequence": [
+      "SYN_CAM_24",
+      "SYN_CAM_26",
+      "SYN_CAM_29",
+      "SYN_CAM_30",
+      "SYN_CAM_33",
+      "SYN_CAM_34",
+      "SYN_CAM_36",
+      "SYN_CAM_40"
+    ],
+    "first_seen": "2026-10-10T09:36:51.000",
+    "last_seen": "2026-10-10T10:20:36.000",
+    "synthetic": true
+  },
+  {
+    "plate_text": "TS09U1777",
+    "journey_id": "SYN_JNY_0034",
+    "vehicle_type": "car",
+    "camera_sequence": [
+      "SYN_CAM_22",
+      "SYN_CAM_24",
+      "SYN_CAM_28",
+      "SYN_CAM_31",
+      "SYN_CAM_32",
+      "SYN_CAM_35",
+      "SYN_CAM_36",
+      "SYN_CAM_37"
+    ],
+    "first_seen": "2026-10-10T09:12:23.000",
+    "last_seen": "2026-10-10T09:45:17.000",
+    "synthetic": true
+  },
+  {
+    "plate_text": "TS09M7329",
+    "journey_id": "SYN_JNY_0035",
+    "vehicle_type": "bus",
+    "camera_sequence": [
+      "SYN_CAM_10",
+      "SYN_CAM_13",
+      "SYN_CAM_14",
+      "SYN_CAM_18",
+      "SYN_CAM_20",
+      "SYN_CAM_23",
+      "SYN_CAM_27"
+    ],
+    "first_seen": "2026-10-10T08:27:42.000",
+    "last_seen": "2026-10-10T08:56:41.000",
+    "synthetic": true
+  },
+  {
+    "plate_text": "TS09S5053",
+    "journey_id": "SYN_JNY_0036",
+    "vehicle_type": "van",
+    "camera_sequence": [
+      "SYN_CAM_09",
+      "SYN_CAM_13",
+      "SYN_CAM_14",
+      "SYN_CAM_15",
+      "SYN_CAM_17",
+      "SYN_CAM_21",
+      "SYN_CAM_22"
+    ],
+    "first_seen": "2026-10-10T08:28:36.000",
+    "last_seen": "2026-10-10T08:56:11.000",
+    "synthetic": true
+  },
+  {
+    "plate_text": "TS09T6121",
+    "journey_id": "SYN_JNY_0037",
+    "vehicle_type": "car",
+    "camera_sequence": [
+      "SYN_CAM_19",
+      "SYN_CAM_20",
+      "SYN_CAM_21",
+      "SYN_CAM_24",
+      "SYN_CAM_26",
+      "SYN_CAM_27",
+      "SYN_CAM_28",
+      "SYN_CAM_29"
+    ],
+    "first_seen": "2026-10-10T10:11:57.000",
+    "last_seen": "2026-10-10T10:42:45.000",
+    "synthetic": true
+  },
+  {
+    "plate_text": "TS09A3648",
+    "journey_id": "SYN_JNY_0038",
+    "vehicle_type": "truck",
+    "camera_sequence": [
+      "SYN_CAM_25",
+      "SYN_CAM_26",
+      "SYN_CAM_27"
+    ],
+    "first_seen": "2026-10-10T08:45:44.000",
+    "last_seen": "2026-10-10T08:59:07.000",
+    "synthetic": true
+  },
+  {
+    "plate_text": "TS09H5885",
+    "journey_id": "SYN_JNY_0039",
+    "vehicle_type": "car",
+    "camera_sequence": [
+      "SYN_CAM_16",
+      "SYN_CAM_19",
+      "SYN_CAM_20",
+      "SYN_CAM_22",
+      "SYN_CAM_24",
+      "SYN_CAM_26",
+      "SYN_CAM_27"
+    ],
+    "first_seen": "2026-10-10T09:29:15.000",
+    "last_seen": "2026-10-10T09:55:58.000",
+    "synthetic": true
+  },
+  {
+    "plate_text": "TS09C6283",
+    "journey_id": "SYN_JNY_0040",
+    "vehicle_type": "motorcycle",
+    "camera_sequence": [
+      "SYN_CAM_35",
+      "SYN_CAM_36",
+      "SYN_CAM_37",
+      "SYN_CAM_38",
+      "SYN_CAM_39",
+      "SYN_CAM_40",
+      "SYN_CAM_43",
+      "SYN_CAM_45",
+      "SYN_CAM_46"
+    ],
+    "first_seen": "2026-10-10T09:56:00.000",
+    "last_seen": "2026-10-10T10:34:50.000",
+    "synthetic": true
+  },
+  {
+    "plate_text": "TS09W8137",
+    "journey_id": "SYN_JNY_0041",
+    "vehicle_type": "car",
+    "camera_sequence": [
+      "SYN_CAM_34",
+      "SYN_CAM_38",
+      "SYN_CAM_41",
+      "SYN_CAM_44",
+      "SYN_CAM_46",
+      "SYN_CAM_46",
+      "SYN_CAM_46",
+      "SYN_CAM_46"
+    ],
+    "first_seen": "2026-10-10T09:23:04.000",
+    "last_seen": "2026-10-10T09:59:21.000",
+    "synthetic": true
+  },
+  {
+    "plate_text": "TS09W4902",
+    "journey_id": "SYN_JNY_0042",
+    "vehicle_type": "motorcycle",
+    "camera_sequence": [
+      "SYN_CAM_14",
+      "SYN_CAM_15",
+      "SYN_CAM_16",
+      "SYN_CAM_18",
+      "SYN_CAM_19",
+      "SYN_CAM_23"
+    ],
+    "first_seen": "2026-10-10T08:11:21.000",
+    "last_seen": "2026-10-10T08:40:02.000",
+    "synthetic": true
+  },
+  {
+    "plate_text": "TS09R2289",
+    "journey_id": "SYN_JNY_0043",
+    "vehicle_type": "van",
+    "camera_sequence": [
+      "SYN_CAM_21",
+      "SYN_CAM_22",
+      "SYN_CAM_24",
+      "SYN_CAM_25",
+      "SYN_CAM_27"
+    ],
+    "first_seen": "2026-10-10T09:48:54.000",
+    "last_seen": "2026-10-10T10:08:18.000",
+    "synthetic": true
+  },
+  {
+    "plate_text": "TS09E5236",
+    "journey_id": "SYN_JNY_0044",
+    "vehicle_type": "car",
+    "camera_sequence": [
+      "SYN_CAM_17",
+      "SYN_CAM_23",
+      "SYN_CAM_24",
+      "SYN_CAM_25",
+      "SYN_CAM_27",
+      "SYN_CAM_29",
+      "SYN_CAM_30"
+    ],
+    "first_seen": "2026-10-10T10:41:52.000",
+    "last_seen": "2026-10-10T11:13:58.000",
+    "synthetic": true
+  },
+  {
+    "plate_text": "TS09E2254",
+    "journey_id": "SYN_JNY_0045",
+    "vehicle_type": "van",
+    "camera_sequence": [
+      "SYN_CAM_08",
+      "SYN_CAM_12",
+      "SYN_CAM_13",
+      "SYN_CAM_14",
+      "SYN_CAM_15",
+      "SYN_CAM_18",
+      "SYN_CAM_19"
+    ],
+    "first_seen": "2026-10-10T08:19:09.000",
+    "last_seen": "2026-10-10T08:52:37.000",
+    "synthetic": true
+  },
+  {
+    "plate_text": "TS09R6408",
+    "journey_id": "SYN_JNY_0046",
+    "vehicle_type": "truck",
+    "camera_sequence": [
+      "SYN_CAM_21",
+      "SYN_CAM_25",
+      "SYN_CAM_26"
+    ],
+    "first_seen": "2026-10-10T09:18:42.000",
+    "last_seen": "2026-10-10T09:23:55.000",
+    "synthetic": true
+  },
+  {
+    "plate_text": "TS09W1791",
+    "journey_id": "SYN_JNY_0047",
+    "vehicle_type": "bus",
+    "camera_sequence": [
+      "SYN_CAM_30",
+      "SYN_CAM_31",
+      "SYN_CAM_32",
+      "SYN_CAM_33",
+      "SYN_CAM_35"
+    ],
+    "first_seen": "2026-10-10T10:18:34.000",
+    "last_seen": "2026-10-10T10:35:49.000",
+    "synthetic": true
+  },
+  {
+    "plate_text": "TS09Z6048",
+    "journey_id": "SYN_JNY_0048",
+    "vehicle_type": "bus",
+    "camera_sequence": [
+      "SYN_CAM_13",
+      "SYN_CAM_16",
+      "SYN_CAM_17",
+      "SYN_CAM_21",
+      "SYN_CAM_23",
+      "SYN_CAM_27",
+      "SYN_CAM_28"
+    ],
+    "first_seen": "2026-10-10T08:49:06.000",
+    "last_seen": "2026-10-10T09:19:39.000",
+    "synthetic": true
+  },
+  {
+    "plate_text": "TS09L9017",
+    "journey_id": "SYN_JNY_0049",
+    "vehicle_type": "motorcycle",
+    "camera_sequence": [
+      "SYN_CAM_09",
+      "SYN_CAM_13",
+      "SYN_CAM_17",
+      "SYN_CAM_19",
+      "SYN_CAM_20",
+      "SYN_CAM_21",
+      "SYN_CAM_23"
+    ],
+    "first_seen": "2026-10-10T10:14:04.000",
+    "last_seen": "2026-10-10T10:41:29.000",
+    "synthetic": true
+  },
+  {
+    "plate_text": "TS09C3643",
+    "journey_id": "SYN_JNY_0050",
+    "vehicle_type": "truck",
+    "camera_sequence": [
+      "SYN_CAM_31",
+      "SYN_CAM_32",
+      "SYN_CAM_33",
+      "SYN_CAM_37",
+      "SYN_CAM_39",
+      "SYN_CAM_40"
+    ],
+    "first_seen": "2026-10-10T10:08:08.000",
+    "last_seen": "2026-10-10T10:32:12.000",
+    "synthetic": true
+  },
+  {
+    "plate_text": "TS09V2431",
+    "journey_id": "SYN_JNY_0051",
+    "vehicle_type": "van",
+    "camera_sequence": [
+      "SYN_CAM_19",
+      "SYN_CAM_20",
+      "SYN_CAM_22",
+      "SYN_CAM_23",
+      "SYN_CAM_25",
+      "SYN_CAM_29",
+      "SYN_CAM_31",
+      "SYN_CAM_34",
+      "SYN_CAM_36"
+    ],
+    "first_seen": "2026-10-10T10:31:46.000",
+    "last_seen": "2026-10-10T11:11:53.000",
+    "synthetic": true
+  },
+  {
+    "plate_text": "TS09D5073",
+    "journey_id": "SYN_JNY_0052",
+    "vehicle_type": "car",
+    "camera_sequence": [
+      "SYN_CAM_14",
+      "SYN_CAM_15",
+      "SYN_CAM_19",
+      "SYN_CAM_22",
+      "SYN_CAM_25",
+      "SYN_CAM_27"
+    ],
+    "first_seen": "2026-10-10T09:15:08.000",
+    "last_seen": "2026-10-10T09:36:16.000",
+    "synthetic": true
+  },
+  {
+    "plate_text": "TS09H5919",
+    "journey_id": "SYN_JNY_0053",
+    "vehicle_type": "car",
+    "camera_sequence": [
+      "SYN_CAM_10",
+      "SYN_CAM_11",
+      "SYN_CAM_13",
+      "SYN_CAM_15"
+    ],
+    "first_seen": "2026-10-10T08:13:54.000",
+    "last_seen": "2026-10-10T08:25:57.000",
+    "synthetic": true
+  },
+  {
+    "plate_text": "TS09Y6976",
+    "journey_id": "SYN_JNY_0054",
+    "vehicle_type": "motorcycle",
+    "camera_sequence": [
+      "SYN_CAM_16",
+      "SYN_CAM_17",
+      "SYN_CAM_19",
+      "SYN_CAM_21",
+      "SYN_CAM_24",
+      "SYN_CAM_25",
+      "SYN_CAM_29",
+      "SYN_CAM_33",
+      "SYN_CAM_34"
+    ],
+    "first_seen": "2026-10-10T08:20:08.000",
+    "last_seen": "2026-10-10T09:04:55.000",
+    "synthetic": true
+  },
+  {
+    "plate_text": "TS09P9568",
+    "journey_id": "SYN_JNY_0055",
+    "vehicle_type": "car",
+    "camera_sequence": [
+      "SYN_CAM_34",
+      "SYN_CAM_39",
+      "SYN_CAM_43",
+      "SYN_CAM_45",
+      "SYN_CAM_46",
+      "SYN_CAM_46",
+      "SYN_CAM_46"
+    ],
+    "first_seen": "2026-10-10T08:43:15.000",
+    "last_seen": "2026-10-10T09:15:30.000",
+    "synthetic": true
+  },
+  {
+    "plate_text": "TS09M4355",
+    "journey_id": "SYN_JNY_0056",
+    "vehicle_type": "van",
+    "camera_sequence": [
+      "SYN_CAM_28",
+      "SYN_CAM_32",
+      "SYN_CAM_33",
+      "SYN_CAM_35",
+      "SYN_CAM_37",
+      "SYN_CAM_38",
+      "SYN_CAM_39"
+    ],
+    "first_seen": "2026-10-10T09:48:29.000",
+    "last_seen": "2026-10-10T10:22:18.000",
+    "synthetic": true
+  },
+  {
+    "plate_text": "TS09C6287",
+    "journey_id": "SYN_JNY_0057",
+    "vehicle_type": "car",
+    "camera_sequence": [
+      "SYN_CAM_24",
+      "SYN_CAM_25",
+      "SYN_CAM_26",
+      "SYN_CAM_28"
+    ],
+    "first_seen": "2026-10-10T08:21:02.000",
+    "last_seen": "2026-10-10T08:33:14.000",
+    "synthetic": true
+  },
+  {
+    "plate_text": "TS09K4084",
+    "journey_id": "SYN_JNY_0058",
+    "vehicle_type": "bus",
+    "camera_sequence": [
+      "SYN_CAM_39",
+      "SYN_CAM_41",
+      "SYN_CAM_43",
+      "SYN_CAM_44",
+      "SYN_CAM_45"
+    ],
+    "first_seen": "2026-10-10T08:47:36.000",
+    "last_seen": "2026-10-10T09:07:26.000",
+    "synthetic": true
+  },
+  {
+    "plate_text": "TS09D4067",
+    "journey_id": "SYN_JNY_0059",
+    "vehicle_type": "van",
+    "camera_sequence": [
+      "SYN_CAM_12",
+      "SYN_CAM_14",
+      "SYN_CAM_15",
+      "SYN_CAM_16",
+      "SYN_CAM_17"
+    ],
+    "first_seen": "2026-10-10T08:49:09.000",
+    "last_seen": "2026-10-10T09:08:23.000",
+    "synthetic": true
+  },
+  {
+    "plate_text": "TS09C1594",
+    "journey_id": "SYN_JNY_0060",
+    "vehicle_type": "car",
+    "camera_sequence": [
+      "SYN_CAM_01",
+      "SYN_CAM_02",
+      "SYN_CAM_03",
+      "SYN_CAM_05",
+      "SYN_CAM_07",
+      "SYN_CAM_08"
+    ],
+    "first_seen": "2026-10-10T08:02:22.000",
+    "last_seen": "2026-10-10T08:26:53.000",
+    "synthetic": true
+  },
+  {
+    "plate_text": "TS09R6032",
+    "journey_id": "SYN_JNY_0061",
+    "vehicle_type": "car",
+    "camera_sequence": [
+      "SYN_CAM_02",
+      "SYN_CAM_04",
+      "SYN_CAM_07",
+      "SYN_CAM_10",
+      "SYN_CAM_12"
+    ],
+    "first_seen": "2026-10-10T08:08:46.000",
+    "last_seen": "2026-10-10T08:25:44.000",
+    "synthetic": true
+  },
+  {
+    "plate_text": "TS09D8809",
+    "journey_id": "SYN_JNY_0062",
+    "vehicle_type": "car",
+    "camera_sequence": [
+      "SYN_CAM_33",
+      "SYN_CAM_36",
+      "SYN_CAM_38"
+    ],
+    "first_seen": "2026-10-10T08:25:18.000",
+    "last_seen": "2026-10-10T08:37:06.000",
+    "synthetic": true
+  },
+  {
+    "plate_text": "TS09E8961",
+    "journey_id": "SYN_JNY_0063",
+    "vehicle_type": "car",
+    "camera_sequence": [
+      "SYN_CAM_06",
+      "SYN_CAM_09",
+      "SYN_CAM_11",
+      "SYN_CAM_12",
+      "SYN_CAM_14",
+      "SYN_CAM_18"
+    ],
+    "first_seen": "2026-10-10T08:06:30.000",
+    "last_seen": "2026-10-10T08:28:37.000",
+    "synthetic": true
+  },
+  {
+    "plate_text": "TS09S8065",
+    "journey_id": "SYN_JNY_0064",
+    "vehicle_type": "motorcycle",
+    "camera_sequence": [
+      "SYN_CAM_06",
+      "SYN_CAM_10",
+      "SYN_CAM_11",
+      "SYN_CAM_14",
+      "SYN_CAM_15",
+      "SYN_CAM_18",
+      "SYN_CAM_22",
+      "SYN_CAM_26"
+    ],
+    "first_seen": "2026-10-10T08:13:30.000",
+    "last_seen": "2026-10-10T08:51:28.000",
+    "synthetic": true
+  },
+  {
+    "plate_text": "TS09Z3467",
+    "journey_id": "SYN_JNY_0065",
+    "vehicle_type": "car",
+    "camera_sequence": [
+      "SYN_CAM_33",
+      "SYN_CAM_37",
+      "SYN_CAM_41",
+      "SYN_CAM_43",
+      "SYN_CAM_45",
+      "SYN_CAM_46",
+      "SYN_CAM_46",
+      "SYN_CAM_46",
+      "SYN_CAM_46"
+    ],
+    "first_seen": "2026-10-10T10:50:14.000",
+    "last_seen": "2026-10-10T11:41:49.000",
+    "synthetic": true
+  },
+  {
+    "plate_text": "TS09S8872",
+    "journey_id": "SYN_JNY_0066",
+    "vehicle_type": "truck",
+    "camera_sequence": [
+      "SYN_CAM_35",
+      "SYN_CAM_41",
+      "SYN_CAM_42",
+      "SYN_CAM_43",
+      "SYN_CAM_44"
+    ],
+    "first_seen": "2026-10-10T09:20:16.000",
+    "last_seen": "2026-10-10T09:40:19.000",
+    "synthetic": true
+  },
+  {
+    "plate_text": "TS09R5969",
+    "journey_id": "SYN_JNY_0067",
+    "vehicle_type": "car",
+    "camera_sequence": [
+      "SYN_CAM_30",
+      "SYN_CAM_34",
+      "SYN_CAM_37",
+      "SYN_CAM_38",
+      "SYN_CAM_39",
+      "SYN_CAM_41"
+    ],
+    "first_seen": "2026-10-10T09:24:23.000",
+    "last_seen": "2026-10-10T09:55:29.000",
+    "synthetic": true
+  },
+  {
+    "plate_text": "TS09H4631",
+    "journey_id": "SYN_JNY_0068",
+    "vehicle_type": "motorcycle",
+    "camera_sequence": [
+      "SYN_CAM_11",
+      "SYN_CAM_12",
+      "SYN_CAM_15",
+      "SYN_CAM_17",
+      "SYN_CAM_19",
+      "SYN_CAM_21"
+    ],
+    "first_seen": "2026-10-10T09:43:45.000",
+    "last_seen": "2026-10-10T10:06:52.000",
+    "synthetic": true
+  },
+  {
+    "plate_text": "TS09J8419",
+    "journey_id": "SYN_JNY_0069",
+    "vehicle_type": "bus",
+    "camera_sequence": [
+      "SYN_CAM_01",
+      "SYN_CAM_02",
+      "SYN_CAM_04",
+      "SYN_CAM_06",
+      "SYN_CAM_07",
+      "SYN_CAM_08"
+    ],
+    "first_seen": "2026-10-10T09:42:24.000",
+    "last_seen": "2026-10-10T10:07:15.000",
+    "synthetic": true
+  },
+  {
+    "plate_text": "TS09G2263",
+    "journey_id": "SYN_JNY_0070",
+    "vehicle_type": "bus",
+    "camera_sequence": [
+      "SYN_CAM_37",
+      "SYN_CAM_41",
+      "SYN_CAM_43",
+      "SYN_CAM_46",
+      "SYN_CAM_46"
+    ],
+    "first_seen": "2026-10-10T09:07:14.000",
+    "last_seen": "2026-10-10T09:28:37.000",
+    "synthetic": true
+  },
+  {
+    "plate_text": "TS09L6838",
+    "journey_id": "SYN_JNY_0071",
+    "vehicle_type": "motorcycle",
+    "camera_sequence": [
+      "SYN_CAM_03",
+      "SYN_CAM_05",
+      "SYN_CAM_06",
+      "SYN_CAM_08",
+      "SYN_CAM_10",
+      "SYN_CAM_12",
+      "SYN_CAM_13"
+    ],
+    "first_seen": "2026-10-10T09:07:50.000",
+    "last_seen": "2026-10-10T09:35:51.000",
+    "synthetic": true
+  },
+  {
+    "plate_text": "TS09Z5025",
+    "journey_id": "SYN_JNY_0072",
+    "vehicle_type": "car",
+    "camera_sequence": [
+      "SYN_CAM_07",
+      "SYN_CAM_11",
+      "SYN_CAM_12",
+      "SYN_CAM_13",
+      "SYN_CAM_17",
+      "SYN_CAM_19",
+      "SYN_CAM_20",
+      "SYN_CAM_22",
+      "SYN_CAM_23"
+    ],
+    "first_seen": "2026-10-10T10:07:14.000",
+    "last_seen": "2026-10-10T10:44:02.000",
+    "synthetic": true
+  },
+  {
+    "plate_text": "TS09T8529",
+    "journey_id": "SYN_JNY_0073",
+    "vehicle_type": "van",
+    "camera_sequence": [
+      "SYN_CAM_17",
+      "SYN_CAM_18",
+      "SYN_CAM_20",
+      "SYN_CAM_21",
+      "SYN_CAM_24",
+      "SYN_CAM_26",
+      "SYN_CAM_27"
+    ],
+    "first_seen": "2026-10-10T08:50:55.000",
+    "last_seen": "2026-10-10T09:18:15.000",
+    "synthetic": true
+  },
+  {
+    "plate_text": "TS09N3302",
+    "journey_id": "SYN_JNY_0074",
+    "vehicle_type": "truck",
+    "camera_sequence": [
+      "SYN_CAM_13",
+      "SYN_CAM_14",
+      "SYN_CAM_17",
+      "SYN_CAM_19",
+      "SYN_CAM_22",
+      "SYN_CAM_25",
+      "SYN_CAM_26"
+    ],
+    "first_seen": "2026-10-10T10:10:55.000",
+    "last_seen": "2026-10-10T10:34:34.000",
+    "synthetic": true
+  },
+  {
+    "plate_text": "TS09M1263",
+    "journey_id": "SYN_JNY_0075",
+    "vehicle_type": "motorcycle",
+    "camera_sequence": [
+      "SYN_CAM_26",
+      "SYN_CAM_27",
+      "SYN_CAM_31",
+      "SYN_CAM_32",
+      "SYN_CAM_33",
+      "SYN_CAM_34",
+      "SYN_CAM_36",
+      "SYN_CAM_40",
+      "SYN_CAM_41"
+    ],
+    "first_seen": "2026-10-10T10:05:21.000",
+    "last_seen": "2026-10-10T10:43:14.000",
+    "synthetic": true
+  },
+  {
+    "plate_text": "TS09G1864",
+    "journey_id": "SYN_JNY_0076",
+    "vehicle_type": "motorcycle",
+    "camera_sequence": [
+      "SYN_CAM_31",
+      "SYN_CAM_33",
+      "SYN_CAM_34",
+      "SYN_CAM_38",
+      "SYN_CAM_40",
+      "SYN_CAM_41",
+      "SYN_CAM_43",
+      "SYN_CAM_44"
+    ],
+    "first_seen": "2026-10-10T10:43:59.000",
+    "last_seen": "2026-10-10T11:23:00.000",
+    "synthetic": true
+  },
+  {
+    "plate_text": "TS09R1362",
+    "journey_id": "SYN_JNY_0077",
+    "vehicle_type": "bus",
+    "camera_sequence": [
+      "SYN_CAM_10",
+      "SYN_CAM_16",
+      "SYN_CAM_19",
+      "SYN_CAM_22"
+    ],
+    "first_seen": "2026-10-10T08:52:08.000",
+    "last_seen": "2026-10-10T09:05:49.000",
+    "synthetic": true
+  },
+  {
+    "plate_text": "TS09E6689",
+    "journey_id": "SYN_JNY_0078",
+    "vehicle_type": "truck",
+    "camera_sequence": [
+      "SYN_CAM_13",
+      "SYN_CAM_14",
+      "SYN_CAM_18",
+      "SYN_CAM_21",
+      "SYN_CAM_22",
+      "SYN_CAM_23"
+    ],
+    "first_seen": "2026-10-10T10:38:38.000",
+    "last_seen": "2026-10-10T11:08:23.000",
+    "synthetic": true
+  },
+  {
+    "plate_text": "TS09J1470",
+    "journey_id": "SYN_JNY_0079",
+    "vehicle_type": "car",
+    "camera_sequence": [
+      "SYN_CAM_24",
+      "SYN_CAM_27",
+      "SYN_CAM_28",
+      "SYN_CAM_29",
+      "SYN_CAM_30",
+      "SYN_CAM_32",
+      "SYN_CAM_34",
+      "SYN_CAM_36",
+      "SYN_CAM_40"
+    ],
+    "first_seen": "2026-10-10T10:08:36.000",
+    "last_seen": "2026-10-10T10:45:07.000",
+    "synthetic": true
+  },
+  {
+    "plate_text": "TS09F9212",
+    "journey_id": "SYN_JNY_0080",
+    "vehicle_type": "truck",
+    "camera_sequence": [
+      "SYN_CAM_02",
+      "SYN_CAM_06",
+      "SYN_CAM_07",
+      "SYN_CAM_08",
+      "SYN_CAM_10",
+      "SYN_CAM_14",
+      "SYN_CAM_18",
+      "SYN_CAM_22"
+    ],
+    "first_seen": "2026-10-10T10:24:55.000",
+    "last_seen": "2026-10-10T10:59:06.000",
+    "synthetic": true
+  },
+  {
+    "plate_text": "TS09R5074",
+    "journey_id": "SYN_JNY_0081",
+    "vehicle_type": "truck",
+    "camera_sequence": [
+      "SYN_CAM_37",
+      "SYN_CAM_41",
+      "SYN_CAM_43",
+      "SYN_CAM_44",
+      "SYN_CAM_46",
+      "SYN_CAM_46"
+    ],
+    "first_seen": "2026-10-10T09:41:24.000",
+    "last_seen": "2026-10-10T10:02:42.000",
+    "synthetic": true
+  },
+  {
+    "plate_text": "TS09W4699",
+    "journey_id": "SYN_JNY_0082",
+    "vehicle_type": "truck",
+    "camera_sequence": [
+      "SYN_CAM_04",
+      "SYN_CAM_08",
+      "SYN_CAM_10",
+      "SYN_CAM_11",
+      "SYN_CAM_14",
+      "SYN_CAM_17",
+      "SYN_CAM_18",
+      "SYN_CAM_19"
+    ],
+    "first_seen": "2026-10-10T09:25:55.000",
+    "last_seen": "2026-10-10T09:58:32.000",
+    "synthetic": true
+  },
+  {
+    "plate_text": "TS09E3499",
+    "journey_id": "SYN_JNY_0083",
+    "vehicle_type": "car",
+    "camera_sequence": [
+      "SYN_CAM_07",
+      "SYN_CAM_08",
+      "SYN_CAM_11",
+      "SYN_CAM_12",
+      "SYN_CAM_16",
+      "SYN_CAM_20",
+      "SYN_CAM_22",
+      "SYN_CAM_24"
+    ],
+    "first_seen": "2026-10-10T09:01:22.000",
+    "last_seen": "2026-10-10T09:35:00.000",
+    "synthetic": true
+  },
+  {
+    "plate_text": "TS09C8052",
+    "journey_id": "SYN_JNY_0084",
+    "vehicle_type": "car",
+    "camera_sequence": [
+      "SYN_CAM_03",
+      "SYN_CAM_04",
+      "SYN_CAM_08"
+    ],
+    "first_seen": "2026-10-10T10:30:02.000",
+    "last_seen": "2026-10-10T10:41:11.000",
+    "synthetic": true
+  },
+  {
+    "plate_text": "TS09M8525",
+    "journey_id": "SYN_JNY_0085",
+    "vehicle_type": "motorcycle",
+    "camera_sequence": [
+      "SYN_CAM_13",
+      "SYN_CAM_16",
+      "SYN_CAM_17",
+      "SYN_CAM_21",
+      "SYN_CAM_23"
+    ],
+    "first_seen": "2026-10-10T09:58:24.000",
+    "last_seen": "2026-10-10T10:14:26.000",
+    "synthetic": true
+  },
+  {
+    "plate_text": "TS09E9910",
+    "journey_id": "SYN_JNY_0086",
+    "vehicle_type": "car",
+    "camera_sequence": [
+      "SYN_CAM_31",
+      "SYN_CAM_33",
+      "SYN_CAM_34",
+      "SYN_CAM_35",
+      "SYN_CAM_36",
+      "SYN_CAM_37",
+      "SYN_CAM_41"
+    ],
+    "first_seen": "2026-10-10T10:38:27.000",
+    "last_seen": "2026-10-10T11:10:00.000",
+    "synthetic": true
+  },
+  {
+    "plate_text": "TS09V6312",
+    "journey_id": "SYN_JNY_0087",
+    "vehicle_type": "car",
+    "camera_sequence": [
+      "SYN_CAM_14",
+      "SYN_CAM_16",
+      "SYN_CAM_17",
+      "SYN_CAM_20",
+      "SYN_CAM_21",
+      "SYN_CAM_24"
+    ],
+    "first_seen": "2026-10-10T09:04:10.000",
+    "last_seen": "2026-10-10T09:25:03.000",
+    "synthetic": true
+  },
+  {
+    "plate_text": "TS09B7846",
+    "journey_id": "SYN_JNY_0088",
+    "vehicle_type": "car",
+    "camera_sequence": [
+      "SYN_CAM_02",
+      "SYN_CAM_07",
+      "SYN_CAM_08",
+      "SYN_CAM_09"
+    ],
+    "first_seen": "2026-10-10T09:35:07.000",
+    "last_seen": "2026-10-10T09:53:55.000",
+    "synthetic": true
+  },
+  {
+    "plate_text": "TS09V7263",
+    "journey_id": "SYN_JNY_0089",
+    "vehicle_type": "car",
+    "camera_sequence": [
+      "SYN_CAM_26",
+      "SYN_CAM_28",
+      "SYN_CAM_31",
+      "SYN_CAM_32",
+      "SYN_CAM_34",
+      "SYN_CAM_37",
+      "SYN_CAM_41",
+      "SYN_CAM_45",
+      "SYN_CAM_46"
+    ],
+    "first_seen": "2026-10-10T08:00:53.000",
+    "last_seen": "2026-10-10T08:50:19.000",
+    "synthetic": true
+  },
+  {
+    "plate_text": "TS09D5204",
+    "journey_id": "SYN_JNY_0090",
+    "vehicle_type": "truck",
+    "camera_sequence": [
+      "SYN_CAM_25",
+      "SYN_CAM_27",
+      "SYN_CAM_29",
+      "SYN_CAM_33"
+    ],
+    "first_seen": "2026-10-10T09:53:15.000",
+    "last_seen": "2026-10-10T10:10:32.000",
+    "synthetic": true
+  },
+  {
+    "plate_text": "TS09F3922",
+    "journey_id": "SYN_JNY_0091",
+    "vehicle_type": "motorcycle",
+    "camera_sequence": [
+      "SYN_CAM_17",
+      "SYN_CAM_18",
+      "SYN_CAM_19",
+      "SYN_CAM_22",
+      "SYN_CAM_24",
+      "SYN_CAM_25",
+      "SYN_CAM_27",
+      "SYN_CAM_31"
+    ],
+    "first_seen": "2026-10-10T08:36:53.000",
+    "last_seen": "2026-10-10T09:19:32.000",
+    "synthetic": true
+  },
+  {
+    "plate_text": "TS09N4166",
+    "journey_id": "SYN_JNY_0092",
+    "vehicle_type": "car",
+    "camera_sequence": [
+      "SYN_CAM_24",
+      "SYN_CAM_26",
+      "SYN_CAM_27",
+      "SYN_CAM_30",
+      "SYN_CAM_31",
+      "SYN_CAM_33",
+      "SYN_CAM_34",
+      "SYN_CAM_37"
+    ],
+    "first_seen": "2026-10-10T08:28:05.000",
+    "last_seen": "2026-10-10T09:00:50.000",
+    "synthetic": true
+  },
+  {
+    "plate_text": "TS09X8964",
+    "journey_id": "SYN_JNY_0093",
+    "vehicle_type": "motorcycle",
+    "camera_sequence": [
+      "SYN_CAM_24",
+      "SYN_CAM_27",
+      "SYN_CAM_31",
+      "SYN_CAM_34",
+      "SYN_CAM_36",
+      "SYN_CAM_38",
+      "SYN_CAM_39",
+      "SYN_CAM_41",
+      "SYN_CAM_42"
+    ],
+    "first_seen": "2026-10-10T09:44:20.000",
+    "last_seen": "2026-10-10T10:28:29.000",
+    "synthetic": true
+  },
+  {
+    "plate_text": "TS09X4432",
+    "journey_id": "SYN_JNY_0094",
+    "vehicle_type": "car",
+    "camera_sequence": [
+      "SYN_CAM_30",
+      "SYN_CAM_31",
+      "SYN_CAM_33",
+      "SYN_CAM_34",
+      "SYN_CAM_35",
+      "SYN_CAM_39",
+      "SYN_CAM_40",
+      "SYN_CAM_42",
+      "SYN_CAM_44"
+    ],
+    "first_seen": "2026-10-10T10:44:21.000",
+    "last_seen": "2026-10-10T11:23:25.000",
+    "synthetic": true
+  },
+  {
+    "plate_text": "TS09S3720",
+    "journey_id": "SYN_JNY_0095",
+    "vehicle_type": "van",
+    "camera_sequence": [
+      "SYN_CAM_33",
+      "SYN_CAM_34",
+      "SYN_CAM_35"
+    ],
+    "first_seen": "2026-10-10T08:44:20.000",
+    "last_seen": "2026-10-10T08:57:40.000",
+    "synthetic": true
+  },
+  {
+    "plate_text": "TS09X5516",
+    "journey_id": "SYN_JNY_0096",
+    "vehicle_type": "car",
+    "camera_sequence": [
+      "SYN_CAM_28",
+      "SYN_CAM_29",
+      "SYN_CAM_31",
+      "SYN_CAM_33",
+      "SYN_CAM_35",
+      "SYN_CAM_39",
+      "SYN_CAM_41",
+      "SYN_CAM_43"
+    ],
+    "first_seen": "2026-10-10T10:13:45.000",
+    "last_seen": "2026-10-10T10:50:03.000",
+    "synthetic": true
+  },
+  {
+    "plate_text": "TS09W7362",
+    "journey_id": "SYN_JNY_0097",
+    "vehicle_type": "van",
+    "camera_sequence": [
+      "SYN_CAM_05",
+      "SYN_CAM_07",
+      "SYN_CAM_08",
+      "SYN_CAM_12"
+    ],
+    "first_seen": "2026-10-10T09:12:11.000",
+    "last_seen": "2026-10-10T09:27:42.000",
+    "synthetic": true
+  },
+  {
+    "plate_text": "TS09F4300",
+    "journey_id": "SYN_JNY_0098",
+    "vehicle_type": "bus",
+    "camera_sequence": [
+      "SYN_CAM_14",
+      "SYN_CAM_16",
+      "SYN_CAM_17",
+      "SYN_CAM_18"
+    ],
+    "first_seen": "2026-10-10T08:55:43.000",
+    "last_seen": "2026-10-10T09:13:29.000",
+    "synthetic": true
+  },
+  {
+    "plate_text": "TS09N9335",
+    "journey_id": "SYN_JNY_0099",
+    "vehicle_type": "car",
+    "camera_sequence": [
+      "SYN_CAM_16",
+      "SYN_CAM_19",
+      "SYN_CAM_21",
+      "SYN_CAM_22",
+      "SYN_CAM_25",
+      "SYN_CAM_26"
+    ],
+    "first_seen": "2026-10-10T08:38:47.000",
+    "last_seen": "2026-10-10T09:05:22.000",
+    "synthetic": true
+  },
+  {
+    "plate_text": "TS09S5269",
+    "journey_id": "SYN_JNY_0100",
+    "vehicle_type": "truck",
+    "camera_sequence": [
+      "SYN_CAM_29",
+      "SYN_CAM_30",
+      "SYN_CAM_32"
+    ],
+    "first_seen": "2026-10-10T09:28:36.000",
+    "last_seen": "2026-10-10T09:39:13.000",
+    "synthetic": true
+  },
+  {
+    "plate_text": "TS09U4675",
+    "journey_id": "SYN_JNY_0101",
+    "vehicle_type": "van",
+    "camera_sequence": [
+      "SYN_CAM_14",
+      "SYN_CAM_16",
+      "SYN_CAM_18",
+      "SYN_CAM_20",
+      "SYN_CAM_21"
+    ],
+    "first_seen": "2026-10-10T09:24:55.000",
+    "last_seen": "2026-10-10T09:44:51.000",
+    "synthetic": true
+  },
+  {
+    "plate_text": "TS09L7147",
+    "journey_id": "SYN_JNY_0102",
+    "vehicle_type": "car",
+    "camera_sequence": [
+      "SYN_CAM_38",
+      "SYN_CAM_40",
+      "SYN_CAM_42",
+      "SYN_CAM_46",
+      "SYN_CAM_46",
+      "SYN_CAM_46"
+    ],
+    "first_seen": "2026-10-10T10:23:21.000",
+    "last_seen": "2026-10-10T10:52:11.000",
+    "synthetic": true
+  },
+  {
+    "plate_text": "TS09Z5398",
+    "journey_id": "SYN_JNY_0103",
+    "vehicle_type": "car",
+    "camera_sequence": [
+      "SYN_CAM_20",
+      "SYN_CAM_21",
+      "SYN_CAM_23",
+      "SYN_CAM_24"
+    ],
+    "first_seen": "2026-10-10T08:03:23.000",
+    "last_seen": "2026-10-10T08:16:22.000",
+    "synthetic": true
+  },
+  {
+    "plate_text": "TS09J5325",
+    "journey_id": "SYN_JNY_0104",
+    "vehicle_type": "van",
+    "camera_sequence": [
+      "SYN_CAM_23",
+      "SYN_CAM_24",
+      "SYN_CAM_25",
+      "SYN_CAM_29",
+      "SYN_CAM_30",
+      "SYN_CAM_31",
+      "SYN_CAM_33",
+      "SYN_CAM_35"
+    ],
+    "first_seen": "2026-10-10T09:03:12.000",
+    "last_seen": "2026-10-10T09:45:40.000",
+    "synthetic": true
+  },
+  {
+    "plate_text": "TS09Y7672",
+    "journey_id": "SYN_JNY_0105",
+    "vehicle_type": "motorcycle",
+    "camera_sequence": [
+      "SYN_CAM_14",
+      "SYN_CAM_17",
+      "SYN_CAM_18",
+      "SYN_CAM_19",
+      "SYN_CAM_21",
+      "SYN_CAM_23",
+      "SYN_CAM_25",
+      "SYN_CAM_28"
+    ],
+    "first_seen": "2026-10-10T08:10:48.000",
+    "last_seen": "2026-10-10T08:53:58.000",
+    "synthetic": true
+  },
+  {
+    "plate_text": "TS09E6159",
+    "journey_id": "SYN_JNY_0106",
+    "vehicle_type": "car",
+    "camera_sequence": [
+      "SYN_CAM_37",
+      "SYN_CAM_39",
+      "SYN_CAM_41",
+      "SYN_CAM_45",
+      "SYN_CAM_46"
+    ],
+    "first_seen": "2026-10-10T09:07:51.000",
+    "last_seen": "2026-10-10T09:24:26.000",
+    "synthetic": true
+  },
+  {
+    "plate_text": "TS09N2555",
+    "journey_id": "SYN_JNY_0107",
+    "vehicle_type": "bus",
+    "camera_sequence": [
+      "SYN_CAM_13",
+      "SYN_CAM_14",
+      "SYN_CAM_15",
+      "SYN_CAM_16"
+    ],
+    "first_seen": "2026-10-10T08:01:27.000",
+    "last_seen": "2026-10-10T08:21:00.000",
+    "synthetic": true
+  },
+  {
+    "plate_text": "TS09P9391",
+    "journey_id": "SYN_JNY_0108",
+    "vehicle_type": "car",
+    "camera_sequence": [
+      "SYN_CAM_12",
+      "SYN_CAM_13",
+      "SYN_CAM_15"
+    ],
+    "first_seen": "2026-10-10T09:59:31.000",
+    "last_seen": "2026-10-10T10:07:12.000",
+    "synthetic": true
+  },
+  {
+    "plate_text": "TS09E9225",
+    "journey_id": "SYN_JNY_0109",
+    "vehicle_type": "truck",
+    "camera_sequence": [
+      "SYN_CAM_29",
+      "SYN_CAM_30",
+      "SYN_CAM_34",
+      "SYN_CAM_35",
+      "SYN_CAM_36",
+      "SYN_CAM_37",
+      "SYN_CAM_38",
+      "SYN_CAM_40"
+    ],
+    "first_seen": "2026-10-10T09:42:41.000",
+    "last_seen": "2026-10-10T10:18:31.000",
+    "synthetic": true
+  },
+  {
+    "plate_text": "TS09M3528",
+    "journey_id": "SYN_JNY_0110",
+    "vehicle_type": "truck",
+    "camera_sequence": [
+      "SYN_CAM_02",
+      "SYN_CAM_07",
+      "SYN_CAM_08",
+      "SYN_CAM_10"
+    ],
+    "first_seen": "2026-10-10T08:34:25.000",
+    "last_seen": "2026-10-10T08:54:44.000",
+    "synthetic": true
+  },
+  {
+    "plate_text": "TS09T6255",
+    "journey_id": "SYN_JNY_0111",
+    "vehicle_type": "car",
+    "camera_sequence": [
+      "SYN_CAM_34",
+      "SYN_CAM_35",
+      "SYN_CAM_36"
+    ],
+    "first_seen": "2026-10-10T09:25:43.000",
+    "last_seen": "2026-10-10T09:34:24.000",
+    "synthetic": true
+  },
+  {
+    "plate_text": "TS09Y2089",
+    "journey_id": "SYN_JNY_0112",
+    "vehicle_type": "bus",
+    "camera_sequence": [
+      "SYN_CAM_27",
+      "SYN_CAM_28",
+      "SYN_CAM_32",
+      "SYN_CAM_34",
+      "SYN_CAM_35"
+    ],
+    "first_seen": "2026-10-10T09:42:36.000",
+    "last_seen": "2026-10-10T10:02:50.000",
+    "synthetic": true
+  },
+  {
+    "plate_text": "TS09X7478",
+    "journey_id": "SYN_JNY_0113",
+    "vehicle_type": "truck",
+    "camera_sequence": [
+      "SYN_CAM_38",
+      "SYN_CAM_41",
+      "SYN_CAM_42",
+      "SYN_CAM_46",
+      "SYN_CAM_46",
+      "SYN_CAM_46",
+      "SYN_CAM_46"
+    ],
+    "first_seen": "2026-10-10T10:19:25.000",
+    "last_seen": "2026-10-10T10:42:18.000",
+    "synthetic": true
+  },
+  {
+    "plate_text": "TS09A1261",
+    "journey_id": "SYN_JNY_0114",
+    "vehicle_type": "bus",
+    "camera_sequence": [
+      "SYN_CAM_36",
+      "SYN_CAM_37",
+      "SYN_CAM_39",
+      "SYN_CAM_40",
+      "SYN_CAM_42",
+      "SYN_CAM_43",
+      "SYN_CAM_45",
+      "SYN_CAM_46"
+    ],
+    "first_seen": "2026-10-10T09:26:58.000",
+    "last_seen": "2026-10-10T10:09:44.000",
+    "synthetic": true
+  },
+  {
+    "plate_text": "TS09Y6830",
+    "journey_id": "SYN_JNY_0115",
+    "vehicle_type": "car",
+    "camera_sequence": [
+      "SYN_CAM_25",
+      "SYN_CAM_26",
+      "SYN_CAM_28",
+      "SYN_CAM_30",
+      "SYN_CAM_31"
+    ],
+    "first_seen": "2026-10-10T08:53:46.000",
+    "last_seen": "2026-10-10T09:14:25.000",
+    "synthetic": true
+  },
+  {
+    "plate_text": "TS09W5711",
+    "journey_id": "SYN_JNY_0116",
+    "vehicle_type": "car",
+    "camera_sequence": [
+      "SYN_CAM_34",
+      "SYN_CAM_35",
+      "SYN_CAM_37",
+      "SYN_CAM_38",
+      "SYN_CAM_39"
+    ],
+    "first_seen": "2026-10-10T10:22:36.000",
+    "last_seen": "2026-10-10T10:38:58.000",
+    "synthetic": true
+  },
+  {
+    "plate_text": "TS09P9697",
+    "journey_id": "SYN_JNY_0117",
+    "vehicle_type": "motorcycle",
+    "camera_sequence": [
+      "SYN_CAM_36",
+      "SYN_CAM_37",
+      "SYN_CAM_38",
+      "SYN_CAM_42",
+      "SYN_CAM_43",
+      "SYN_CAM_44"
+    ],
+    "first_seen": "2026-10-10T10:49:43.000",
+    "last_seen": "2026-10-10T11:11:33.000",
+    "synthetic": true
+  },
+  {
+    "plate_text": "TS09B1636",
+    "journey_id": "SYN_JNY_0118",
+    "vehicle_type": "car",
+    "camera_sequence": [
+      "SYN_CAM_03",
+      "SYN_CAM_04",
+      "SYN_CAM_07",
+      "SYN_CAM_11",
+      "SYN_CAM_12",
+      "SYN_CAM_15",
+      "SYN_CAM_16",
+      "SYN_CAM_17"
+    ],
+    "first_seen": "2026-10-10T09:50:05.000",
+    "last_seen": "2026-10-10T10:23:02.000",
+    "synthetic": true
+  },
+  {
+    "plate_text": "TS09L4740",
+    "journey_id": "SYN_JNY_0119",
+    "vehicle_type": "car",
+    "camera_sequence": [
+      "SYN_CAM_38",
+      "SYN_CAM_40",
+      "SYN_CAM_43",
+      "SYN_CAM_45",
+      "SYN_CAM_46",
+      "SYN_CAM_46",
+      "SYN_CAM_46",
+      "SYN_CAM_46",
+      "SYN_CAM_46"
+    ],
+    "first_seen": "2026-10-10T10:21:54.000",
+    "last_seen": "2026-10-10T11:00:58.000",
+    "synthetic": true
+  },
+  {
+    "plate_text": "TS09K6726",
+    "journey_id": "SYN_JNY_0120",
+    "vehicle_type": "truck",
+    "camera_sequence": [
+      "SYN_CAM_32",
+      "SYN_CAM_33",
+      "SYN_CAM_34",
+      "SYN_CAM_35"
+    ],
+    "first_seen": "2026-10-10T10:49:57.000",
+    "last_seen": "2026-10-10T11:02:15.000",
+    "synthetic": true
+  },
+  {
+    "plate_text": "TS09V6093",
+    "journey_id": "SYN_JNY_0121",
+    "vehicle_type": "truck",
+    "camera_sequence": [
+      "SYN_CAM_25",
+      "SYN_CAM_26",
+      "SYN_CAM_30"
+    ],
+    "first_seen": "2026-10-10T09:23:39.000",
+    "last_seen": "2026-10-10T09:36:13.000",
+    "synthetic": true
+  },
+  {
+    "plate_text": "TS09U2820",
+    "journey_id": "SYN_JNY_0122",
+    "vehicle_type": "van",
+    "camera_sequence": [
+      "SYN_CAM_28",
+      "SYN_CAM_29",
+      "SYN_CAM_33",
+      "SYN_CAM_34",
+      "SYN_CAM_37"
+    ],
+    "first_seen": "2026-10-10T10:13:54.000",
+    "last_seen": "2026-10-10T10:34:13.000",
+    "synthetic": true
+  },
+  {
+    "plate_text": "TS09K4734",
+    "journey_id": "SYN_JNY_0123",
+    "vehicle_type": "van",
+    "camera_sequence": [
+      "SYN_CAM_09",
+      "SYN_CAM_10",
+      "SYN_CAM_11",
+      "SYN_CAM_13",
+      "SYN_CAM_15",
+      "SYN_CAM_16"
+    ],
+    "first_seen": "2026-10-10T08:47:29.000",
+    "last_seen": "2026-10-10T09:06:21.000",
+    "synthetic": true
+  },
+  {
+    "plate_text": "TS09D5751",
+    "journey_id": "SYN_JNY_0124",
+    "vehicle_type": "car",
+    "camera_sequence": [
+      "SYN_CAM_39",
+      "SYN_CAM_43",
+      "SYN_CAM_45",
+      "SYN_CAM_46",
+      "SYN_CAM_46",
+      "SYN_CAM_46",
+      "SYN_CAM_46",
+      "SYN_CAM_46"
+    ],
+    "first_seen": "2026-10-10T08:55:18.000",
+    "last_seen": "2026-10-10T09:27:55.000",
+    "synthetic": true
+  },
+  {
+    "plate_text": "TS09E4993",
+    "journey_id": "SYN_JNY_0125",
+    "vehicle_type": "truck",
+    "camera_sequence": [
+      "SYN_CAM_39",
+      "SYN_CAM_40",
+      "SYN_CAM_41",
+      "SYN_CAM_45",
+      "SYN_CAM_46",
+      "SYN_CAM_46",
+      "SYN_CAM_46",
+      "SYN_CAM_46"
+    ],
+    "first_seen": "2026-10-10T09:08:09.000",
+    "last_seen": "2026-10-10T09:46:58.000",
+    "synthetic": true
+  },
+  {
+    "plate_text": "TS09Z4317",
+    "journey_id": "SYN_JNY_0126",
+    "vehicle_type": "truck",
+    "camera_sequence": [
+      "SYN_CAM_15",
+      "SYN_CAM_16",
+      "SYN_CAM_17",
+      "SYN_CAM_18",
+      "SYN_CAM_19",
+      "SYN_CAM_23",
+      "SYN_CAM_24",
+      "SYN_CAM_26",
+      "SYN_CAM_27"
+    ],
+    "first_seen": "2026-10-10T08:14:47.000",
+    "last_seen": "2026-10-10T08:52:33.000",
+    "synthetic": true
+  },
+  {
+    "plate_text": "TS09E7290",
+    "journey_id": "SYN_JNY_0127",
+    "vehicle_type": "truck",
+    "camera_sequence": [
+      "SYN_CAM_24",
+      "SYN_CAM_27",
+      "SYN_CAM_30",
+      "SYN_CAM_33",
+      "SYN_CAM_35",
+      "SYN_CAM_36"
+    ],
+    "first_seen": "2026-10-10T08:18:50.000",
+    "last_seen": "2026-10-10T08:42:51.000",
+    "synthetic": true
+  },
+  {
+    "plate_text": "TS09M6373",
+    "journey_id": "SYN_JNY_0128",
+    "vehicle_type": "truck",
+    "camera_sequence": [
+      "SYN_CAM_28",
+      "SYN_CAM_32",
+      "SYN_CAM_36",
+      "SYN_CAM_37"
+    ],
+    "first_seen": "2026-10-10T08:06:02.000",
+    "last_seen": "2026-10-10T08:20:57.000",
+    "synthetic": true
+  },
+  {
+    "plate_text": "TS09K2482",
+    "journey_id": "SYN_JNY_0129",
+    "vehicle_type": "car",
+    "camera_sequence": [
+      "SYN_CAM_22",
+      "SYN_CAM_23",
+      "SYN_CAM_24",
+      "SYN_CAM_28",
+      "SYN_CAM_30",
+      "SYN_CAM_34",
+      "SYN_CAM_35",
+      "SYN_CAM_37"
+    ],
+    "first_seen": "2026-10-10T09:13:20.000",
+    "last_seen": "2026-10-10T09:45:26.000",
+    "synthetic": true
+  },
+  {
+    "plate_text": "TS09M3661",
+    "journey_id": "SYN_JNY_0130",
+    "vehicle_type": "car",
+    "camera_sequence": [
+      "SYN_CAM_10",
+      "SYN_CAM_14",
+      "SYN_CAM_15",
+      "SYN_CAM_19",
+      "SYN_CAM_22"
+    ],
+    "first_seen": "2026-10-10T10:14:25.000",
+    "last_seen": "2026-10-10T10:35:07.000",
+    "synthetic": true
+  },
+  {
+    "plate_text": "TS09Y6163",
+    "journey_id": "SYN_JNY_0131",
+    "vehicle_type": "car",
+    "camera_sequence": [
+      "SYN_CAM_28",
+      "SYN_CAM_32",
+      "SYN_CAM_33",
+      "SYN_CAM_34",
+      "SYN_CAM_36"
+    ],
+    "first_seen": "2026-10-10T09:17:11.000",
+    "last_seen": "2026-10-10T09:34:58.000",
+    "synthetic": true
+  },
+  {
+    "plate_text": "TS09Y1444",
+    "journey_id": "SYN_JNY_0132",
+    "vehicle_type": "bus",
+    "camera_sequence": [
+      "SYN_CAM_36",
+      "SYN_CAM_40",
+      "SYN_CAM_41"
+    ],
+    "first_seen": "2026-10-10T08:25:09.000",
+    "last_seen": "2026-10-10T08:37:53.000",
+    "synthetic": true
+  },
+  {
+    "plate_text": "TS09K1505",
+    "journey_id": "SYN_JNY_0133",
+    "vehicle_type": "car",
+    "camera_sequence": [
+      "SYN_CAM_39",
+      "SYN_CAM_40",
+      "SYN_CAM_44",
+      "SYN_CAM_45",
+      "SYN_CAM_46"
+    ],
+    "first_seen": "2026-10-10T08:10:54.000",
+    "last_seen": "2026-10-10T08:30:37.000",
+    "synthetic": true
+  },
+  {
+    "plate_text": "TS09D9725",
+    "journey_id": "SYN_JNY_0134",
+    "vehicle_type": "truck",
+    "camera_sequence": [
+      "SYN_CAM_34",
+      "SYN_CAM_35",
+      "SYN_CAM_38",
+      "SYN_CAM_42",
+      "SYN_CAM_44",
+      "SYN_CAM_45",
+      "SYN_CAM_46"
+    ],
+    "first_seen": "2026-10-10T09:18:02.000",
+    "last_seen": "2026-10-10T09:46:04.000",
+    "synthetic": true
+  },
+  {
+    "plate_text": "TS09U1233",
+    "journey_id": "SYN_JNY_0135",
+    "vehicle_type": "car",
+    "camera_sequence": [
+      "SYN_CAM_10",
+      "SYN_CAM_14",
+      "SYN_CAM_18",
+      "SYN_CAM_19"
+    ],
+    "first_seen": "2026-10-10T09:40:48.000",
+    "last_seen": "2026-10-10T09:59:10.000",
+    "synthetic": true
+  },
+  {
+    "plate_text": "TS09W4504",
+    "journey_id": "SYN_JNY_0136",
+    "vehicle_type": "car",
+    "camera_sequence": [
+      "SYN_CAM_09",
+      "SYN_CAM_10",
+      "SYN_CAM_12"
+    ],
+    "first_seen": "2026-10-10T09:31:50.000",
+    "last_seen": "2026-10-10T09:44:29.000",
+    "synthetic": true
+  },
+  {
+    "plate_text": "TS09X4481",
+    "journey_id": "SYN_JNY_0137",
+    "vehicle_type": "car",
+    "camera_sequence": [
+      "SYN_CAM_17",
+      "SYN_CAM_19",
+      "SYN_CAM_21",
+      "SYN_CAM_22",
+      "SYN_CAM_24",
+      "SYN_CAM_28",
+      "SYN_CAM_29",
+      "SYN_CAM_33"
+    ],
+    "first_seen": "2026-10-10T10:47:44.000",
+    "last_seen": "2026-10-10T11:16:55.000",
+    "synthetic": true
+  },
+  {
+    "plate_text": "TS09V5843",
+    "journey_id": "SYN_JNY_0138",
+    "vehicle_type": "bus",
+    "camera_sequence": [
+      "SYN_CAM_09",
+      "SYN_CAM_11",
+      "SYN_CAM_12",
+      "SYN_CAM_14"
+    ],
+    "first_seen": "2026-10-10T10:05:09.000",
+    "last_seen": "2026-10-10T10:21:25.000",
+    "synthetic": true
+  },
+  {
+    "plate_text": "TS09P8599",
+    "journey_id": "SYN_JNY_0139",
+    "vehicle_type": "truck",
+    "camera_sequence": [
+      "SYN_CAM_33",
+      "SYN_CAM_37",
+      "SYN_CAM_39",
+      "SYN_CAM_40",
+      "SYN_CAM_43",
+      "SYN_CAM_46"
+    ],
+    "first_seen": "2026-10-10T10:45:51.000",
+    "last_seen": "2026-10-10T11:07:32.000",
+    "synthetic": true
+  },
+  {
+    "plate_text": "TS09P9898",
+    "journey_id": "SYN_JNY_0140",
+    "vehicle_type": "van",
+    "camera_sequence": [
+      "SYN_CAM_12",
+      "SYN_CAM_13",
+      "SYN_CAM_15",
+      "SYN_CAM_16"
+    ],
+    "first_seen": "2026-10-10T08:21:56.000",
+    "last_seen": "2026-10-10T08:35:13.000",
+    "synthetic": true
+  },
+  {
+    "plate_text": "TS09E7211",
+    "journey_id": "SYN_JNY_0141",
+    "vehicle_type": "car",
+    "camera_sequence": [
+      "SYN_CAM_29",
+      "SYN_CAM_30",
+      "SYN_CAM_31",
+      "SYN_CAM_32",
+      "SYN_CAM_34",
+      "SYN_CAM_35",
+      "SYN_CAM_36",
+      "SYN_CAM_37"
+    ],
+    "first_seen": "2026-10-10T10:02:45.000",
+    "last_seen": "2026-10-10T10:40:01.000",
+    "synthetic": true
+  },
+  {
+    "plate_text": "TS09K9049",
+    "journey_id": "SYN_JNY_0142",
+    "vehicle_type": "van",
+    "camera_sequence": [
+      "SYN_CAM_31",
+      "SYN_CAM_33",
+      "SYN_CAM_35",
+      "SYN_CAM_36",
+      "SYN_CAM_37"
+    ],
+    "first_seen": "2026-10-10T09:59:09.000",
+    "last_seen": "2026-10-10T10:13:56.000",
+    "synthetic": true
+  },
+  {
+    "plate_text": "TS09S4639",
+    "journey_id": "SYN_JNY_0143",
+    "vehicle_type": "car",
+    "camera_sequence": [
+      "SYN_CAM_12",
+      "SYN_CAM_14",
+      "SYN_CAM_16",
+      "SYN_CAM_18",
+      "SYN_CAM_22",
+      "SYN_CAM_24",
+      "SYN_CAM_26",
+      "SYN_CAM_28"
+    ],
+    "first_seen": "2026-10-10T08:26:08.000",
+    "last_seen": "2026-10-10T08:51:27.000",
+    "synthetic": true
+  },
+  {
+    "plate_text": "TS09D9221",
+    "journey_id": "SYN_JNY_0144",
+    "vehicle_type": "van",
+    "camera_sequence": [
+      "SYN_CAM_08",
+      "SYN_CAM_09",
+      "SYN_CAM_10",
+      "SYN_CAM_13",
+      "SYN_CAM_14",
+      "SYN_CAM_15",
+      "SYN_CAM_17"
+    ],
+    "first_seen": "2026-10-10T09:22:54.000",
+    "last_seen": "2026-10-10T09:58:23.000",
+    "synthetic": true
+  },
+  {
+    "plate_text": "TS09A2968",
+    "journey_id": "SYN_JNY_0145",
+    "vehicle_type": "car",
+    "camera_sequence": [
+      "SYN_CAM_06",
+      "SYN_CAM_08",
+      "SYN_CAM_12"
+    ],
+    "first_seen": "2026-10-10T08:23:41.000",
+    "last_seen": "2026-10-10T08:33:36.000",
+    "synthetic": true
+  },
+  {
+    "plate_text": "TS09A9154",
+    "journey_id": "SYN_JNY_0146",
+    "vehicle_type": "car",
+    "camera_sequence": [
+      "SYN_CAM_08",
+      "SYN_CAM_11",
+      "SYN_CAM_12",
+      "SYN_CAM_13"
+    ],
+    "first_seen": "2026-10-10T10:06:08.000",
+    "last_seen": "2026-10-10T10:19:37.000",
+    "synthetic": true
+  },
+  {
+    "plate_text": "TS09M5468",
+    "journey_id": "SYN_JNY_0147",
+    "vehicle_type": "car",
+    "camera_sequence": [
+      "SYN_CAM_23",
+      "SYN_CAM_24",
+      "SYN_CAM_26",
+      "SYN_CAM_29",
+      "SYN_CAM_30",
+      "SYN_CAM_31"
+    ],
+    "first_seen": "2026-10-10T10:06:43.000",
+    "last_seen": "2026-10-10T10:30:01.000",
+    "synthetic": true
+  },
+  {
+    "plate_text": "TS09W7999",
+    "journey_id": "SYN_JNY_0148",
+    "vehicle_type": "motorcycle",
+    "camera_sequence": [
+      "SYN_CAM_22",
+      "SYN_CAM_25",
+      "SYN_CAM_26",
+      "SYN_CAM_28",
+      "SYN_CAM_29",
+      "SYN_CAM_30",
+      "SYN_CAM_31"
+    ],
+    "first_seen": "2026-10-10T09:25:16.000",
+    "last_seen": "2026-10-10T09:56:27.000",
+    "synthetic": true
+  },
+  {
+    "plate_text": "TS09X1211",
+    "journey_id": "SYN_JNY_0149",
+    "vehicle_type": "motorcycle",
+    "camera_sequence": [
+      "SYN_CAM_01",
+      "SYN_CAM_02",
+      "SYN_CAM_03",
+      "SYN_CAM_04"
+    ],
+    "first_seen": "2026-10-10T09:10:28.000",
+    "last_seen": "2026-10-10T09:23:54.000",
+    "synthetic": true
+  },
+  {
+    "plate_text": "TS09G7551",
+    "journey_id": "SYN_JNY_0150",
+    "vehicle_type": "car",
+    "camera_sequence": [
+      "SYN_CAM_34",
+      "SYN_CAM_37",
+      "SYN_CAM_38",
+      "SYN_CAM_42",
+      "SYN_CAM_46",
+      "SYN_CAM_46",
+      "SYN_CAM_46"
+    ],
+    "first_seen": "2026-10-10T08:07:03.000",
+    "last_seen": "2026-10-10T08:36:42.000",
+    "synthetic": true
+  }
+]

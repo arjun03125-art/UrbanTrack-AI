@@ -1,0 +1,35 @@
+[
+  {
+    "alert_id": "SYN_ALERT_001",
+    "timestamp": "2026-10-10T08:25:00",
+    "type": "congestion_bottleneck",
+    "severity": "high",
+    "camera_id": "SYN_CAM_08",
+    "title": "Central Junction congestion",
+    "description": "Synthetic scenario: high density and low average speed persisted over multiple windows.",
+    "recommended_action": "Review signal timing and assess alternate route capacity.",
+    "synthetic": true
+  },
+  {
+    "alert_id": "SYN_ALERT_002",
+    "timestamp": "2026-10-10T08:40:00",
+    "type": "uncertain_identity_link",
+    "severity": "medium",
+    "camera_id": "SYN_CAM_16",
+    "title": "Identity link requires review",
+    "description": "Timing/topology support a candidate link but identity evidence is incomplete.",
+    "recommended_action": "Keep association ambiguous until corroborating evidence is available.",
+    "synthetic": true
+  },
+  {
+    "alert_id": "SYN_ALERT_003",
+    "timestamp": "2026-10-10T08:50:00",
+    "type": "camera_quality_degradation",
+    "severity": "medium",
+    "camera_id": "SYN_CAM_29",
+    "title": "Camera quality reduced",
+    "description": "Synthetic stream has lower nominal frame rate and reduced reliability.",
+    "recommended_action": "Inspect stream health and account for sampling-rate differences.",
+    "synthetic": true
+  }
+]

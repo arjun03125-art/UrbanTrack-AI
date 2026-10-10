@@ -1,0 +1,549 @@
+{
+  "scenario_id": "SYNTH_URBANTRACK_46CAM",
+  "nodes": [
+    "SYN_CAM_01",
+    "SYN_CAM_02",
+    "SYN_CAM_03",
+    "SYN_CAM_04",
+    "SYN_CAM_05",
+    "SYN_CAM_06",
+    "SYN_CAM_07",
+    "SYN_CAM_08",
+    "SYN_CAM_09",
+    "SYN_CAM_10",
+    "SYN_CAM_11",
+    "SYN_CAM_12",
+    "SYN_CAM_13",
+    "SYN_CAM_14",
+    "SYN_CAM_15",
+    "SYN_CAM_16",
+    "SYN_CAM_17",
+    "SYN_CAM_18",
+    "SYN_CAM_19",
+    "SYN_CAM_20",
+    "SYN_CAM_21",
+    "SYN_CAM_22",
+    "SYN_CAM_23",
+    "SYN_CAM_24",
+    "SYN_CAM_25",
+    "SYN_CAM_26",
+    "SYN_CAM_27",
+    "SYN_CAM_28",
+    "SYN_CAM_29",
+    "SYN_CAM_30",
+    "SYN_CAM_31",
+    "SYN_CAM_32",
+    "SYN_CAM_33",
+    "SYN_CAM_34",
+    "SYN_CAM_35",
+    "SYN_CAM_36",
+    "SYN_CAM_37",
+    "SYN_CAM_38",
+    "SYN_CAM_39",
+    "SYN_CAM_40",
+    "SYN_CAM_41",
+    "SYN_CAM_42",
+    "SYN_CAM_43",
+    "SYN_CAM_44",
+    "SYN_CAM_45",
+    "SYN_CAM_46"
+  ],
+  "edges": [
+    {
+      "source": "SYN_CAM_01",
+      "target": "SYN_CAM_02",
+      "relationship": "possible_transition",
+      "prior_score": 0.685,
+      "estimated_travel_time_min": 2.9,
+      "prior_semantics": "illustrative_soft_prior_not_probability",
+      "synthetic": true
+    },
+    {
+      "source": "SYN_CAM_02",
+      "target": "SYN_CAM_03",
+      "relationship": "possible_transition",
+      "prior_score": 0.682,
+      "estimated_travel_time_min": 2.2,
+      "prior_semantics": "illustrative_soft_prior_not_probability",
+      "synthetic": true
+    },
+    {
+      "source": "SYN_CAM_03",
+      "target": "SYN_CAM_04",
+      "relationship": "possible_transition",
+      "prior_score": 0.766,
+      "estimated_travel_time_min": 1.7,
+      "prior_semantics": "illustrative_soft_prior_not_probability",
+      "synthetic": true
+    },
+    {
+      "source": "SYN_CAM_04",
+      "target": "SYN_CAM_05",
+      "relationship": "possible_transition",
+      "prior_score": 0.871,
+      "estimated_travel_time_min": 4.0,
+      "prior_semantics": "illustrative_soft_prior_not_probability",
+      "synthetic": true
+    },
+    {
+      "source": "SYN_CAM_05",
+      "target": "SYN_CAM_06",
+      "relationship": "possible_transition",
+      "prior_score": 0.934,
+      "estimated_travel_time_min": 2.1,
+      "prior_semantics": "illustrative_soft_prior_not_probability",
+      "synthetic": true
+    },
+    {
+      "source": "SYN_CAM_06",
+      "target": "SYN_CAM_07",
+      "relationship": "possible_transition",
+      "prior_score": 0.694,
+      "estimated_travel_time_min": 2.5,
+      "prior_semantics": "illustrative_soft_prior_not_probability",
+      "synthetic": true
+    },
+    {
+      "source": "SYN_CAM_07",
+      "target": "SYN_CAM_08",
+      "relationship": "possible_transition",
+      "prior_score": 0.802,
+      "estimated_travel_time_min": 3.5,
+      "prior_semantics": "illustrative_soft_prior_not_probability",
+      "synthetic": true
+    },
+    {
+      "source": "SYN_CAM_08",
+      "target": "SYN_CAM_09",
+      "relationship": "possible_transition",
+      "prior_score": 0.768,
+      "estimated_travel_time_min": 2.0,
+      "prior_semantics": "illustrative_soft_prior_not_probability",
+      "synthetic": true
+    },
+    {
+      "source": "SYN_CAM_09",
+      "target": "SYN_CAM_10",
+      "relationship": "possible_transition",
+      "prior_score": 0.723,
+      "estimated_travel_time_min": 4.0,
+      "prior_semantics": "illustrative_soft_prior_not_probability",
+      "synthetic": true
+    },
+    {
+      "source": "SYN_CAM_10",
+      "target": "SYN_CAM_11",
+      "relationship": "possible_transition",
+      "prior_score": 0.902,
+      "estimated_travel_time_min": 3.5,
+      "prior_semantics": "illustrative_soft_prior_not_probability",
+      "synthetic": true
+    },
+    {
+      "source": "SYN_CAM_11",
+      "target": "SYN_CAM_12",
+      "relationship": "possible_transition",
+      "prior_score": 0.817,
+      "estimated_travel_time_min": 4.1,
+      "prior_semantics": "illustrative_soft_prior_not_probability",
+      "synthetic": true
+    },
+    {
+      "source": "SYN_CAM_12",
+      "target": "SYN_CAM_13",
+      "relationship": "possible_transition",
+      "prior_score": 0.828,
+      "estimated_travel_time_min": 4.7,
+      "prior_semantics": "illustrative_soft_prior_not_probability",
+      "synthetic": true
+    },
+    {
+      "source": "SYN_CAM_13",
+      "target": "SYN_CAM_14",
+      "relationship": "possible_transition",
+      "prior_score": 0.846,
+      "estimated_travel_time_min": 5.7,
+      "prior_semantics": "illustrative_soft_prior_not_probability",
+      "synthetic": true
+    },
+    {
+      "source": "SYN_CAM_14",
+      "target": "SYN_CAM_15",
+      "relationship": "possible_transition",
+      "prior_score": 0.722,
+      "estimated_travel_time_min": 2.7,
+      "prior_semantics": "illustrative_soft_prior_not_probability",
+      "synthetic": true
+    },
+    {
+      "source": "SYN_CAM_15",
+      "target": "SYN_CAM_16",
+      "relationship": "possible_transition",
+      "prior_score": 0.935,
+      "estimated_travel_time_min": 3.2,
+      "prior_semantics": "illustrative_soft_prior_not_probability",
+      "synthetic": true
+    },
+    {
+      "source": "SYN_CAM_16",
+      "target": "SYN_CAM_17",
+      "relationship": "possible_transition",
+      "prior_score": 0.88,
+      "estimated_travel_time_min": 4.1,
+      "prior_semantics": "illustrative_soft_prior_not_probability",
+      "synthetic": true
+    },
+    {
+      "source": "SYN_CAM_17",
+      "target": "SYN_CAM_18",
+      "relationship": "possible_transition",
+      "prior_score": 0.855,
+      "estimated_travel_time_min": 2.2,
+      "prior_semantics": "illustrative_soft_prior_not_probability",
+      "synthetic": true
+    },
+    {
+      "source": "SYN_CAM_18",
+      "target": "SYN_CAM_19",
+      "relationship": "possible_transition",
+      "prior_score": 0.902,
+      "estimated_travel_time_min": 4.4,
+      "prior_semantics": "illustrative_soft_prior_not_probability",
+      "synthetic": true
+    },
+    {
+      "source": "SYN_CAM_19",
+      "target": "SYN_CAM_20",
+      "relationship": "possible_transition",
+      "prior_score": 0.712,
+      "estimated_travel_time_min": 4.5,
+      "prior_semantics": "illustrative_soft_prior_not_probability",
+      "synthetic": true
+    },
+    {
+      "source": "SYN_CAM_20",
+      "target": "SYN_CAM_21",
+      "relationship": "possible_transition",
+      "prior_score": 0.88,
+      "estimated_travel_time_min": 1.6,
+      "prior_semantics": "illustrative_soft_prior_not_probability",
+      "synthetic": true
+    },
+    {
+      "source": "SYN_CAM_21",
+      "target": "SYN_CAM_22",
+      "relationship": "possible_transition",
+      "prior_score": 0.81,
+      "estimated_travel_time_min": 4.5,
+      "prior_semantics": "illustrative_soft_prior_not_probability",
+      "synthetic": true
+    },
+    {
+      "source": "SYN_CAM_22",
+      "target": "SYN_CAM_23",
+      "relationship": "possible_transition",
+      "prior_score": 0.854,
+      "estimated_travel_time_min": 5.8,
+      "prior_semantics": "illustrative_soft_prior_not_probability",
+      "synthetic": true
+    },
+    {
+      "source": "SYN_CAM_23",
+      "target": "SYN_CAM_24",
+      "relationship": "possible_transition",
+      "prior_score": 0.821,
+      "estimated_travel_time_min": 5.8,
+      "prior_semantics": "illustrative_soft_prior_not_probability",
+      "synthetic": true
+    },
+    {
+      "source": "SYN_CAM_24",
+      "target": "SYN_CAM_25",
+      "relationship": "possible_transition",
+      "prior_score": 0.887,
+      "estimated_travel_time_min": 4.5,
+      "prior_semantics": "illustrative_soft_prior_not_probability",
+      "synthetic": true
+    },
+    {
+      "source": "SYN_CAM_25",
+      "target": "SYN_CAM_26",
+      "relationship": "possible_transition",
+      "prior_score": 0.91,
+      "estimated_travel_time_min": 5.2,
+      "prior_semantics": "illustrative_soft_prior_not_probability",
+      "synthetic": true
+    },
+    {
+      "source": "SYN_CAM_26",
+      "target": "SYN_CAM_27",
+      "relationship": "possible_transition",
+      "prior_score": 0.688,
+      "estimated_travel_time_min": 4.6,
+      "prior_semantics": "illustrative_soft_prior_not_probability",
+      "synthetic": true
+    },
+    {
+      "source": "SYN_CAM_27",
+      "target": "SYN_CAM_28",
+      "relationship": "possible_transition",
+      "prior_score": 0.853,
+      "estimated_travel_time_min": 5.5,
+      "prior_semantics": "illustrative_soft_prior_not_probability",
+      "synthetic": true
+    },
+    {
+      "source": "SYN_CAM_28",
+      "target": "SYN_CAM_29",
+      "relationship": "possible_transition",
+      "prior_score": 0.869,
+      "estimated_travel_time_min": 3.4,
+      "prior_semantics": "illustrative_soft_prior_not_probability",
+      "synthetic": true
+    },
+    {
+      "source": "SYN_CAM_29",
+      "target": "SYN_CAM_30",
+      "relationship": "possible_transition",
+      "prior_score": 0.939,
+      "estimated_travel_time_min": 5.5,
+      "prior_semantics": "illustrative_soft_prior_not_probability",
+      "synthetic": true
+    },
+    {
+      "source": "SYN_CAM_30",
+      "target": "SYN_CAM_31",
+      "relationship": "possible_transition",
+      "prior_score": 0.851,
+      "estimated_travel_time_min": 5.1,
+      "prior_semantics": "illustrative_soft_prior_not_probability",
+      "synthetic": true
+    },
+    {
+      "source": "SYN_CAM_31",
+      "target": "SYN_CAM_32",
+      "relationship": "possible_transition",
+      "prior_score": 0.915,
+      "estimated_travel_time_min": 4.2,
+      "prior_semantics": "illustrative_soft_prior_not_probability",
+      "synthetic": true
+    },
+    {
+      "source": "SYN_CAM_32",
+      "target": "SYN_CAM_33",
+      "relationship": "possible_transition",
+      "prior_score": 0.824,
+      "estimated_travel_time_min": 4.4,
+      "prior_semantics": "illustrative_soft_prior_not_probability",
+      "synthetic": true
+    },
+    {
+      "source": "SYN_CAM_33",
+      "target": "SYN_CAM_34",
+      "relationship": "possible_transition",
+      "prior_score": 0.728,
+      "estimated_travel_time_min": 4.9,
+      "prior_semantics": "illustrative_soft_prior_not_probability",
+      "synthetic": true
+    },
+    {
+      "source": "SYN_CAM_34",
+      "target": "SYN_CAM_35",
+      "relationship": "possible_transition",
+      "prior_score": 0.869,
+      "estimated_travel_time_min": 5.6,
+      "prior_semantics": "illustrative_soft_prior_not_probability",
+      "synthetic": true
+    },
+    {
+      "source": "SYN_CAM_35",
+      "target": "SYN_CAM_36",
+      "relationship": "possible_transition",
+      "prior_score": 0.849,
+      "estimated_travel_time_min": 3.5,
+      "prior_semantics": "illustrative_soft_prior_not_probability",
+      "synthetic": true
+    },
+    {
+      "source": "SYN_CAM_36",
+      "target": "SYN_CAM_37",
+      "relationship": "possible_transition",
+      "prior_score": 0.784,
+      "estimated_travel_time_min": 3.6,
+      "prior_semantics": "illustrative_soft_prior_not_probability",
+      "synthetic": true
+    },
+    {
+      "source": "SYN_CAM_37",
+      "target": "SYN_CAM_38",
+      "relationship": "possible_transition",
+      "prior_score": 0.866,
+      "estimated_travel_time_min": 4.7,
+      "prior_semantics": "illustrative_soft_prior_not_probability",
+      "synthetic": true
+    },
+    {
+      "source": "SYN_CAM_38",
+      "target": "SYN_CAM_39",
+      "relationship": "possible_transition",
+      "prior_score": 0.807,
+      "estimated_travel_time_min": 4.3,
+      "prior_semantics": "illustrative_soft_prior_not_probability",
+      "synthetic": true
+    },
+    {
+      "source": "SYN_CAM_39",
+      "target": "SYN_CAM_40",
+      "relationship": "possible_transition",
+      "prior_score": 0.859,
+      "estimated_travel_time_min": 2.7,
+      "prior_semantics": "illustrative_soft_prior_not_probability",
+      "synthetic": true
+    },
+    {
+      "source": "SYN_CAM_40",
+      "target": "SYN_CAM_41",
+      "relationship": "possible_transition",
+      "prior_score": 0.776,
+      "estimated_travel_time_min": 2.8,
+      "prior_semantics": "illustrative_soft_prior_not_probability",
+      "synthetic": true
+    },
+    {
+      "source": "SYN_CAM_41",
+      "target": "SYN_CAM_42",
+      "relationship": "possible_transition",
+      "prior_score": 0.836,
+      "estimated_travel_time_min": 5.5,
+      "prior_semantics": "illustrative_soft_prior_not_probability",
+      "synthetic": true
+    },
+    {
+      "source": "SYN_CAM_42",
+      "target": "SYN_CAM_43",
+      "relationship": "possible_transition",
+      "prior_score": 0.845,
+      "estimated_travel_time_min": 1.8,
+      "prior_semantics": "illustrative_soft_prior_not_probability",
+      "synthetic": true
+    },
+    {
+      "source": "SYN_CAM_43",
+      "target": "SYN_CAM_44",
+      "relationship": "possible_transition",
+      "prior_score": 0.834,
+      "estimated_travel_time_min": 5.6,
+      "prior_semantics": "illustrative_soft_prior_not_probability",
+      "synthetic": true
+    },
+    {
+      "source": "SYN_CAM_44",
+      "target": "SYN_CAM_45",
+      "relationship": "possible_transition",
+      "prior_score": 0.837,
+      "estimated_travel_time_min": 5.4,
+      "prior_semantics": "illustrative_soft_prior_not_probability",
+      "synthetic": true
+    },
+    {
+      "source": "SYN_CAM_45",
+      "target": "SYN_CAM_46",
+      "relationship": "possible_transition",
+      "prior_score": 0.803,
+      "estimated_travel_time_min": 4.7,
+      "prior_semantics": "illustrative_soft_prior_not_probability",
+      "synthetic": true
+    },
+    {
+      "source": "SYN_CAM_04",
+      "target": "SYN_CAM_11",
+      "relationship": "possible_transition",
+      "prior_score": 0.67,
+      "estimated_travel_time_min": 2.4,
+      "prior_semantics": "illustrative_soft_prior_not_probability",
+      "synthetic": true
+    },
+    {
+      "source": "SYN_CAM_08",
+      "target": "SYN_CAM_16",
+      "relationship": "possible_transition",
+      "prior_score": 0.737,
+      "estimated_travel_time_min": 5.6,
+      "prior_semantics": "illustrative_soft_prior_not_probability",
+      "synthetic": true
+    },
+    {
+      "source": "SYN_CAM_13",
+      "target": "SYN_CAM_20",
+      "relationship": "possible_transition",
+      "prior_score": 0.84,
+      "estimated_travel_time_min": 2.0,
+      "prior_semantics": "illustrative_soft_prior_not_probability",
+      "synthetic": true
+    },
+    {
+      "source": "SYN_CAM_18",
+      "target": "SYN_CAM_26",
+      "relationship": "possible_transition",
+      "prior_score": 0.812,
+      "estimated_travel_time_min": 8.6,
+      "prior_semantics": "illustrative_soft_prior_not_probability",
+      "synthetic": true
+    },
+    {
+      "source": "SYN_CAM_24",
+      "target": "SYN_CAM_31",
+      "relationship": "possible_transition",
+      "prior_score": 0.822,
+      "estimated_travel_time_min": 9.0,
+      "prior_semantics": "illustrative_soft_prior_not_probability",
+      "synthetic": true
+    },
+    {
+      "source": "SYN_CAM_29",
+      "target": "SYN_CAM_37",
+      "relationship": "possible_transition",
+      "prior_score": 0.787,
+      "estimated_travel_time_min": 5.4,
+      "prior_semantics": "illustrative_soft_prior_not_probability",
+      "synthetic": true
+    },
+    {
+      "source": "SYN_CAM_35",
+      "target": "SYN_CAM_43",
+      "relationship": "possible_transition",
+      "prior_score": 0.877,
+      "estimated_travel_time_min": 8.5,
+      "prior_semantics": "illustrative_soft_prior_not_probability",
+      "synthetic": true
+    },
+    {
+      "source": "SYN_CAM_06",
+      "target": "SYN_CAM_25",
+      "relationship": "possible_transition",
+      "prior_score": 0.821,
+      "estimated_travel_time_min": 6.4,
+      "prior_semantics": "illustrative_soft_prior_not_probability",
+      "synthetic": true
+    },
+    {
+      "source": "SYN_CAM_15",
+      "target": "SYN_CAM_33",
+      "relationship": "possible_transition",
+      "prior_score": 0.664,
+      "estimated_travel_time_min": 6.0,
+      "prior_semantics": "illustrative_soft_prior_not_probability",
+      "synthetic": true
+    },
+    {
+      "source": "SYN_CAM_38",
+      "target": "SYN_CAM_44",
+      "relationship": "possible_transition",
+      "prior_score": 0.722,
+      "estimated_travel_time_min": 5.6,
+      "prior_semantics": "illustrative_soft_prior_not_probability",
+      "synthetic": true
+    }
+  ],
+  "synthetic": true
+}
